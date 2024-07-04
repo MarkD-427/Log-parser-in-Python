@@ -1,0 +1,813 @@
+Jun  4 06:44:38 blg-openfire CRON[27301]: pam_unix(cron:session): session closed for user root
+Jun  4 06:47:02 blg-openfire CRON[27614]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 06:47:08 blg-openfire CRON[27614]: pam_unix(cron:session): session closed for user root
+Jun  4 07:09:01 blg-openfire CRON[27712]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 07:09:01 blg-openfire CRON[27712]: pam_unix(cron:session): session closed for user root
+Jun  4 07:17:01 blg-openfire CRON[27748]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 07:17:01 blg-openfire CRON[27748]: pam_unix(cron:session): session closed for user root
+Jun  4 07:39:01 blg-openfire CRON[27835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 07:39:01 blg-openfire CRON[27835]: pam_unix(cron:session): session closed for user root
+Jun  4 08:09:01 blg-openfire CRON[27957]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 08:09:01 blg-openfire CRON[27957]: pam_unix(cron:session): session closed for user root
+Jun  4 08:17:01 blg-openfire CRON[27994]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 08:17:01 blg-openfire CRON[27994]: pam_unix(cron:session): session closed for user root
+Jun  4 08:39:01 blg-openfire CRON[28092]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 08:39:01 blg-openfire CRON[28092]: pam_unix(cron:session): session closed for user root
+Jun  4 09:09:01 blg-openfire CRON[28219]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 09:09:01 blg-openfire CRON[28219]: pam_unix(cron:session): session closed for user root
+Jun  4 09:17:01 blg-openfire CRON[28261]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 09:17:01 blg-openfire CRON[28261]: pam_unix(cron:session): session closed for user root
+Jun  4 09:39:01 blg-openfire CRON[28356]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 09:39:01 blg-openfire CRON[28356]: pam_unix(cron:session): session closed for user root
+Jun  4 10:09:01 blg-openfire CRON[28481]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 10:09:01 blg-openfire CRON[28481]: pam_unix(cron:session): session closed for user root
+Jun  4 10:17:01 blg-openfire CRON[28518]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 10:17:01 blg-openfire CRON[28518]: pam_unix(cron:session): session closed for user root
+Jun  4 10:39:01 blg-openfire CRON[28611]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 10:39:01 blg-openfire CRON[28611]: pam_unix(cron:session): session closed for user root
+Jun  4 11:09:01 blg-openfire CRON[28732]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 11:09:01 blg-openfire CRON[28732]: pam_unix(cron:session): session closed for user root
+Jun  4 11:17:01 blg-openfire CRON[28769]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 11:17:01 blg-openfire CRON[28769]: pam_unix(cron:session): session closed for user root
+Jun  4 11:39:01 blg-openfire CRON[28854]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 11:39:01 blg-openfire CRON[28854]: pam_unix(cron:session): session closed for user root
+Jun  4 12:09:01 blg-openfire CRON[28975]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 12:09:01 blg-openfire CRON[28975]: pam_unix(cron:session): session closed for user root
+Jun  4 12:17:01 blg-openfire CRON[29014]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 12:17:01 blg-openfire CRON[29014]: pam_unix(cron:session): session closed for user root
+Jun  4 12:39:01 blg-openfire CRON[29103]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 12:39:01 blg-openfire CRON[29103]: pam_unix(cron:session): session closed for user root
+Jun  4 13:09:01 blg-openfire CRON[29226]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 13:09:01 blg-openfire CRON[29226]: pam_unix(cron:session): session closed for user root
+Jun  4 13:17:01 blg-openfire CRON[29263]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 13:17:01 blg-openfire CRON[29263]: pam_unix(cron:session): session closed for user root
+Jun  4 13:39:01 blg-openfire CRON[29350]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 13:39:01 blg-openfire CRON[29350]: pam_unix(cron:session): session closed for user root
+Jun  4 14:09:01 blg-openfire CRON[29474]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 14:09:01 blg-openfire CRON[29474]: pam_unix(cron:session): session closed for user root
+Jun  4 14:17:01 blg-openfire CRON[29513]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 14:17:01 blg-openfire CRON[29513]: pam_unix(cron:session): session closed for user root
+Jun  4 14:39:01 blg-openfire CRON[29598]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 14:39:01 blg-openfire CRON[29598]: pam_unix(cron:session): session closed for user root
+Jun  4 15:09:01 blg-openfire CRON[29723]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 15:09:01 blg-openfire CRON[29723]: pam_unix(cron:session): session closed for user root
+Jun  4 15:17:01 blg-openfire CRON[29762]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 15:17:01 blg-openfire CRON[29762]: pam_unix(cron:session): session closed for user root
+Jun  4 15:39:01 blg-openfire CRON[29845]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 15:39:01 blg-openfire CRON[29845]: pam_unix(cron:session): session closed for user root
+Jun  4 16:09:01 blg-openfire CRON[29968]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 16:09:01 blg-openfire CRON[29968]: pam_unix(cron:session): session closed for user root
+Jun  4 16:17:01 blg-openfire CRON[30007]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 16:17:01 blg-openfire CRON[30007]: pam_unix(cron:session): session closed for user root
+Jun  4 16:39:01 blg-openfire CRON[30094]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 16:39:01 blg-openfire CRON[30094]: pam_unix(cron:session): session closed for user root
+Jun  4 17:09:01 blg-openfire CRON[30216]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 17:09:02 blg-openfire CRON[30216]: pam_unix(cron:session): session closed for user root
+Jun  4 17:17:01 blg-openfire CRON[30254]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 17:17:01 blg-openfire CRON[30254]: pam_unix(cron:session): session closed for user root
+Jun  4 17:39:01 blg-openfire CRON[30341]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 17:39:01 blg-openfire CRON[30341]: pam_unix(cron:session): session closed for user root
+Jun  4 18:09:01 blg-openfire CRON[30460]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 18:09:01 blg-openfire CRON[30460]: pam_unix(cron:session): session closed for user root
+Jun  4 18:17:01 blg-openfire CRON[30499]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 18:17:01 blg-openfire CRON[30499]: pam_unix(cron:session): session closed for user root
+Jun  4 18:39:01 blg-openfire CRON[30586]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 18:39:01 blg-openfire CRON[30586]: pam_unix(cron:session): session closed for user root
+Jun  4 19:09:01 blg-openfire CRON[30712]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 19:09:01 blg-openfire CRON[30712]: pam_unix(cron:session): session closed for user root
+Jun  4 19:17:01 blg-openfire CRON[30753]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 19:17:01 blg-openfire CRON[30753]: pam_unix(cron:session): session closed for user root
+Jun  4 19:39:01 blg-openfire CRON[30841]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 19:39:01 blg-openfire CRON[30841]: pam_unix(cron:session): session closed for user root
+Jun  4 20:09:01 blg-openfire CRON[30964]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 20:09:01 blg-openfire CRON[30964]: pam_unix(cron:session): session closed for user root
+Jun  4 20:17:01 blg-openfire CRON[30999]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 20:17:01 blg-openfire CRON[30999]: pam_unix(cron:session): session closed for user root
+Jun  4 20:39:01 blg-openfire CRON[31085]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 20:39:01 blg-openfire CRON[31085]: pam_unix(cron:session): session closed for user root
+Jun  4 21:09:01 blg-openfire CRON[31205]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 21:09:01 blg-openfire CRON[31205]: pam_unix(cron:session): session closed for user root
+Jun  4 21:17:01 blg-openfire CRON[31242]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 21:17:01 blg-openfire CRON[31242]: pam_unix(cron:session): session closed for user root
+Jun  4 21:39:01 blg-openfire CRON[31327]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 21:39:01 blg-openfire CRON[31327]: pam_unix(cron:session): session closed for user root
+Jun  4 22:09:01 blg-openfire CRON[31446]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 22:09:01 blg-openfire CRON[31446]: pam_unix(cron:session): session closed for user root
+Jun  4 22:17:01 blg-openfire CRON[31482]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 22:17:01 blg-openfire CRON[31482]: pam_unix(cron:session): session closed for user root
+Jun  4 22:39:01 blg-openfire CRON[31569]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 22:39:01 blg-openfire CRON[31569]: pam_unix(cron:session): session closed for user root
+Jun  4 23:09:01 blg-openfire CRON[31689]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 23:09:01 blg-openfire CRON[31689]: pam_unix(cron:session): session closed for user root
+Jun  4 23:17:01 blg-openfire CRON[31726]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 23:17:01 blg-openfire CRON[31726]: pam_unix(cron:session): session closed for user root
+Jun  4 23:39:01 blg-openfire CRON[31809]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  4 23:39:01 blg-openfire CRON[31809]: pam_unix(cron:session): session closed for user root
+Jun  5 00:09:01 blg-openfire CRON[31929]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 00:09:01 blg-openfire CRON[31929]: pam_unix(cron:session): session closed for user root
+Jun  5 00:17:01 blg-openfire CRON[31966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 00:17:01 blg-openfire CRON[31966]: pam_unix(cron:session): session closed for user root
+Jun  5 00:39:01 blg-openfire CRON[32054]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 00:39:01 blg-openfire CRON[32054]: pam_unix(cron:session): session closed for user root
+Jun  5 01:09:01 blg-openfire CRON[32174]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 01:09:01 blg-openfire CRON[32174]: pam_unix(cron:session): session closed for user root
+Jun  5 01:17:01 blg-openfire CRON[32211]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 01:17:01 blg-openfire CRON[32211]: pam_unix(cron:session): session closed for user root
+Jun  5 01:39:01 blg-openfire CRON[32297]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 01:39:01 blg-openfire CRON[32297]: pam_unix(cron:session): session closed for user root
+Jun  5 02:09:01 blg-openfire CRON[32415]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 02:09:01 blg-openfire CRON[32415]: pam_unix(cron:session): session closed for user root
+Jun  5 02:17:01 blg-openfire CRON[32454]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 02:17:01 blg-openfire CRON[32454]: pam_unix(cron:session): session closed for user root
+Jun  5 02:39:02 blg-openfire CRON[32540]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 02:39:02 blg-openfire CRON[32540]: pam_unix(cron:session): session closed for user root
+Jun  5 03:09:01 blg-openfire CRON[32661]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 03:09:01 blg-openfire CRON[32661]: pam_unix(cron:session): session closed for user root
+Jun  5 03:17:01 blg-openfire CRON[32697]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 03:17:01 blg-openfire CRON[32697]: pam_unix(cron:session): session closed for user root
+Jun  5 03:39:01 blg-openfire CRON[315]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 03:39:01 blg-openfire CRON[315]: pam_unix(cron:session): session closed for user root
+Jun  5 04:09:01 blg-openfire CRON[440]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 04:09:01 blg-openfire CRON[440]: pam_unix(cron:session): session closed for user root
+Jun  5 04:17:01 blg-openfire CRON[478]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 04:17:01 blg-openfire CRON[478]: pam_unix(cron:session): session closed for user root
+Jun  5 04:39:01 blg-openfire CRON[566]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 04:39:01 blg-openfire CRON[566]: pam_unix(cron:session): session closed for user root
+Jun  5 05:09:01 blg-openfire CRON[697]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 05:09:01 blg-openfire CRON[697]: pam_unix(cron:session): session closed for user root
+Jun  5 05:17:01 blg-openfire CRON[735]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 05:17:01 blg-openfire CRON[735]: pam_unix(cron:session): session closed for user root
+Jun  5 05:39:01 blg-openfire CRON[829]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 05:39:02 blg-openfire CRON[829]: pam_unix(cron:session): session closed for user root
+Jun  5 06:09:01 blg-openfire CRON[971]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 06:09:01 blg-openfire CRON[971]: pam_unix(cron:session): session closed for user root
+Jun  5 06:17:01 blg-openfire CRON[1018]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 06:17:01 blg-openfire CRON[1018]: pam_unix(cron:session): session closed for user root
+Jun  5 06:25:01 blg-openfire CRON[1051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 06:39:01 blg-openfire CRON[1145]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 06:39:01 blg-openfire CRON[1145]: pam_unix(cron:session): session closed for user root
+Jun  5 06:42:58 blg-openfire CRON[1051]: pam_unix(cron:session): session closed for user root
+Jun  5 07:09:01 blg-openfire CRON[1491]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 07:09:02 blg-openfire CRON[1491]: pam_unix(cron:session): session closed for user root
+Jun  5 07:17:01 blg-openfire CRON[1529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 07:17:01 blg-openfire CRON[1529]: pam_unix(cron:session): session closed for user root
+Jun  5 07:39:01 blg-openfire CRON[1614]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 07:39:01 blg-openfire CRON[1614]: pam_unix(cron:session): session closed for user root
+Jun  5 08:09:01 blg-openfire CRON[1749]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 08:09:01 blg-openfire CRON[1749]: pam_unix(cron:session): session closed for user root
+Jun  5 08:17:01 blg-openfire CRON[1788]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 08:17:01 blg-openfire CRON[1788]: pam_unix(cron:session): session closed for user root
+Jun  5 08:39:01 blg-openfire CRON[1899]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 08:39:01 blg-openfire CRON[1899]: pam_unix(cron:session): session closed for user root
+Jun  5 09:09:01 blg-openfire CRON[2046]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 09:09:01 blg-openfire CRON[2046]: pam_unix(cron:session): session closed for user root
+Jun  5 09:17:01 blg-openfire CRON[2094]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 09:17:01 blg-openfire CRON[2094]: pam_unix(cron:session): session closed for user root
+Jun  5 09:39:01 blg-openfire CRON[2184]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 09:39:01 blg-openfire CRON[2184]: pam_unix(cron:session): session closed for user root
+Jun  5 10:09:01 blg-openfire CRON[2304]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 10:09:01 blg-openfire CRON[2304]: pam_unix(cron:session): session closed for user root
+Jun  5 10:17:01 blg-openfire CRON[2340]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 10:17:01 blg-openfire CRON[2340]: pam_unix(cron:session): session closed for user root
+Jun  5 10:39:01 blg-openfire CRON[2428]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 10:39:01 blg-openfire CRON[2428]: pam_unix(cron:session): session closed for user root
+Jun  5 11:09:01 blg-openfire CRON[2552]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 11:09:01 blg-openfire CRON[2552]: pam_unix(cron:session): session closed for user root
+Jun  5 11:17:01 blg-openfire CRON[2590]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 11:17:01 blg-openfire CRON[2590]: pam_unix(cron:session): session closed for user root
+Jun  5 11:39:01 blg-openfire CRON[2675]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 11:39:01 blg-openfire CRON[2675]: pam_unix(cron:session): session closed for user root
+Jun  5 12:09:01 blg-openfire CRON[2796]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 12:09:01 blg-openfire CRON[2796]: pam_unix(cron:session): session closed for user root
+Jun  5 12:17:01 blg-openfire CRON[2835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 12:17:01 blg-openfire CRON[2835]: pam_unix(cron:session): session closed for user root
+Jun  5 12:39:01 blg-openfire CRON[2924]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 12:39:01 blg-openfire CRON[2924]: pam_unix(cron:session): session closed for user root
+Jun  5 13:09:01 blg-openfire CRON[3052]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 13:09:02 blg-openfire CRON[3052]: pam_unix(cron:session): session closed for user root
+Jun  5 13:17:01 blg-openfire CRON[3089]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 13:17:01 blg-openfire CRON[3089]: pam_unix(cron:session): session closed for user root
+Jun  5 13:39:01 blg-openfire CRON[3179]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 13:39:01 blg-openfire CRON[3179]: pam_unix(cron:session): session closed for user root
+Jun  5 14:09:01 blg-openfire CRON[3314]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 14:09:01 blg-openfire CRON[3314]: pam_unix(cron:session): session closed for user root
+Jun  5 14:17:01 blg-openfire CRON[3354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 14:17:01 blg-openfire CRON[3354]: pam_unix(cron:session): session closed for user root
+Jun  5 14:39:01 blg-openfire CRON[3443]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 14:39:01 blg-openfire CRON[3443]: pam_unix(cron:session): session closed for user root
+Jun  5 15:09:01 blg-openfire CRON[3561]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 15:09:01 blg-openfire CRON[3561]: pam_unix(cron:session): session closed for user root
+Jun  5 15:17:01 blg-openfire CRON[3601]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 15:17:01 blg-openfire CRON[3601]: pam_unix(cron:session): session closed for user root
+Jun  5 15:39:01 blg-openfire CRON[3693]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 15:39:01 blg-openfire CRON[3693]: pam_unix(cron:session): session closed for user root
+Jun  5 16:09:01 blg-openfire CRON[3824]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 16:09:01 blg-openfire CRON[3824]: pam_unix(cron:session): session closed for user root
+Jun  5 16:17:01 blg-openfire CRON[3860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 16:17:01 blg-openfire CRON[3860]: pam_unix(cron:session): session closed for user root
+Jun  5 16:39:01 blg-openfire CRON[3951]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 16:39:01 blg-openfire CRON[3951]: pam_unix(cron:session): session closed for user root
+Jun  5 17:09:01 blg-openfire CRON[4075]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 17:09:01 blg-openfire CRON[4075]: pam_unix(cron:session): session closed for user root
+Jun  5 17:17:01 blg-openfire CRON[4115]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 17:17:01 blg-openfire CRON[4115]: pam_unix(cron:session): session closed for user root
+Jun  5 17:39:01 blg-openfire CRON[4208]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 17:39:01 blg-openfire CRON[4208]: pam_unix(cron:session): session closed for user root
+Jun  5 18:09:01 blg-openfire CRON[4331]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 18:09:01 blg-openfire CRON[4331]: pam_unix(cron:session): session closed for user root
+Jun  5 18:17:01 blg-openfire CRON[4368]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 18:17:01 blg-openfire CRON[4368]: pam_unix(cron:session): session closed for user root
+Jun  5 18:39:01 blg-openfire CRON[4457]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 18:39:01 blg-openfire CRON[4457]: pam_unix(cron:session): session closed for user root
+Jun  5 19:09:01 blg-openfire CRON[4582]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 19:09:01 blg-openfire CRON[4582]: pam_unix(cron:session): session closed for user root
+Jun  5 19:17:01 blg-openfire CRON[4619]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 19:17:01 blg-openfire CRON[4619]: pam_unix(cron:session): session closed for user root
+Jun  5 19:39:01 blg-openfire CRON[4706]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 19:39:01 blg-openfire CRON[4706]: pam_unix(cron:session): session closed for user root
+Jun  5 20:09:01 blg-openfire CRON[4831]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 20:09:01 blg-openfire CRON[4831]: pam_unix(cron:session): session closed for user root
+Jun  5 20:17:01 blg-openfire CRON[4866]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 20:17:01 blg-openfire CRON[4866]: pam_unix(cron:session): session closed for user root
+Jun  5 20:39:01 blg-openfire CRON[4951]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 20:39:01 blg-openfire CRON[4951]: pam_unix(cron:session): session closed for user root
+Jun  5 21:09:01 blg-openfire CRON[5077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 21:09:01 blg-openfire CRON[5077]: pam_unix(cron:session): session closed for user root
+Jun  5 21:17:01 blg-openfire CRON[5114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 21:17:01 blg-openfire CRON[5114]: pam_unix(cron:session): session closed for user root
+Jun  5 21:39:01 blg-openfire CRON[5202]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 21:39:01 blg-openfire CRON[5202]: pam_unix(cron:session): session closed for user root
+Jun  5 22:09:02 blg-openfire CRON[5326]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 22:09:02 blg-openfire CRON[5326]: pam_unix(cron:session): session closed for user root
+Jun  5 22:17:01 blg-openfire CRON[5363]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 22:17:01 blg-openfire CRON[5363]: pam_unix(cron:session): session closed for user root
+Jun  5 22:39:01 blg-openfire CRON[5452]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 22:39:01 blg-openfire CRON[5452]: pam_unix(cron:session): session closed for user root
+Jun  5 23:09:01 blg-openfire CRON[5574]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 23:09:01 blg-openfire CRON[5574]: pam_unix(cron:session): session closed for user root
+Jun  5 23:17:01 blg-openfire CRON[5611]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 23:17:01 blg-openfire CRON[5611]: pam_unix(cron:session): session closed for user root
+Jun  5 23:39:01 blg-openfire CRON[5694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  5 23:39:01 blg-openfire CRON[5694]: pam_unix(cron:session): session closed for user root
+Jun  6 00:09:01 blg-openfire CRON[5818]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 00:09:01 blg-openfire CRON[5818]: pam_unix(cron:session): session closed for user root
+Jun  6 00:17:01 blg-openfire CRON[5857]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 00:17:01 blg-openfire CRON[5857]: pam_unix(cron:session): session closed for user root
+Jun  6 00:39:01 blg-openfire CRON[5945]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 00:39:01 blg-openfire CRON[5945]: pam_unix(cron:session): session closed for user root
+Jun  6 01:09:01 blg-openfire CRON[6066]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 01:09:01 blg-openfire CRON[6066]: pam_unix(cron:session): session closed for user root
+Jun  6 01:17:01 blg-openfire CRON[6104]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 01:17:01 blg-openfire CRON[6104]: pam_unix(cron:session): session closed for user root
+Jun  6 01:39:01 blg-openfire CRON[6192]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 01:39:01 blg-openfire CRON[6192]: pam_unix(cron:session): session closed for user root
+Jun  6 02:09:01 blg-openfire CRON[6313]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 02:09:01 blg-openfire CRON[6313]: pam_unix(cron:session): session closed for user root
+Jun  6 02:17:01 blg-openfire CRON[6350]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 02:17:01 blg-openfire CRON[6350]: pam_unix(cron:session): session closed for user root
+Jun  6 02:39:01 blg-openfire CRON[6438]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 02:39:01 blg-openfire CRON[6438]: pam_unix(cron:session): session closed for user root
+Jun  6 03:09:01 blg-openfire CRON[6558]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 03:09:01 blg-openfire CRON[6558]: pam_unix(cron:session): session closed for user root
+Jun  6 03:17:01 blg-openfire CRON[6596]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 03:17:01 blg-openfire CRON[6596]: pam_unix(cron:session): session closed for user root
+Jun  6 03:39:01 blg-openfire CRON[6683]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 03:39:01 blg-openfire CRON[6683]: pam_unix(cron:session): session closed for user root
+Jun  6 04:09:01 blg-openfire CRON[6807]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 04:09:01 blg-openfire CRON[6807]: pam_unix(cron:session): session closed for user root
+Jun  6 04:17:01 blg-openfire CRON[6843]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 04:17:01 blg-openfire CRON[6843]: pam_unix(cron:session): session closed for user root
+Jun  6 04:39:01 blg-openfire CRON[6928]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 04:39:01 blg-openfire CRON[6928]: pam_unix(cron:session): session closed for user root
+Jun  6 05:09:01 blg-openfire CRON[7049]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 05:09:01 blg-openfire CRON[7049]: pam_unix(cron:session): session closed for user root
+Jun  6 05:17:01 blg-openfire CRON[7086]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 05:17:01 blg-openfire CRON[7086]: pam_unix(cron:session): session closed for user root
+Jun  6 05:39:01 blg-openfire CRON[7172]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 05:39:01 blg-openfire CRON[7172]: pam_unix(cron:session): session closed for user root
+Jun  6 06:09:01 blg-openfire CRON[7293]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 06:09:01 blg-openfire CRON[7293]: pam_unix(cron:session): session closed for user root
+Jun  6 06:17:01 blg-openfire CRON[7332]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 06:17:01 blg-openfire CRON[7332]: pam_unix(cron:session): session closed for user root
+Jun  6 06:25:01 blg-openfire CRON[7363]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 06:39:01 blg-openfire CRON[7458]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 06:39:01 blg-openfire CRON[7458]: pam_unix(cron:session): session closed for user root
+Jun  6 06:39:26 blg-openfire CRON[7363]: pam_unix(cron:session): session closed for user root
+Jun  6 07:09:01 blg-openfire CRON[7733]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 07:09:01 blg-openfire CRON[7733]: pam_unix(cron:session): session closed for user root
+Jun  6 07:17:01 blg-openfire CRON[7774]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 07:17:01 blg-openfire CRON[7774]: pam_unix(cron:session): session closed for user root
+Jun  6 07:39:01 blg-openfire CRON[7861]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 07:39:01 blg-openfire CRON[7861]: pam_unix(cron:session): session closed for user root
+Jun  6 08:09:01 blg-openfire CRON[7996]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 08:09:01 blg-openfire CRON[7996]: pam_unix(cron:session): session closed for user root
+Jun  6 08:17:01 blg-openfire CRON[8038]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 08:17:01 blg-openfire CRON[8038]: pam_unix(cron:session): session closed for user root
+Jun  6 08:39:01 blg-openfire CRON[8145]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 08:39:02 blg-openfire CRON[8145]: pam_unix(cron:session): session closed for user root
+Jun  6 09:09:01 blg-openfire CRON[8285]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 09:09:01 blg-openfire CRON[8285]: pam_unix(cron:session): session closed for user root
+Jun  6 09:17:01 blg-openfire CRON[8321]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 09:17:01 blg-openfire CRON[8321]: pam_unix(cron:session): session closed for user root
+Jun  6 09:39:01 blg-openfire CRON[8410]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 09:39:01 blg-openfire CRON[8410]: pam_unix(cron:session): session closed for user root
+Jun  6 10:09:01 blg-openfire CRON[8537]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 10:09:01 blg-openfire CRON[8537]: pam_unix(cron:session): session closed for user root
+Jun  6 10:17:01 blg-openfire CRON[8575]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 10:17:01 blg-openfire CRON[8575]: pam_unix(cron:session): session closed for user root
+Jun  6 10:39:01 blg-openfire CRON[8655]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 10:39:01 blg-openfire CRON[8655]: pam_unix(cron:session): session closed for user root
+Jun  6 11:09:01 blg-openfire CRON[8770]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 11:09:01 blg-openfire CRON[8770]: pam_unix(cron:session): session closed for user root
+Jun  6 11:17:01 blg-openfire CRON[8806]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 11:17:01 blg-openfire CRON[8806]: pam_unix(cron:session): session closed for user root
+Jun  6 11:39:01 blg-openfire CRON[8894]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 11:39:02 blg-openfire CRON[8894]: pam_unix(cron:session): session closed for user root
+Jun  6 12:09:01 blg-openfire CRON[9014]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 12:09:01 blg-openfire CRON[9014]: pam_unix(cron:session): session closed for user root
+Jun  6 12:17:01 blg-openfire CRON[9051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 12:17:01 blg-openfire CRON[9051]: pam_unix(cron:session): session closed for user root
+Jun  6 12:39:01 blg-openfire CRON[9134]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 12:39:01 blg-openfire CRON[9134]: pam_unix(cron:session): session closed for user root
+Jun  6 13:09:01 blg-openfire CRON[9253]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 13:09:01 blg-openfire CRON[9253]: pam_unix(cron:session): session closed for user root
+Jun  6 13:17:01 blg-openfire CRON[9290]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 13:17:01 blg-openfire CRON[9290]: pam_unix(cron:session): session closed for user root
+Jun  6 13:39:01 blg-openfire CRON[9382]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 13:39:01 blg-openfire CRON[9382]: pam_unix(cron:session): session closed for user root
+Jun  6 14:09:01 blg-openfire CRON[9503]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 14:09:01 blg-openfire CRON[9503]: pam_unix(cron:session): session closed for user root
+Jun  6 14:17:01 blg-openfire CRON[9541]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 14:17:01 blg-openfire CRON[9541]: pam_unix(cron:session): session closed for user root
+Jun  6 14:39:01 blg-openfire CRON[9627]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 14:39:01 blg-openfire CRON[9627]: pam_unix(cron:session): session closed for user root
+Jun  6 15:09:01 blg-openfire CRON[9750]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 15:09:01 blg-openfire CRON[9750]: pam_unix(cron:session): session closed for user root
+Jun  6 15:17:01 blg-openfire CRON[9786]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 15:17:01 blg-openfire CRON[9786]: pam_unix(cron:session): session closed for user root
+Jun  6 15:39:01 blg-openfire CRON[9878]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 15:39:01 blg-openfire CRON[9878]: pam_unix(cron:session): session closed for user root
+Jun  6 16:09:01 blg-openfire CRON[9999]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 16:09:01 blg-openfire CRON[9999]: pam_unix(cron:session): session closed for user root
+Jun  6 16:17:01 blg-openfire CRON[10036]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 16:17:01 blg-openfire CRON[10036]: pam_unix(cron:session): session closed for user root
+Jun  6 16:39:01 blg-openfire CRON[10124]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 16:39:01 blg-openfire CRON[10124]: pam_unix(cron:session): session closed for user root
+Jun  6 17:09:01 blg-openfire CRON[10243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 17:09:01 blg-openfire CRON[10243]: pam_unix(cron:session): session closed for user root
+Jun  6 17:17:01 blg-openfire CRON[10279]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 17:17:01 blg-openfire CRON[10279]: pam_unix(cron:session): session closed for user root
+Jun  6 17:39:01 blg-openfire CRON[10365]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 17:39:01 blg-openfire CRON[10365]: pam_unix(cron:session): session closed for user root
+Jun  6 18:09:01 blg-openfire CRON[10492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 18:09:01 blg-openfire CRON[10492]: pam_unix(cron:session): session closed for user root
+Jun  6 18:17:01 blg-openfire CRON[10528]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 18:17:01 blg-openfire CRON[10528]: pam_unix(cron:session): session closed for user root
+Jun  6 18:39:01 blg-openfire CRON[10618]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 18:39:01 blg-openfire CRON[10618]: pam_unix(cron:session): session closed for user root
+Jun  6 19:09:01 blg-openfire CRON[10742]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 19:09:01 blg-openfire CRON[10742]: pam_unix(cron:session): session closed for user root
+Jun  6 19:17:01 blg-openfire CRON[10782]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 19:17:01 blg-openfire CRON[10782]: pam_unix(cron:session): session closed for user root
+Jun  6 19:39:01 blg-openfire CRON[10868]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 19:39:01 blg-openfire CRON[10868]: pam_unix(cron:session): session closed for user root
+Jun  6 20:09:01 blg-openfire CRON[11001]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 20:09:01 blg-openfire CRON[11001]: pam_unix(cron:session): session closed for user root
+Jun  6 20:17:01 blg-openfire CRON[11038]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 20:17:01 blg-openfire CRON[11038]: pam_unix(cron:session): session closed for user root
+Jun  6 20:39:01 blg-openfire CRON[11126]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 20:39:01 blg-openfire CRON[11126]: pam_unix(cron:session): session closed for user root
+Jun  6 21:09:01 blg-openfire CRON[11248]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 21:09:01 blg-openfire CRON[11248]: pam_unix(cron:session): session closed for user root
+Jun  6 21:17:01 blg-openfire CRON[11285]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 21:17:01 blg-openfire CRON[11285]: pam_unix(cron:session): session closed for user root
+Jun  6 21:39:01 blg-openfire CRON[11372]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 21:39:01 blg-openfire CRON[11372]: pam_unix(cron:session): session closed for user root
+Jun  6 22:09:01 blg-openfire CRON[11493]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 22:09:01 blg-openfire CRON[11493]: pam_unix(cron:session): session closed for user root
+Jun  6 22:17:01 blg-openfire CRON[11530]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 22:17:01 blg-openfire CRON[11530]: pam_unix(cron:session): session closed for user root
+Jun  6 22:39:01 blg-openfire CRON[11618]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 22:39:01 blg-openfire CRON[11618]: pam_unix(cron:session): session closed for user root
+Jun  6 23:09:01 blg-openfire CRON[11738]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 23:09:01 blg-openfire CRON[11738]: pam_unix(cron:session): session closed for user root
+Jun  6 23:17:01 blg-openfire CRON[11776]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 23:17:01 blg-openfire CRON[11776]: pam_unix(cron:session): session closed for user root
+Jun  6 23:39:01 blg-openfire CRON[11863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  6 23:39:01 blg-openfire CRON[11863]: pam_unix(cron:session): session closed for user root
+Jun  7 00:09:01 blg-openfire CRON[11984]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 00:09:01 blg-openfire CRON[11984]: pam_unix(cron:session): session closed for user root
+Jun  7 00:17:01 blg-openfire CRON[12022]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 00:17:01 blg-openfire CRON[12022]: pam_unix(cron:session): session closed for user root
+Jun  7 00:39:01 blg-openfire CRON[12109]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 00:39:01 blg-openfire CRON[12109]: pam_unix(cron:session): session closed for user root
+Jun  7 01:09:01 blg-openfire CRON[12229]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 01:09:01 blg-openfire CRON[12229]: pam_unix(cron:session): session closed for user root
+Jun  7 01:17:01 blg-openfire CRON[12268]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 01:17:01 blg-openfire CRON[12268]: pam_unix(cron:session): session closed for user root
+Jun  7 01:39:01 blg-openfire CRON[12355]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 01:39:01 blg-openfire CRON[12355]: pam_unix(cron:session): session closed for user root
+Jun  7 02:09:01 blg-openfire CRON[12479]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 02:09:01 blg-openfire CRON[12479]: pam_unix(cron:session): session closed for user root
+Jun  7 02:17:01 blg-openfire CRON[12517]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 02:17:01 blg-openfire CRON[12517]: pam_unix(cron:session): session closed for user root
+Jun  7 02:39:01 blg-openfire CRON[12603]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 02:39:01 blg-openfire CRON[12603]: pam_unix(cron:session): session closed for user root
+Jun  7 03:09:01 blg-openfire CRON[12719]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 03:09:01 blg-openfire CRON[12719]: pam_unix(cron:session): session closed for user root
+Jun  7 03:17:01 blg-openfire CRON[12757]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 03:17:01 blg-openfire CRON[12757]: pam_unix(cron:session): session closed for user root
+Jun  7 03:39:01 blg-openfire CRON[12844]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 03:39:01 blg-openfire CRON[12844]: pam_unix(cron:session): session closed for user root
+Jun  7 04:09:01 blg-openfire CRON[12966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 04:09:01 blg-openfire CRON[12966]: pam_unix(cron:session): session closed for user root
+Jun  7 04:17:01 blg-openfire CRON[13003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 04:17:01 blg-openfire CRON[13003]: pam_unix(cron:session): session closed for user root
+Jun  7 04:39:01 blg-openfire CRON[13088]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 04:39:01 blg-openfire CRON[13088]: pam_unix(cron:session): session closed for user root
+Jun  7 05:09:01 blg-openfire CRON[13210]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 05:09:01 blg-openfire CRON[13210]: pam_unix(cron:session): session closed for user root
+Jun  7 05:17:01 blg-openfire CRON[13248]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 05:17:01 blg-openfire CRON[13248]: pam_unix(cron:session): session closed for user root
+Jun  7 05:39:01 blg-openfire CRON[13334]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 05:39:01 blg-openfire CRON[13334]: pam_unix(cron:session): session closed for user root
+Jun  7 06:09:01 blg-openfire CRON[13458]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 06:09:01 blg-openfire CRON[13458]: pam_unix(cron:session): session closed for user root
+Jun  7 06:17:01 blg-openfire CRON[13496]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 06:17:01 blg-openfire CRON[13496]: pam_unix(cron:session): session closed for user root
+Jun  7 06:25:01 blg-openfire CRON[13528]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 06:33:39 blg-openfire CRON[13528]: pam_unix(cron:session): session closed for user root
+Jun  7 06:39:01 blg-openfire CRON[13778]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 06:39:01 blg-openfire CRON[13778]: pam_unix(cron:session): session closed for user root
+Jun  7 07:09:01 blg-openfire CRON[13899]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 07:09:01 blg-openfire CRON[13899]: pam_unix(cron:session): session closed for user root
+Jun  7 07:17:01 blg-openfire CRON[13936]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 07:17:01 blg-openfire CRON[13936]: pam_unix(cron:session): session closed for user root
+Jun  7 07:39:01 blg-openfire CRON[14024]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 07:39:01 blg-openfire CRON[14024]: pam_unix(cron:session): session closed for user root
+Jun  7 08:09:01 blg-openfire CRON[14156]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 08:09:01 blg-openfire CRON[14156]: pam_unix(cron:session): session closed for user root
+Jun  7 08:17:01 blg-openfire CRON[14198]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 08:17:01 blg-openfire CRON[14198]: pam_unix(cron:session): session closed for user root
+Jun  7 08:39:01 blg-openfire CRON[14302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 08:39:01 blg-openfire CRON[14302]: pam_unix(cron:session): session closed for user root
+Jun  7 09:09:01 blg-openfire CRON[14437]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 09:09:01 blg-openfire CRON[14437]: pam_unix(cron:session): session closed for user root
+Jun  7 09:17:01 blg-openfire CRON[14479]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 09:17:01 blg-openfire CRON[14479]: pam_unix(cron:session): session closed for user root
+Jun  7 09:39:01 blg-openfire CRON[14569]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 09:39:01 blg-openfire CRON[14569]: pam_unix(cron:session): session closed for user root
+Jun  7 10:09:01 blg-openfire CRON[14691]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 10:09:01 blg-openfire CRON[14691]: pam_unix(cron:session): session closed for user root
+Jun  7 10:17:02 blg-openfire CRON[14726]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 10:17:02 blg-openfire CRON[14726]: pam_unix(cron:session): session closed for user root
+Jun  7 10:39:01 blg-openfire CRON[14812]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 10:39:01 blg-openfire CRON[14812]: pam_unix(cron:session): session closed for user root
+Jun  7 11:09:01 blg-openfire CRON[14930]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 11:09:01 blg-openfire CRON[14930]: pam_unix(cron:session): session closed for user root
+Jun  7 11:17:01 blg-openfire CRON[14967]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 11:17:01 blg-openfire CRON[14967]: pam_unix(cron:session): session closed for user root
+Jun  7 11:39:01 blg-openfire CRON[15058]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 11:39:01 blg-openfire CRON[15058]: pam_unix(cron:session): session closed for user root
+Jun  7 12:09:01 blg-openfire CRON[15177]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 12:09:01 blg-openfire CRON[15177]: pam_unix(cron:session): session closed for user root
+Jun  7 12:17:01 blg-openfire CRON[15215]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 12:17:01 blg-openfire CRON[15215]: pam_unix(cron:session): session closed for user root
+Jun  7 12:39:01 blg-openfire CRON[15302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 12:39:01 blg-openfire CRON[15302]: pam_unix(cron:session): session closed for user root
+Jun  7 13:09:01 blg-openfire CRON[15418]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 13:09:01 blg-openfire CRON[15418]: pam_unix(cron:session): session closed for user root
+Jun  7 13:17:01 blg-openfire CRON[15453]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 13:17:01 blg-openfire CRON[15453]: pam_unix(cron:session): session closed for user root
+Jun  7 13:39:01 blg-openfire CRON[15545]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 13:39:01 blg-openfire CRON[15545]: pam_unix(cron:session): session closed for user root
+Jun  7 14:09:01 blg-openfire CRON[15666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 14:09:01 blg-openfire CRON[15666]: pam_unix(cron:session): session closed for user root
+Jun  7 14:17:01 blg-openfire CRON[15704]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 14:17:01 blg-openfire CRON[15704]: pam_unix(cron:session): session closed for user root
+Jun  7 14:39:01 blg-openfire CRON[15787]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 14:39:01 blg-openfire CRON[15787]: pam_unix(cron:session): session closed for user root
+Jun  7 15:09:01 blg-openfire CRON[15908]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 15:09:01 blg-openfire CRON[15908]: pam_unix(cron:session): session closed for user root
+Jun  7 15:17:01 blg-openfire CRON[15943]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 15:17:01 blg-openfire CRON[15943]: pam_unix(cron:session): session closed for user root
+Jun  7 15:39:01 blg-openfire CRON[16029]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 15:39:01 blg-openfire CRON[16029]: pam_unix(cron:session): session closed for user root
+Jun  7 16:09:01 blg-openfire CRON[16148]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 16:09:01 blg-openfire CRON[16148]: pam_unix(cron:session): session closed for user root
+Jun  7 16:17:01 blg-openfire CRON[16186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 16:17:01 blg-openfire CRON[16186]: pam_unix(cron:session): session closed for user root
+Jun  7 16:39:01 blg-openfire CRON[16274]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 16:39:01 blg-openfire CRON[16274]: pam_unix(cron:session): session closed for user root
+Jun  7 17:09:01 blg-openfire CRON[16392]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 17:09:01 blg-openfire CRON[16392]: pam_unix(cron:session): session closed for user root
+Jun  7 17:17:01 blg-openfire CRON[16429]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 17:17:01 blg-openfire CRON[16429]: pam_unix(cron:session): session closed for user root
+Jun  7 17:39:01 blg-openfire CRON[16522]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 17:39:01 blg-openfire CRON[16522]: pam_unix(cron:session): session closed for user root
+Jun  7 17:45:15 blg-openfire sshd[16553]: Accepted password for root from 10.68.4.6 port 57703 ssh2
+Jun  7 17:45:15 blg-openfire sshd[16553]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun  7 18:09:01 blg-openfire CRON[16968]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 18:09:01 blg-openfire CRON[16968]: pam_unix(cron:session): session closed for user root
+Jun  7 18:17:01 blg-openfire CRON[17004]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 18:17:01 blg-openfire CRON[17004]: pam_unix(cron:session): session closed for user root
+Jun  7 18:30:30 blg-openfire sshd[17055]: Accepted password for root from 10.68.4.122 port 58383 ssh2
+Jun  7 18:30:30 blg-openfire sshd[17055]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun  7 18:34:17 blg-openfire sshd[17055]: pam_unix(sshd:session): session closed for user root
+Jun  7 18:39:01 blg-openfire CRON[17355]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 18:39:01 blg-openfire CRON[17355]: pam_unix(cron:session): session closed for user root
+Jun  7 19:09:01 blg-openfire CRON[17473]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 19:09:01 blg-openfire CRON[17473]: pam_unix(cron:session): session closed for user root
+Jun  7 19:17:01 blg-openfire CRON[17508]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 19:17:01 blg-openfire CRON[17508]: pam_unix(cron:session): session closed for user root
+Jun  7 19:39:01 blg-openfire CRON[17594]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 19:39:01 blg-openfire CRON[17594]: pam_unix(cron:session): session closed for user root
+Jun  7 20:02:15 blg-openfire sshd[16553]: pam_unix(sshd:session): session closed for user root
+Jun  7 20:09:01 blg-openfire CRON[17720]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 20:09:01 blg-openfire CRON[17720]: pam_unix(cron:session): session closed for user root
+Jun  7 20:17:01 blg-openfire CRON[17758]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 20:17:01 blg-openfire CRON[17758]: pam_unix(cron:session): session closed for user root
+Jun  7 20:39:01 blg-openfire CRON[17847]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 20:39:01 blg-openfire CRON[17847]: pam_unix(cron:session): session closed for user root
+Jun  7 21:09:01 blg-openfire CRON[17969]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 21:09:01 blg-openfire CRON[17969]: pam_unix(cron:session): session closed for user root
+Jun  7 21:17:01 blg-openfire CRON[18004]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 21:17:01 blg-openfire CRON[18004]: pam_unix(cron:session): session closed for user root
+Jun  7 21:39:01 blg-openfire CRON[18090]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 21:39:01 blg-openfire CRON[18090]: pam_unix(cron:session): session closed for user root
+Jun  7 22:09:01 blg-openfire CRON[18208]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 22:09:01 blg-openfire CRON[18208]: pam_unix(cron:session): session closed for user root
+Jun  7 22:17:01 blg-openfire CRON[18245]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 22:17:01 blg-openfire CRON[18245]: pam_unix(cron:session): session closed for user root
+Jun  7 22:39:01 blg-openfire CRON[18334]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 22:39:01 blg-openfire CRON[18334]: pam_unix(cron:session): session closed for user root
+Jun  7 23:09:01 blg-openfire CRON[18453]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 23:09:01 blg-openfire CRON[18453]: pam_unix(cron:session): session closed for user root
+Jun  7 23:17:01 blg-openfire CRON[18487]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 23:17:01 blg-openfire CRON[18487]: pam_unix(cron:session): session closed for user root
+Jun  7 23:39:01 blg-openfire CRON[18573]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  7 23:39:01 blg-openfire CRON[18573]: pam_unix(cron:session): session closed for user root
+Jun  8 00:09:01 blg-openfire CRON[18698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 00:09:01 blg-openfire CRON[18698]: pam_unix(cron:session): session closed for user root
+Jun  8 00:17:01 blg-openfire CRON[18735]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 00:17:01 blg-openfire CRON[18735]: pam_unix(cron:session): session closed for user root
+Jun  8 00:39:01 blg-openfire CRON[18820]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 00:39:01 blg-openfire CRON[18820]: pam_unix(cron:session): session closed for user root
+Jun  8 01:09:01 blg-openfire CRON[18940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 01:09:01 blg-openfire CRON[18940]: pam_unix(cron:session): session closed for user root
+Jun  8 01:17:01 blg-openfire CRON[18975]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 01:17:01 blg-openfire CRON[18975]: pam_unix(cron:session): session closed for user root
+Jun  8 01:39:01 blg-openfire CRON[19065]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 01:39:01 blg-openfire CRON[19065]: pam_unix(cron:session): session closed for user root
+Jun  8 02:09:01 blg-openfire CRON[19185]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 02:09:01 blg-openfire CRON[19185]: pam_unix(cron:session): session closed for user root
+Jun  8 02:17:01 blg-openfire CRON[19223]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 02:17:01 blg-openfire CRON[19223]: pam_unix(cron:session): session closed for user root
+Jun  8 02:39:01 blg-openfire CRON[19309]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 02:39:01 blg-openfire CRON[19309]: pam_unix(cron:session): session closed for user root
+Jun  8 03:09:01 blg-openfire CRON[19429]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 03:09:01 blg-openfire CRON[19429]: pam_unix(cron:session): session closed for user root
+Jun  8 03:17:01 blg-openfire CRON[19464]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 03:17:01 blg-openfire CRON[19464]: pam_unix(cron:session): session closed for user root
+Jun  8 03:39:01 blg-openfire CRON[19553]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 03:39:01 blg-openfire CRON[19553]: pam_unix(cron:session): session closed for user root
+Jun  8 04:09:01 blg-openfire CRON[19674]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 04:09:01 blg-openfire CRON[19674]: pam_unix(cron:session): session closed for user root
+Jun  8 04:17:01 blg-openfire CRON[19713]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 04:17:01 blg-openfire CRON[19713]: pam_unix(cron:session): session closed for user root
+Jun  8 04:39:01 blg-openfire CRON[19799]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 04:39:01 blg-openfire CRON[19799]: pam_unix(cron:session): session closed for user root
+Jun  8 05:09:01 blg-openfire CRON[19919]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 05:09:01 blg-openfire CRON[19919]: pam_unix(cron:session): session closed for user root
+Jun  8 05:17:01 blg-openfire CRON[19956]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 05:17:01 blg-openfire CRON[19956]: pam_unix(cron:session): session closed for user root
+Jun  8 05:39:01 blg-openfire CRON[20043]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 05:39:01 blg-openfire CRON[20043]: pam_unix(cron:session): session closed for user root
+Jun  8 06:09:01 blg-openfire CRON[20163]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 06:09:01 blg-openfire CRON[20163]: pam_unix(cron:session): session closed for user root
+Jun  8 06:17:01 blg-openfire CRON[20201]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 06:17:01 blg-openfire CRON[20201]: pam_unix(cron:session): session closed for user root
+Jun  8 06:25:01 blg-openfire CRON[20236]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 06:39:01 blg-openfire CRON[20328]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 06:39:01 blg-openfire CRON[20328]: pam_unix(cron:session): session closed for user root
+Jun  8 06:53:09 blg-openfire CRON[20236]: pam_unix(cron:session): session closed for user root
+Jun  8 07:09:01 blg-openfire CRON[20606]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 07:09:02 blg-openfire CRON[20606]: pam_unix(cron:session): session closed for user root
+Jun  8 07:17:01 blg-openfire CRON[20644]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 07:17:01 blg-openfire CRON[20644]: pam_unix(cron:session): session closed for user root
+Jun  8 07:39:01 blg-openfire CRON[20732]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 07:39:01 blg-openfire CRON[20732]: pam_unix(cron:session): session closed for user root
+Jun  8 08:09:01 blg-openfire CRON[20858]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 08:09:01 blg-openfire CRON[20858]: pam_unix(cron:session): session closed for user root
+Jun  8 08:17:01 blg-openfire CRON[20903]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 08:17:01 blg-openfire CRON[20903]: pam_unix(cron:session): session closed for user root
+Jun  8 08:39:01 blg-openfire CRON[21014]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 08:39:01 blg-openfire CRON[21014]: pam_unix(cron:session): session closed for user root
+Jun  8 09:09:01 blg-openfire CRON[21158]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 09:09:01 blg-openfire CRON[21158]: pam_unix(cron:session): session closed for user root
+Jun  8 09:17:01 blg-openfire CRON[21204]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 09:17:01 blg-openfire CRON[21204]: pam_unix(cron:session): session closed for user root
+Jun  8 09:39:02 blg-openfire CRON[21292]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 09:39:02 blg-openfire CRON[21292]: pam_unix(cron:session): session closed for user root
+Jun  8 10:09:01 blg-openfire CRON[21420]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 10:09:01 blg-openfire CRON[21420]: pam_unix(cron:session): session closed for user root
+Jun  8 10:17:01 blg-openfire CRON[21460]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 10:17:01 blg-openfire CRON[21460]: pam_unix(cron:session): session closed for user root
+Jun  8 10:39:01 blg-openfire CRON[21553]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 10:39:01 blg-openfire CRON[21553]: pam_unix(cron:session): session closed for user root
+Jun  8 11:09:01 blg-openfire CRON[21670]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 11:09:01 blg-openfire CRON[21670]: pam_unix(cron:session): session closed for user root
+Jun  8 11:17:01 blg-openfire CRON[21709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 11:17:01 blg-openfire CRON[21709]: pam_unix(cron:session): session closed for user root
+Jun  8 11:39:01 blg-openfire CRON[21793]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 11:39:01 blg-openfire CRON[21793]: pam_unix(cron:session): session closed for user root
+Jun  8 12:09:01 blg-openfire CRON[21913]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 12:09:01 blg-openfire CRON[21913]: pam_unix(cron:session): session closed for user root
+Jun  8 12:17:01 blg-openfire CRON[21949]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 12:17:01 blg-openfire CRON[21949]: pam_unix(cron:session): session closed for user root
+Jun  8 12:39:01 blg-openfire CRON[22035]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 12:39:01 blg-openfire CRON[22035]: pam_unix(cron:session): session closed for user root
+Jun  8 13:09:01 blg-openfire CRON[22159]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 13:09:01 blg-openfire CRON[22159]: pam_unix(cron:session): session closed for user root
+Jun  8 13:17:01 blg-openfire CRON[22194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 13:17:01 blg-openfire CRON[22194]: pam_unix(cron:session): session closed for user root
+Jun  8 13:39:01 blg-openfire CRON[22281]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 13:39:01 blg-openfire CRON[22281]: pam_unix(cron:session): session closed for user root
+Jun  8 14:09:01 blg-openfire CRON[22402]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 14:09:01 blg-openfire CRON[22402]: pam_unix(cron:session): session closed for user root
+Jun  8 14:17:01 blg-openfire CRON[22437]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 14:17:01 blg-openfire CRON[22437]: pam_unix(cron:session): session closed for user root
+Jun  8 14:39:01 blg-openfire CRON[22525]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 14:39:01 blg-openfire CRON[22525]: pam_unix(cron:session): session closed for user root
+Jun  8 15:09:01 blg-openfire CRON[22645]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 15:09:01 blg-openfire CRON[22645]: pam_unix(cron:session): session closed for user root
+Jun  8 15:17:01 blg-openfire CRON[22682]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 15:17:01 blg-openfire CRON[22682]: pam_unix(cron:session): session closed for user root
+Jun  8 15:39:01 blg-openfire CRON[22770]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 15:39:02 blg-openfire CRON[22770]: pam_unix(cron:session): session closed for user root
+Jun  8 16:09:01 blg-openfire CRON[22891]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 16:09:01 blg-openfire CRON[22891]: pam_unix(cron:session): session closed for user root
+Jun  8 16:17:01 blg-openfire CRON[22928]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 16:17:01 blg-openfire CRON[22928]: pam_unix(cron:session): session closed for user root
+Jun  8 16:39:01 blg-openfire CRON[23013]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 16:39:01 blg-openfire CRON[23013]: pam_unix(cron:session): session closed for user root
+Jun  8 17:09:01 blg-openfire CRON[23132]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 17:09:01 blg-openfire CRON[23132]: pam_unix(cron:session): session closed for user root
+Jun  8 17:17:01 blg-openfire CRON[23169]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 17:17:01 blg-openfire CRON[23169]: pam_unix(cron:session): session closed for user root
+Jun  8 17:39:01 blg-openfire CRON[23251]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 17:39:01 blg-openfire CRON[23251]: pam_unix(cron:session): session closed for user root
+Jun  8 18:09:01 blg-openfire CRON[23375]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 18:09:01 blg-openfire CRON[23375]: pam_unix(cron:session): session closed for user root
+Jun  8 18:17:01 blg-openfire CRON[23412]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 18:17:01 blg-openfire CRON[23412]: pam_unix(cron:session): session closed for user root
+Jun  8 18:39:01 blg-openfire CRON[23500]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 18:39:01 blg-openfire CRON[23500]: pam_unix(cron:session): session closed for user root
+Jun  8 19:09:01 blg-openfire CRON[23626]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 19:09:01 blg-openfire CRON[23626]: pam_unix(cron:session): session closed for user root
+Jun  8 19:17:01 blg-openfire CRON[23666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 19:17:01 blg-openfire CRON[23666]: pam_unix(cron:session): session closed for user root
+Jun  8 19:39:01 blg-openfire CRON[23755]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 19:39:01 blg-openfire CRON[23755]: pam_unix(cron:session): session closed for user root
+Jun  8 20:09:01 blg-openfire CRON[23880]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 20:09:01 blg-openfire CRON[23880]: pam_unix(cron:session): session closed for user root
+Jun  8 20:17:01 blg-openfire CRON[23919]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 20:17:01 blg-openfire CRON[23919]: pam_unix(cron:session): session closed for user root
+Jun  8 20:39:01 blg-openfire CRON[24007]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 20:39:01 blg-openfire CRON[24007]: pam_unix(cron:session): session closed for user root
+Jun  8 21:09:01 blg-openfire CRON[24130]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 21:09:01 blg-openfire CRON[24130]: pam_unix(cron:session): session closed for user root
+Jun  8 21:17:01 blg-openfire CRON[24167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 21:17:01 blg-openfire CRON[24167]: pam_unix(cron:session): session closed for user root
+Jun  8 21:39:01 blg-openfire CRON[24253]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 21:39:01 blg-openfire CRON[24253]: pam_unix(cron:session): session closed for user root
+Jun  8 22:09:01 blg-openfire CRON[24372]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 22:09:01 blg-openfire CRON[24372]: pam_unix(cron:session): session closed for user root
+Jun  8 22:17:01 blg-openfire CRON[24411]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 22:17:01 blg-openfire CRON[24411]: pam_unix(cron:session): session closed for user root
+Jun  8 22:39:01 blg-openfire CRON[24498]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 22:39:01 blg-openfire CRON[24498]: pam_unix(cron:session): session closed for user root
+Jun  8 23:09:01 blg-openfire CRON[24626]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 23:09:01 blg-openfire CRON[24626]: pam_unix(cron:session): session closed for user root
+Jun  8 23:17:01 blg-openfire CRON[24662]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 23:17:01 blg-openfire CRON[24662]: pam_unix(cron:session): session closed for user root
+Jun  8 23:39:01 blg-openfire CRON[24750]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  8 23:39:01 blg-openfire CRON[24750]: pam_unix(cron:session): session closed for user root
+Jun  9 00:09:01 blg-openfire CRON[24874]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 00:09:01 blg-openfire CRON[24874]: pam_unix(cron:session): session closed for user root
+Jun  9 00:17:01 blg-openfire CRON[24912]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 00:17:01 blg-openfire CRON[24912]: pam_unix(cron:session): session closed for user root
+Jun  9 00:39:01 blg-openfire CRON[24999]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 00:39:01 blg-openfire CRON[24999]: pam_unix(cron:session): session closed for user root
+Jun  9 01:09:01 blg-openfire CRON[25124]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 01:09:01 blg-openfire CRON[25124]: pam_unix(cron:session): session closed for user root
+Jun  9 01:17:01 blg-openfire CRON[25159]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 01:17:01 blg-openfire CRON[25159]: pam_unix(cron:session): session closed for user root
+Jun  9 01:39:01 blg-openfire CRON[25248]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 01:39:01 blg-openfire CRON[25248]: pam_unix(cron:session): session closed for user root
+Jun  9 02:09:01 blg-openfire CRON[25366]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 02:09:01 blg-openfire CRON[25366]: pam_unix(cron:session): session closed for user root
+Jun  9 02:17:01 blg-openfire CRON[25404]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 02:17:01 blg-openfire CRON[25404]: pam_unix(cron:session): session closed for user root
+Jun  9 02:39:01 blg-openfire CRON[25492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 02:39:01 blg-openfire CRON[25492]: pam_unix(cron:session): session closed for user root
+Jun  9 03:09:01 blg-openfire CRON[25613]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 03:09:01 blg-openfire CRON[25613]: pam_unix(cron:session): session closed for user root
+Jun  9 03:17:01 blg-openfire CRON[25650]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 03:17:01 blg-openfire CRON[25650]: pam_unix(cron:session): session closed for user root
+Jun  9 03:39:01 blg-openfire CRON[25738]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 03:39:01 blg-openfire CRON[25738]: pam_unix(cron:session): session closed for user root
+Jun  9 04:09:01 blg-openfire CRON[25860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 04:09:01 blg-openfire CRON[25860]: pam_unix(cron:session): session closed for user root
+Jun  9 04:17:01 blg-openfire CRON[25898]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 04:17:01 blg-openfire CRON[25898]: pam_unix(cron:session): session closed for user root
+Jun  9 04:39:01 blg-openfire CRON[25986]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 04:39:01 blg-openfire CRON[25986]: pam_unix(cron:session): session closed for user root
+Jun  9 05:09:01 blg-openfire CRON[26108]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 05:09:01 blg-openfire CRON[26108]: pam_unix(cron:session): session closed for user root
+Jun  9 05:17:01 blg-openfire CRON[26146]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 05:17:01 blg-openfire CRON[26146]: pam_unix(cron:session): session closed for user root
+Jun  9 05:39:01 blg-openfire CRON[26233]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 05:39:01 blg-openfire CRON[26233]: pam_unix(cron:session): session closed for user root
+Jun  9 06:09:01 blg-openfire CRON[26354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 06:09:01 blg-openfire CRON[26354]: pam_unix(cron:session): session closed for user root
+Jun  9 06:17:01 blg-openfire CRON[26390]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 06:17:01 blg-openfire CRON[26390]: pam_unix(cron:session): session closed for user root
+Jun  9 06:25:01 blg-openfire CRON[26425]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 06:27:14 blg-openfire CRON[26425]: pam_unix(cron:session): session closed for user root
+Jun  9 06:39:01 blg-openfire CRON[26679]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 06:39:02 blg-openfire CRON[26679]: pam_unix(cron:session): session closed for user root
+Jun  9 07:09:01 blg-openfire CRON[26800]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 07:09:01 blg-openfire CRON[26800]: pam_unix(cron:session): session closed for user root
+Jun  9 07:17:01 blg-openfire CRON[26838]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 07:17:01 blg-openfire CRON[26838]: pam_unix(cron:session): session closed for user root
+Jun  9 07:39:01 blg-openfire CRON[26921]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 07:39:01 blg-openfire CRON[26921]: pam_unix(cron:session): session closed for user root
+Jun  9 08:09:01 blg-openfire CRON[27048]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 08:09:01 blg-openfire CRON[27048]: pam_unix(cron:session): session closed for user root
+Jun  9 08:17:01 blg-openfire CRON[27087]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 08:17:01 blg-openfire CRON[27087]: pam_unix(cron:session): session closed for user root
+Jun  9 08:39:01 blg-openfire CRON[27196]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 08:39:01 blg-openfire CRON[27196]: pam_unix(cron:session): session closed for user root
+Jun  9 09:09:01 blg-openfire CRON[27343]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 09:09:01 blg-openfire CRON[27343]: pam_unix(cron:session): session closed for user root
+Jun  9 09:17:01 blg-openfire CRON[27382]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 09:17:01 blg-openfire CRON[27382]: pam_unix(cron:session): session closed for user root
+Jun  9 09:39:01 blg-openfire CRON[27485]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 09:39:02 blg-openfire CRON[27485]: pam_unix(cron:session): session closed for user root
+Jun  9 10:09:01 blg-openfire CRON[27689]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 10:09:01 blg-openfire CRON[27689]: pam_unix(cron:session): session closed for user root
+Jun  9 10:17:01 blg-openfire CRON[27726]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 10:17:01 blg-openfire CRON[27726]: pam_unix(cron:session): session closed for user root
+Jun  9 10:39:01 blg-openfire CRON[27823]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 10:39:01 blg-openfire CRON[27823]: pam_unix(cron:session): session closed for user root
+Jun  9 11:09:01 blg-openfire CRON[27948]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 11:09:01 blg-openfire CRON[27948]: pam_unix(cron:session): session closed for user root
+Jun  9 11:17:01 blg-openfire CRON[27988]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 11:17:01 blg-openfire CRON[27988]: pam_unix(cron:session): session closed for user root
+Jun  9 11:39:01 blg-openfire CRON[28075]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 11:39:01 blg-openfire CRON[28075]: pam_unix(cron:session): session closed for user root
+Jun  9 12:09:01 blg-openfire CRON[28196]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 12:09:01 blg-openfire CRON[28196]: pam_unix(cron:session): session closed for user root
+Jun  9 12:17:01 blg-openfire CRON[28233]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 12:17:01 blg-openfire CRON[28233]: pam_unix(cron:session): session closed for user root
+Jun  9 12:39:01 blg-openfire CRON[28322]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 12:39:01 blg-openfire CRON[28322]: pam_unix(cron:session): session closed for user root
+Jun  9 13:09:01 blg-openfire CRON[28448]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 13:09:01 blg-openfire CRON[28448]: pam_unix(cron:session): session closed for user root
+Jun  9 13:17:01 blg-openfire CRON[28486]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 13:17:01 blg-openfire CRON[28486]: pam_unix(cron:session): session closed for user root
+Jun  9 13:39:01 blg-openfire CRON[28572]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 13:39:01 blg-openfire CRON[28572]: pam_unix(cron:session): session closed for user root
+Jun  9 14:09:01 blg-openfire CRON[28695]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 14:09:01 blg-openfire CRON[28695]: pam_unix(cron:session): session closed for user root
+Jun  9 14:17:01 blg-openfire CRON[28733]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 14:17:01 blg-openfire CRON[28733]: pam_unix(cron:session): session closed for user root
+Jun  9 14:39:01 blg-openfire CRON[28819]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 14:39:01 blg-openfire CRON[28819]: pam_unix(cron:session): session closed for user root
+Jun  9 15:09:01 blg-openfire CRON[28941]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 15:09:01 blg-openfire CRON[28941]: pam_unix(cron:session): session closed for user root
+Jun  9 15:17:01 blg-openfire CRON[28979]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 15:17:01 blg-openfire CRON[28979]: pam_unix(cron:session): session closed for user root
+Jun  9 15:39:01 blg-openfire CRON[29067]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 15:39:01 blg-openfire CRON[29067]: pam_unix(cron:session): session closed for user root
+Jun  9 16:09:01 blg-openfire CRON[29191]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 16:09:01 blg-openfire CRON[29191]: pam_unix(cron:session): session closed for user root
+Jun  9 16:17:01 blg-openfire CRON[29228]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 16:17:01 blg-openfire CRON[29228]: pam_unix(cron:session): session closed for user root
+Jun  9 16:39:01 blg-openfire CRON[29324]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 16:39:01 blg-openfire CRON[29324]: pam_unix(cron:session): session closed for user root
+Jun  9 17:09:01 blg-openfire CRON[29447]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 17:09:01 blg-openfire CRON[29447]: pam_unix(cron:session): session closed for user root
+Jun  9 17:17:01 blg-openfire CRON[29483]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun  9 17:17:01 blg-openfire CRON[29483]: pam_unix(cron:session): session closed for user root
+Jun  9 17:28:29 blg-openfire sshd[29531]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.68.4.122  user=root
+Jun  9 17:28:31 blg-openfire sshd[29531]: Failed password for root from 10.68.4.122 port 52647 ssh2
+Jun  9 17:28:42 blg-openfire sshd[29531]: Failed password for root from 10.68.4.122 port 52647 ssh2
+Jun  9 17:28:51 blg-openfire sshd[29531]: Connection closed by 10.68.4.122 [preauth]
+Jun  9 17:28:51 blg-openfire sshd[29531]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.68.4.122  user=root
+Jun  9 17:29:11 blg-openfire sshd[29536]: Accepted password for root from 10.68.4.122 port 52665 ssh2
+Jun  9 17:29:11 blg-openfire sshd[29536]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun  9 17:30:04 blg-openfire sshd[29782]: Accepted password for root from 10.68.4.122 port 52669 ssh2
+Jun  9 17:30:04 blg-openfire sshd[29782]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun  9 17:30:04 blg-openfire sshd[29782]: subsystem request for sftp by user root

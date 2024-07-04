@@ -1,0 +1,1308 @@
+Sun Jun  4 09:51:43 2017 [pid 29949] CONNECT: Client "217.118.64.44"
+Sun Jun  4 09:51:44 2017 [pid 29948] [web] OK LOGIN: Client "217.118.64.44"
+Sun Jun  4 09:51:46 2017 [pid 29952] [web] OK UPLOAD: Client "217.118.64.44", "/NewKatalog/1012584_0000059_400.txt", 0.00Kbyte/sec
+Sun Jun  4 09:51:49 2017 [pid 29952] [web] OK UPLOAD: Client "217.118.64.44", "/NewKatalog/1012584_0000059_400.zip", 7827 bytes, 4.75Kbyte/sec
+Sun Jun  4 09:51:49 2017 [pid 29952] [web] OK DELETE: Client "217.118.64.44", "/NewKatalog/1012584_0000059_400.txt"
+Sun Jun  4 12:44:19 2017 [pid 32167] CONNECT: Client "139.162.73.19"
+Sun Jun  4 19:20:28 2017 [pid 4878] CONNECT: Client "91.185.236.185"
+Sun Jun  4 19:20:28 2017 [pid 4877] [web] OK LOGIN: Client "91.185.236.185"
+Sun Jun  4 19:20:28 2017 [pid 4881] [web] OK UPLOAD: Client "91.185.236.185", "/NewKatalog/1012584_0000014_560.txt", 0.00Kbyte/sec
+Sun Jun  4 19:20:29 2017 [pid 4881] [web] OK UPLOAD: Client "91.185.236.185", "/NewKatalog/1012584_0000014_560.zip", 20207 bytes, 60.34Kbyte/sec
+Sun Jun  4 19:20:29 2017 [pid 4881] [web] OK DELETE: Client "91.185.236.185", "/NewKatalog/1012584_0000014_560.txt"
+Sun Jun  4 20:00:37 2017 [pid 5403] CONNECT: Client "91.185.226.68"
+Sun Jun  4 20:00:37 2017 [pid 5402] [web] OK LOGIN: Client "91.185.226.68"
+Sun Jun  4 20:00:38 2017 [pid 5406] [web] OK UPLOAD: Client "91.185.226.68", "/NewKatalog/1012584_0000064_320.txt", 0.00Kbyte/sec
+Sun Jun  4 20:00:39 2017 [pid 5406] [web] OK UPLOAD: Client "91.185.226.68", "/NewKatalog/1012584_0000064_320.zip", 11465 bytes, 17.58Kbyte/sec
+Sun Jun  4 20:00:39 2017 [pid 5406] [web] OK DELETE: Client "91.185.226.68", "/NewKatalog/1012584_0000064_320.txt"
+Sun Jun  4 20:01:47 2017 [pid 5420] CONNECT: Client "85.88.165.70"
+Sun Jun  4 20:01:47 2017 [pid 5419] [web] OK LOGIN: Client "85.88.165.70"
+Sun Jun  4 20:01:48 2017 [pid 5423] [web] OK UPLOAD: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1064.txt", 0.00Kbyte/sec
+Sun Jun  4 20:01:48 2017 [pid 5423] [web] OK UPLOAD: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1064.zip", 3806 bytes, 14.71Kbyte/sec
+Sun Jun  4 20:01:48 2017 [pid 5423] [web] OK DELETE: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1064.txt"
+Sun Jun  4 20:02:13 2017 [pid 5434] CONNECT: Client "89.109.173.49"
+Sun Jun  4 20:02:13 2017 [pid 5433] [web] OK LOGIN: Client "89.109.173.49"
+Sun Jun  4 20:02:14 2017 [pid 5437] [web] OK UPLOAD: Client "89.109.173.49", "/NewKatalog/1012584_0000063_372.txt", 0.00Kbyte/sec
+Sun Jun  4 20:02:14 2017 [pid 5437] [web] OK UPLOAD: Client "89.109.173.49", "/NewKatalog/1012584_0000063_372.zip", 7844 bytes, 30.91Kbyte/sec
+Sun Jun  4 20:02:14 2017 [pid 5437] [web] OK DELETE: Client "89.109.173.49", "/NewKatalog/1012584_0000063_372.txt"
+Sun Jun  4 20:02:47 2017 [pid 5444] CONNECT: Client "89.109.130.176"
+Sun Jun  4 20:02:47 2017 [pid 5443] [web] OK LOGIN: Client "89.109.130.176"
+Sun Jun  4 20:02:47 2017 [pid 5447] [web] OK UPLOAD: Client "89.109.130.176", "/NewKatalog/1012584_0000060_394.txt", 0.00Kbyte/sec
+Sun Jun  4 20:02:48 2017 [pid 5447] [web] OK UPLOAD: Client "89.109.130.176", "/NewKatalog/1012584_0000060_394.zip", 9270 bytes, 48.83Kbyte/sec
+Sun Jun  4 20:02:48 2017 [pid 5447] [web] OK DELETE: Client "89.109.130.176", "/NewKatalog/1012584_0000060_394.txt"
+Sun Jun  4 20:04:08 2017 [pid 5469] CONNECT: Client "79.105.14.103"
+Sun Jun  4 20:04:08 2017 [pid 5468] [web] OK LOGIN: Client "79.105.14.103"
+Sun Jun  4 20:04:08 2017 [pid 5472] [web] OK UPLOAD: Client "79.105.14.103", "/NewKatalog/1012584_0000057_705.txt", 0.00Kbyte/sec
+Sun Jun  4 20:04:08 2017 [pid 5472] [web] OK UPLOAD: Client "79.105.14.103", "/NewKatalog/1012584_0000057_705.zip", 4623 bytes, 33.11Kbyte/sec
+Sun Jun  4 20:04:08 2017 [pid 5472] [web] OK DELETE: Client "79.105.14.103", "/NewKatalog/1012584_0000057_705.txt"
+Sun Jun  4 20:06:22 2017 [pid 5501] CONNECT: Client "79.133.69.144"
+Sun Jun  4 20:06:22 2017 [pid 5500] [web] OK LOGIN: Client "79.133.69.144"
+Sun Jun  4 20:06:23 2017 [pid 5504] [web] OK UPLOAD: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2272.txt", 0.00Kbyte/sec
+Sun Jun  4 20:06:24 2017 [pid 5509] CONNECT: Client "159.255.26.200"
+Sun Jun  4 20:06:25 2017 [pid 5508] [web] OK LOGIN: Client "159.255.26.200"
+Sun Jun  4 20:06:25 2017 [pid 5504] [web] OK UPLOAD: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2272.zip", 12389 bytes, 13.16Kbyte/sec
+Sun Jun  4 20:06:25 2017 [pid 5504] [web] OK DELETE: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2272.txt"
+Sun Jun  4 20:06:25 2017 [pid 5510] [web] OK UPLOAD: Client "159.255.26.200", "/NewKatalog/1012584_0000003_2883.txt", 0.00Kbyte/sec
+Sun Jun  4 20:06:25 2017 [pid 5510] [web] OK UPLOAD: Client "159.255.26.200", "/NewKatalog/1012584_0000003_2883.zip", 21619 bytes, 118.62Kbyte/sec
+Sun Jun  4 20:06:25 2017 [pid 5510] [web] OK DELETE: Client "159.255.26.200", "/NewKatalog/1012584_0000003_2883.txt"
+Sun Jun  4 20:07:30 2017 [pid 5528] CONNECT: Client "46.48.175.147"
+Sun Jun  4 20:07:30 2017 [pid 5527] [web] OK LOGIN: Client "46.48.175.147"
+Sun Jun  4 20:07:31 2017 [pid 5531] [web] OK UPLOAD: Client "46.48.175.147", "/NewKatalog/1012584_0000065_318.txt", 0.00Kbyte/sec
+Sun Jun  4 20:07:31 2017 [pid 5531] [web] OK UPLOAD: Client "46.48.175.147", "/NewKatalog/1012584_0000065_318.zip", 14175 bytes, 42.54Kbyte/sec
+Sun Jun  4 20:07:31 2017 [pid 5531] [web] OK DELETE: Client "46.48.175.147", "/NewKatalog/1012584_0000065_318.txt"
+Sun Jun  4 20:10:12 2017 [pid 5583] CONNECT: Client "62.33.40.7"
+Sun Jun  4 20:10:12 2017 [pid 5582] [web] OK LOGIN: Client "62.33.40.7"
+Sun Jun  4 20:10:12 2017 [pid 5586] [web] OK UPLOAD: Client "62.33.40.7", "/NewKatalog/1012584_0000032_26.txt", 0.00Kbyte/sec
+Sun Jun  4 20:10:13 2017 [pid 5586] [web] OK UPLOAD: Client "62.33.40.7", "/NewKatalog/1012584_0000032_26.zip", 20748 bytes, 75.57Kbyte/sec
+Sun Jun  4 20:10:13 2017 [pid 5586] [web] OK DELETE: Client "62.33.40.7", "/NewKatalog/1012584_0000032_26.txt"
+Sun Jun  4 20:10:42 2017 [pid 5592] CONNECT: Client "85.88.178.70"
+Sun Jun  4 20:10:42 2017 [pid 5591] [web] OK LOGIN: Client "85.88.178.70"
+Sun Jun  4 20:10:42 2017 [pid 5595] [web] OK UPLOAD: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3672.txt", 0.00Kbyte/sec
+Sun Jun  4 20:10:43 2017 [pid 5595] [web] OK UPLOAD: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3672.zip", 13273 bytes, 29.14Kbyte/sec
+Sun Jun  4 20:10:43 2017 [pid 5595] [web] OK DELETE: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3672.txt"
+Sun Jun  4 20:12:03 2017 [pid 5618] CONNECT: Client "217.118.64.44"
+Sun Jun  4 20:12:04 2017 [pid 5617] [web] OK LOGIN: Client "217.118.64.44"
+Sun Jun  4 20:12:07 2017 [pid 5622] [web] OK UPLOAD: Client "217.118.64.44", "/NewKatalog/1012584_0000059_401.txt", 0.00Kbyte/sec
+Sun Jun  4 20:12:09 2017 [pid 5622] [web] OK UPLOAD: Client "217.118.64.44", "/NewKatalog/1012584_0000059_401.zip", 5476 bytes, 3.71Kbyte/sec
+Sun Jun  4 20:12:10 2017 [pid 5622] [web] OK DELETE: Client "217.118.64.44", "/NewKatalog/1012584_0000059_401.txt"
+Sun Jun  4 20:12:22 2017 [pid 5625] CONNECT: Client "85.88.175.46"
+Sun Jun  4 20:12:22 2017 [pid 5624] [web] OK LOGIN: Client "85.88.175.46"
+Sun Jun  4 20:12:22 2017 [pid 5628] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2387.txt", 0.00Kbyte/sec
+Sun Jun  4 20:12:23 2017 [pid 5628] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2387.zip", 10527 bytes, 30.42Kbyte/sec
+Sun Jun  4 20:12:23 2017 [pid 5628] [web] OK DELETE: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2387.txt"
+Sun Jun  4 20:13:40 2017 [pid 5646] CONNECT: Client "79.133.69.209"
+Sun Jun  4 20:13:40 2017 [pid 5645] [web] OK LOGIN: Client "79.133.69.209"
+Sun Jun  4 20:13:42 2017 [pid 5649] [web] OK UPLOAD: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2322.txt", 0.00Kbyte/sec
+Sun Jun  4 20:13:44 2017 [pid 5649] [web] OK UPLOAD: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2322.zip", 29090 bytes, 20.46Kbyte/sec
+Sun Jun  4 20:13:44 2017 [pid 5649] [web] OK DELETE: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2322.txt"
+Sun Jun  4 21:01:07 2017 [pid 6255] CONNECT: Client "85.88.191.122"
+Sun Jun  4 21:01:42 2017 [pid 6262] CONNECT: Client "85.88.177.62"
+Sun Jun  4 21:01:42 2017 [pid 6261] [web] OK LOGIN: Client "85.88.177.62"
+Sun Jun  4 21:01:43 2017 [pid 6265] [web] OK UPLOAD: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2207.txt", 0.00Kbyte/sec
+Sun Jun  4 21:01:43 2017 [pid 6265] [web] OK UPLOAD: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2207.zip", 12413 bytes, 35.71Kbyte/sec
+Sun Jun  4 21:01:43 2017 [pid 6265] [web] OK DELETE: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2207.txt"
+Sun Jun  4 21:01:53 2017 [pid 6268] CONNECT: Client "85.88.177.102"
+Sun Jun  4 21:01:53 2017 [pid 6267] [web] OK LOGIN: Client "85.88.177.102"
+Sun Jun  4 21:01:53 2017 [pid 6271] [web] OK UPLOAD: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3216.txt", 0.00Kbyte/sec
+Sun Jun  4 21:01:54 2017 [pid 6271] [web] OK UPLOAD: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3216.zip", 14912 bytes, 48.60Kbyte/sec
+Sun Jun  4 21:01:54 2017 [pid 6271] [web] OK DELETE: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3216.txt"
+Sun Jun  4 21:02:24 2017 [pid 6282] CONNECT: Client "85.88.175.34"
+Sun Jun  4 21:02:24 2017 [pid 6281] [web] OK LOGIN: Client "85.88.175.34"
+Sun Jun  4 21:02:25 2017 [pid 6285] [web] OK UPLOAD: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2528.txt", 0.00Kbyte/sec
+Sun Jun  4 21:02:25 2017 [pid 6285] [web] OK UPLOAD: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2528.zip", 10354 bytes, 26.79Kbyte/sec
+Sun Jun  4 21:02:25 2017 [pid 6285] [web] OK DELETE: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2528.txt"
+Sun Jun  4 21:02:33 2017 [pid 6290] CONNECT: Client "85.88.164.198"
+Sun Jun  4 21:02:33 2017 [pid 6289] [web] OK LOGIN: Client "85.88.164.198"
+Sun Jun  4 21:02:34 2017 [pid 6293] [web] OK UPLOAD: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3107.txt", 0.00Kbyte/sec
+Sun Jun  4 21:02:34 2017 [pid 6293] [web] OK UPLOAD: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3107.zip", 7972 bytes, 26.63Kbyte/sec
+Sun Jun  4 21:02:34 2017 [pid 6293] [web] OK DELETE: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3107.txt"
+Sun Jun  4 21:02:51 2017 [pid 6297] CONNECT: Client "85.88.178.58"
+Sun Jun  4 21:02:51 2017 [pid 6296] [web] OK LOGIN: Client "85.88.178.58"
+Sun Jun  4 21:02:51 2017 [pid 6302] CONNECT: Client "159.255.25.187"
+Sun Jun  4 21:02:51 2017 [pid 6301] [web] OK LOGIN: Client "159.255.25.187"
+Sun Jun  4 21:02:51 2017 [pid 6303] [web] OK UPLOAD: Client "159.255.25.187", "/NewKatalog/1012584_0000026_804.txt", 0.00Kbyte/sec
+Sun Jun  4 21:02:51 2017 [pid 6300] [web] OK UPLOAD: Client "85.88.178.58", "/Katalog/1012584_0000030_2708.txt", 0.00Kbyte/sec
+Sun Jun  4 21:02:51 2017 [pid 6303] [web] OK UPLOAD: Client "159.255.25.187", "/NewKatalog/1012584_0000026_804.zip", 12943 bytes, 81.90Kbyte/sec
+Sun Jun  4 21:02:51 2017 [pid 6303] [web] OK DELETE: Client "159.255.25.187", "/NewKatalog/1012584_0000026_804.txt"
+Sun Jun  4 21:02:52 2017 [pid 6300] [web] OK UPLOAD: Client "85.88.178.58", "/Katalog/1012584_0000030_2708.zip", 17818 bytes, 36.27Kbyte/sec
+Sun Jun  4 21:02:52 2017 [pid 6300] [web] OK DELETE: Client "85.88.178.58", "/Katalog/1012584_0000030_2708.txt"
+Sun Jun  4 21:03:30 2017 [pid 6316] CONNECT: Client "79.105.47.186"
+Sun Jun  4 21:03:30 2017 [pid 6315] [web] OK LOGIN: Client "79.105.47.186"
+Sun Jun  4 21:03:37 2017 [pid 6321] CONNECT: Client "176.104.155.205"
+Sun Jun  4 21:03:37 2017 [pid 6320] [web] OK LOGIN: Client "176.104.155.205"
+Sun Jun  4 21:03:38 2017 [pid 6324] [web] OK UPLOAD: Client "176.104.155.205", "/NewKatalog/1012584_0000012_942.txt", 0.00Kbyte/sec
+Sun Jun  4 21:03:38 2017 [pid 6324] [web] OK UPLOAD: Client "176.104.155.205", "/NewKatalog/1012584_0000012_942.zip", 15715 bytes, 55.29Kbyte/sec
+Sun Jun  4 21:03:38 2017 [pid 6324] [web] OK DELETE: Client "176.104.155.205", "/NewKatalog/1012584_0000012_942.txt"
+Sun Jun  4 21:03:42 2017 [pid 6327] CONNECT: Client "85.88.178.198"
+Sun Jun  4 21:03:42 2017 [pid 6326] [web] OK LOGIN: Client "85.88.178.198"
+Sun Jun  4 21:03:42 2017 [pid 6332] CONNECT: Client "85.88.173.26"
+Sun Jun  4 21:03:42 2017 [pid 6331] [web] OK LOGIN: Client "85.88.173.26"
+Sun Jun  4 21:03:42 2017 [pid 6330] [web] OK UPLOAD: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1238.txt", 0.00Kbyte/sec
+Sun Jun  4 21:03:43 2017 [pid 6333] [web] OK UPLOAD: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1205.txt", 0.00Kbyte/sec
+Sun Jun  4 21:03:43 2017 [pid 6330] [web] OK UPLOAD: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1238.zip", 11847 bytes, 32.93Kbyte/sec
+Sun Jun  4 21:03:43 2017 [pid 6330] [web] OK DELETE: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1238.txt"
+Sun Jun  4 21:03:43 2017 [pid 6333] [web] OK UPLOAD: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1205.zip", 11073 bytes, 37.24Kbyte/sec
+Sun Jun  4 21:03:43 2017 [pid 6333] [web] OK DELETE: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1205.txt"
+Sun Jun  4 21:03:59 2017 [pid 6340] CONNECT: Client "85.88.177.66"
+Sun Jun  4 21:03:59 2017 [pid 6339] [web] OK LOGIN: Client "85.88.177.66"
+Sun Jun  4 21:03:59 2017 [pid 6344] [web] OK UPLOAD: Client "85.88.177.66", "/NewKatalog/1012584_0000037_570.txt", 0.00Kbyte/sec
+Sun Jun  4 21:04:00 2017 [pid 6344] [web] OK UPLOAD: Client "85.88.177.66", "/NewKatalog/1012584_0000037_570.zip", 11214 bytes, 75.92Kbyte/sec
+Sun Jun  4 21:04:00 2017 [pid 6344] [web] OK DELETE: Client "85.88.177.66", "/NewKatalog/1012584_0000037_570.txt"
+Sun Jun  4 21:04:00 2017 [pid 6346] CONNECT: Client "176.104.148.98"
+Sun Jun  4 21:04:00 2017 [pid 6345] [web] OK LOGIN: Client "176.104.148.98"
+Sun Jun  4 21:04:15 2017 [pid 6354] CONNECT: Client "79.105.100.245"
+Sun Jun  4 21:04:15 2017 [pid 6353] [web] OK LOGIN: Client "79.105.100.245"
+Sun Jun  4 21:04:15 2017 [pid 6357] [web] OK UPLOAD: Client "79.105.100.245", "/NewKatalog/1012584_0000066_240.txt", 0.00Kbyte/sec
+Sun Jun  4 21:04:15 2017 [pid 6357] [web] OK UPLOAD: Client "79.105.100.245", "/NewKatalog/1012584_0000066_240.zip", 6766 bytes, 51.69Kbyte/sec
+Sun Jun  4 21:04:15 2017 [pid 6357] [web] OK DELETE: Client "79.105.100.245", "/NewKatalog/1012584_0000066_240.txt"
+Sun Jun  4 21:04:26 2017 [pid 6362] CONNECT: Client "85.88.177.82"
+Sun Jun  4 21:04:26 2017 [pid 6361] [web] OK LOGIN: Client "85.88.177.82"
+Sun Jun  4 21:04:27 2017 [pid 6365] [web] OK UPLOAD: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2235.txt", 0.00Kbyte/sec
+Sun Jun  4 21:04:28 2017 [pid 6365] [web] OK UPLOAD: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2235.zip", 11397 bytes, 25.42Kbyte/sec
+Sun Jun  4 21:04:28 2017 [pid 6365] [web] OK DELETE: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2235.txt"
+Sun Jun  4 21:04:31 2017 [pid 6319] [web] FAIL UPLOAD: Client "79.105.47.186", "/NewKatalog/1012584_0000017_1329.txt", 0.00Kbyte/sec
+Sun Jun  4 21:04:34 2017 [pid 6367] CONNECT: Client "85.88.172.122"
+Sun Jun  4 21:04:34 2017 [pid 6366] [web] OK LOGIN: Client "85.88.172.122"
+Sun Jun  4 21:04:35 2017 [pid 6370] [web] OK UPLOAD: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1349.txt", 0.00Kbyte/sec
+Sun Jun  4 21:04:35 2017 [pid 6370] [web] OK UPLOAD: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1349.zip", 17158 bytes, 80.53Kbyte/sec
+Sun Jun  4 21:04:35 2017 [pid 6372] CONNECT: Client "159.255.24.107"
+Sun Jun  4 21:04:35 2017 [pid 6370] [web] OK DELETE: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1349.txt"
+Sun Jun  4 21:04:35 2017 [pid 6371] [web] OK LOGIN: Client "159.255.24.107"
+Sun Jun  4 21:04:35 2017 [pid 6373] [web] OK UPLOAD: Client "159.255.24.107", "/NewKatalog/1012584_0000058_593.txt", 0.00Kbyte/sec
+Sun Jun  4 21:04:36 2017 [pid 6373] [web] OK UPLOAD: Client "159.255.24.107", "/NewKatalog/1012584_0000058_593.zip", 16306 bytes, 99.31Kbyte/sec
+Sun Jun  4 21:04:36 2017 [pid 6373] [web] OK DELETE: Client "159.255.24.107", "/NewKatalog/1012584_0000058_593.txt"
+Sun Jun  4 21:04:57 2017 [pid 6380] CONNECT: Client "85.88.177.86"
+Sun Jun  4 21:04:57 2017 [pid 6379] [web] OK LOGIN: Client "85.88.177.86"
+Sun Jun  4 21:04:58 2017 [pid 6383] [web] OK UPLOAD: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1573.txt", 0.00Kbyte/sec
+Sun Jun  4 21:04:58 2017 [pid 6383] [web] OK UPLOAD: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1573.zip", 6681 bytes, 24.33Kbyte/sec
+Sun Jun  4 21:04:58 2017 [pid 6383] [web] OK DELETE: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1573.txt"
+Sun Jun  4 21:05:04 2017 [pid 6392] CONNECT: Client "85.88.180.254"
+Sun Jun  4 21:05:04 2017 [pid 6389] [web] OK LOGIN: Client "85.88.180.254"
+Sun Jun  4 21:05:04 2017 [pid 6393] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2757.txt", 0.00Kbyte/sec
+Sun Jun  4 21:05:04 2017 [pid 6393] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2757.zip", 12943 bytes, 75.07Kbyte/sec
+Sun Jun  4 21:05:04 2017 [pid 6393] [web] OK DELETE: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2757.txt"
+Sun Jun  4 21:05:05 2017 [pid 6393] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2758.txt", 0.00Kbyte/sec
+Sun Jun  4 21:05:05 2017 [pid 6393] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2758.zip", 15124 bytes, 91.83Kbyte/sec
+Sun Jun  4 21:05:05 2017 [pid 6393] [web] OK DELETE: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2758.txt"
+Sun Jun  4 21:05:05 2017 [pid 6395] CONNECT: Client "79.105.7.251"
+Sun Jun  4 21:05:05 2017 [pid 6394] [web] OK LOGIN: Client "79.105.7.251"
+Sun Jun  4 21:05:06 2017 [pid 6397] [web] OK UPLOAD: Client "79.105.7.251", "/NewKatalog/1012584_0000053_1002.txt", 0.00Kbyte/sec
+Sun Jun  4 21:05:06 2017 [pid 6397] [web] OK UPLOAD: Client "79.105.7.251", "/NewKatalog/1012584_0000053_1002.zip", 6526 bytes, 28.23Kbyte/sec
+Sun Jun  4 21:05:06 2017 [pid 6397] [web] OK DELETE: Client "79.105.7.251", "/NewKatalog/1012584_0000053_1002.txt"
+Sun Jun  4 21:05:15 2017 [pid 6399] CONNECT: Client "85.88.177.70"
+Sun Jun  4 21:05:15 2017 [pid 6398] [web] OK LOGIN: Client "85.88.177.70"
+Sun Jun  4 21:05:15 2017 [pid 6402] [web] OK UPLOAD: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2162.txt", 0.00Kbyte/sec
+Sun Jun  4 21:05:15 2017 [pid 6404] CONNECT: Client "85.26.241.236"
+Sun Jun  4 21:05:16 2017 [pid 6403] [web] OK LOGIN: Client "85.26.241.236"
+Sun Jun  4 21:05:16 2017 [pid 6402] [web] OK UPLOAD: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2162.zip", 6818 bytes, 24.73Kbyte/sec
+Sun Jun  4 21:05:16 2017 [pid 6402] [web] OK DELETE: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2162.txt"
+Sun Jun  4 21:05:17 2017 [pid 6405] [web] OK UPLOAD: Client "85.26.241.236", "/NewKatalog/1012584_0000049_1317.txt", 0.00Kbyte/sec
+Sun Jun  4 21:05:19 2017 [pid 6405] [web] OK UPLOAD: Client "85.26.241.236", "/NewKatalog/1012584_0000049_1317.zip", 11915 bytes, 5.84Kbyte/sec
+Sun Jun  4 21:05:19 2017 [pid 6405] [web] OK DELETE: Client "85.26.241.236", "/NewKatalog/1012584_0000049_1317.txt"
+Sun Jun  4 21:05:24 2017 [pid 6412] CONNECT: Client "85.88.168.210"
+Sun Jun  4 21:05:24 2017 [pid 6411] [web] OK LOGIN: Client "85.88.168.210"
+Sun Jun  4 21:05:24 2017 [pid 6417] CONNECT: Client "79.105.0.229"
+Sun Jun  4 21:05:24 2017 [pid 6416] [web] OK LOGIN: Client "79.105.0.229"
+Sun Jun  4 21:05:25 2017 [pid 6415] [web] OK UPLOAD: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1723.txt", 0.00Kbyte/sec
+Sun Jun  4 21:05:25 2017 [pid 6418] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_922.txt", 0.00Kbyte/sec
+Sun Jun  4 21:05:25 2017 [pid 6418] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_922.zip", 11795 bytes, 38.72Kbyte/sec
+Sun Jun  4 21:05:25 2017 [pid 6418] [web] OK DELETE: Client "79.105.0.229", "/NewKatalog/1012584_0000054_922.txt"
+Sun Jun  4 21:05:25 2017 [pid 6415] [web] OK UPLOAD: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1723.zip", 10874 bytes, 27.99Kbyte/sec
+Sun Jun  4 21:05:25 2017 [pid 6415] [web] OK DELETE: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1723.txt"
+Sun Jun  4 21:05:26 2017 [pid 6418] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_923.txt", 0.00Kbyte/sec
+Sun Jun  4 21:05:26 2017 [pid 6418] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_923.zip", 10976 bytes, 39.80Kbyte/sec
+Sun Jun  4 21:05:26 2017 [pid 6418] [web] OK DELETE: Client "79.105.0.229", "/NewKatalog/1012584_0000054_923.txt"
+Sun Jun  4 21:05:55 2017 [pid 6424] CONNECT: Client "213.87.96.49"
+Sun Jun  4 21:05:56 2017 [pid 6422] [web] OK LOGIN: Client "213.87.96.49"
+Sun Jun  4 21:05:57 2017 [pid 6427] [web] OK UPLOAD: Client "213.87.96.49", "/Katalog/1012584_0000056_676.txt", 0.00Kbyte/sec
+Sun Jun  4 21:05:59 2017 [pid 6427] [web] OK UPLOAD: Client "213.87.96.49", "/Katalog/1012584_0000056_676.zip", 16558 bytes, 14.53Kbyte/sec
+Sun Jun  4 21:05:59 2017 [pid 6427] [web] OK DELETE: Client "213.87.96.49", "/Katalog/1012584_0000056_676.txt"
+Sun Jun  4 21:06:00 2017 [pid 6432] CONNECT: Client "46.227.26.129"
+Sun Jun  4 21:06:00 2017 [pid 6431] [web] OK LOGIN: Client "46.227.26.129"
+Sun Jun  4 21:06:00 2017 [pid 6435] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1514.txt", 0.00Kbyte/sec
+Sun Jun  4 21:06:00 2017 [pid 6435] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1514.zip", 10266 bytes, 64.09Kbyte/sec
+Sun Jun  4 21:06:00 2017 [pid 6435] [web] OK DELETE: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1514.txt"
+Sun Jun  4 21:06:03 2017 [pid 6439] CONNECT: Client "85.88.177.42"
+Sun Jun  4 21:06:04 2017 [pid 6438] [web] OK LOGIN: Client "85.88.177.42"
+Sun Jun  4 21:06:04 2017 [pid 6442] [web] OK UPLOAD: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2871.txt", 0.00Kbyte/sec
+Sun Jun  4 21:06:05 2017 [pid 6442] [web] OK UPLOAD: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2871.zip", 27848 bytes, 55.39Kbyte/sec
+Sun Jun  4 21:06:05 2017 [pid 6442] [web] OK DELETE: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2871.txt"
+Sun Jun  4 21:06:18 2017 [pid 6447] CONNECT: Client "83.234.96.217"
+Sun Jun  4 21:06:18 2017 [pid 6445] [web] OK LOGIN: Client "83.234.96.217"
+Sun Jun  4 21:06:18 2017 [pid 6449] [web] OK UPLOAD: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2283.txt", 0.00Kbyte/sec
+Sun Jun  4 21:06:18 2017 [pid 6449] [web] OK UPLOAD: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2283.zip", 16235 bytes, 92.30Kbyte/sec
+Sun Jun  4 21:06:18 2017 [pid 6449] [web] OK DELETE: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2283.txt"
+Sun Jun  4 21:07:12 2017 [pid 6468] CONNECT: Client "188.168.142.112"
+Sun Jun  4 21:07:13 2017 [pid 6466] [web] OK LOGIN: Client "188.168.142.112"
+Sun Jun  4 21:07:13 2017 [pid 6470] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2145.txt", 0.00Kbyte/sec
+Sun Jun  4 21:07:14 2017 [pid 6472] CONNECT: Client "159.255.25.231"
+Sun Jun  4 21:07:14 2017 [pid 6470] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2145.zip", 26821 bytes, 42.74Kbyte/sec
+Sun Jun  4 21:07:14 2017 [pid 6470] [web] OK DELETE: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2145.txt"
+Sun Jun  4 21:07:14 2017 [pid 6471] [web] OK LOGIN: Client "159.255.25.231"
+Sun Jun  4 21:07:14 2017 [pid 6473] [web] OK UPLOAD: Client "159.255.25.231", "/Katalog/1012584_0000004_10604.txt", 0.00Kbyte/sec
+Sun Jun  4 21:07:14 2017 [pid 6470] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2146.txt", 0.00Kbyte/sec
+Sun Jun  4 21:07:15 2017 [pid 6473] [web] OK UPLOAD: Client "159.255.25.231", "/Katalog/1012584_0000004_10604.zip", 17083 bytes, 44.38Kbyte/sec
+Sun Jun  4 21:07:15 2017 [pid 6473] [web] OK DELETE: Client "159.255.25.231", "/Katalog/1012584_0000004_10604.txt"
+Sun Jun  4 21:07:15 2017 [pid 6470] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2146.zip", 31577 bytes, 46.18Kbyte/sec
+Sun Jun  4 21:07:15 2017 [pid 6470] [web] OK DELETE: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2146.txt"
+Sun Jun  4 21:08:02 2017 [pid 6489] CONNECT: Client "85.88.175.42"
+Sun Jun  4 21:08:02 2017 [pid 6488] [web] OK LOGIN: Client "85.88.175.42"
+Sun Jun  4 21:08:03 2017 [pid 6492] [web] OK UPLOAD: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3498.txt", 0.00Kbyte/sec
+Sun Jun  4 21:08:03 2017 [pid 6492] [web] OK UPLOAD: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3498.zip", 10058 bytes, 26.80Kbyte/sec
+Sun Jun  4 21:08:03 2017 [pid 6492] [web] OK DELETE: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3498.txt"
+Sun Jun  4 21:08:24 2017 [pid 6502] CONNECT: Client "85.88.174.106"
+Sun Jun  4 21:08:24 2017 [pid 6501] [web] OK LOGIN: Client "85.88.174.106"
+Sun Jun  4 21:08:24 2017 [pid 6505] [web] OK UPLOAD: Client "85.88.174.106", "/NewKatalog/1012584_0000034_8.txt", 0.00Kbyte/sec
+Sun Jun  4 21:08:25 2017 [pid 6505] [web] OK UPLOAD: Client "85.88.174.106", "/NewKatalog/1012584_0000034_8.zip", 25021 bytes, 104.97Kbyte/sec
+Sun Jun  4 21:08:25 2017 [pid 6505] [web] OK DELETE: Client "85.88.174.106", "/NewKatalog/1012584_0000034_8.txt"
+Sun Jun  4 21:08:46 2017 [pid 6511] CONNECT: Client "85.88.189.214"
+Sun Jun  4 21:08:47 2017 [pid 6510] [web] OK LOGIN: Client "85.88.189.214"
+Sun Jun  4 21:08:47 2017 [pid 6514] [web] OK UPLOAD: Client "85.88.189.214", "/Katalog/1012584_0000045_1418.txt", 0.00Kbyte/sec
+Sun Jun  4 21:08:47 2017 [pid 6514] [web] OK UPLOAD: Client "85.88.189.214", "/Katalog/1012584_0000045_1418.zip", 4882 bytes, 19.39Kbyte/sec
+Sun Jun  4 21:08:47 2017 [pid 6514] [web] OK DELETE: Client "85.88.189.214", "/Katalog/1012584_0000045_1418.txt"
+Sun Jun  4 21:09:38 2017 [pid 6550] CONNECT: Client "79.105.167.36"
+Sun Jun  4 21:09:38 2017 [pid 6549] [web] OK LOGIN: Client "79.105.167.36"
+Sun Jun  4 21:09:38 2017 [pid 6551] [web] OK UPLOAD: Client "79.105.167.36", "/NewKatalog/1012584_0000055_779.txt", 0.00Kbyte/sec
+Sun Jun  4 21:09:38 2017 [pid 6551] [web] OK UPLOAD: Client "79.105.167.36", "/NewKatalog/1012584_0000055_779.zip", 12431 bytes, 70.87Kbyte/sec
+Sun Jun  4 21:09:38 2017 [pid 6551] [web] OK DELETE: Client "79.105.167.36", "/NewKatalog/1012584_0000055_779.txt"
+Sun Jun  4 21:10:49 2017 [pid 6574] CONNECT: Client "85.88.178.50"
+Sun Jun  4 21:10:50 2017 [pid 6573] [web] OK LOGIN: Client "85.88.178.50"
+Sun Jun  4 21:10:50 2017 [pid 6577] [web] OK UPLOAD: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2203.txt", 0.00Kbyte/sec
+Sun Jun  4 21:10:50 2017 [pid 6579] CONNECT: Client "85.88.176.14"
+Sun Jun  4 21:10:50 2017 [pid 6578] [web] OK LOGIN: Client "85.88.176.14"
+Sun Jun  4 21:10:51 2017 [pid 6577] [web] OK UPLOAD: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2203.zip", 16019 bytes, 37.88Kbyte/sec
+Sun Jun  4 21:10:51 2017 [pid 6577] [web] OK DELETE: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2203.txt"
+Sun Jun  4 21:10:51 2017 [pid 6580] [web] OK UPLOAD: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1272.txt", 0.00Kbyte/sec
+Sun Jun  4 21:10:51 2017 [pid 6580] [web] OK UPLOAD: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1272.zip", 7991 bytes, 27.75Kbyte/sec
+Sun Jun  4 21:10:51 2017 [pid 6580] [web] OK DELETE: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1272.txt"
+Sun Jun  4 21:14:25 2017 [pid 6645] CONNECT: Client "159.255.25.179"
+Sun Jun  4 21:14:25 2017 [pid 6644] [web] OK LOGIN: Client "159.255.25.179"
+Sun Jun  4 21:14:25 2017 [pid 6648] [web] OK UPLOAD: Client "159.255.25.179", "/Katalog/1012584_0000005_3692.txt", 0.00Kbyte/sec
+Sun Jun  4 21:14:25 2017 [pid 6648] [web] OK UPLOAD: Client "159.255.25.179", "/Katalog/1012584_0000005_3692.zip", 14279 bytes, 90.84Kbyte/sec
+Sun Jun  4 21:14:25 2017 [pid 6648] [web] OK DELETE: Client "159.255.25.179", "/Katalog/1012584_0000005_3692.txt"
+Sun Jun  4 21:22:24 2017 [pid 6755] CONNECT: Client "85.88.178.130"
+Sun Jun  4 21:22:24 2017 [pid 6754] [web] OK LOGIN: Client "85.88.178.130"
+Sun Jun  4 21:22:24 2017 [pid 6758] [web] OK UPLOAD: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2685.txt", 0.00Kbyte/sec
+Sun Jun  4 21:22:24 2017 [pid 6758] [web] OK UPLOAD: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2685.zip", 11026 bytes, 64.64Kbyte/sec
+Sun Jun  4 21:22:24 2017 [pid 6758] [web] OK DELETE: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2685.txt"
+Mon Jun  5 07:21:11 2017 [pid 14596] CONNECT: Client "60.191.38.78"
+Mon Jun  5 09:32:00 2017 [pid 16278] CONNECT: Client "79.105.47.186"
+Mon Jun  5 09:32:00 2017 [pid 16277] [web] OK LOGIN: Client "79.105.47.186"
+Mon Jun  5 09:32:01 2017 [pid 16281] [web] OK UPLOAD: Client "79.105.47.186", "/NewKatalog/1012584_0000017_1329.txt", 0.00Kbyte/sec
+Mon Jun  5 09:32:01 2017 [pid 16281] [web] OK UPLOAD: Client "79.105.47.186", "/NewKatalog/1012584_0000017_1329.zip", 12355 bytes, 71.21Kbyte/sec
+Mon Jun  5 09:32:01 2017 [pid 16281] [web] OK DELETE: Client "79.105.47.186", "/NewKatalog/1012584_0000017_1329.txt"
+Mon Jun  5 17:12:18 2017 [pid 22066] CONNECT: Client "103.193.111.54"
+Mon Jun  5 17:12:22 2017 [pid 22065] [www-data] FAIL LOGIN: Client "103.193.111.54"
+Mon Jun  5 18:39:15 2017 [pid 23159] CONNECT: Client "141.212.122.128"
+Mon Jun  5 20:00:50 2017 [pid 24211] CONNECT: Client "85.88.165.70"
+Mon Jun  5 20:00:50 2017 [pid 24210] [web] OK LOGIN: Client "85.88.165.70"
+Mon Jun  5 20:00:50 2017 [pid 24214] [web] OK UPLOAD: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1065.txt", 0.00Kbyte/sec
+Mon Jun  5 20:00:51 2017 [pid 24214] [web] OK UPLOAD: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1065.zip", 8229 bytes, 29.36Kbyte/sec
+Mon Jun  5 20:00:51 2017 [pid 24214] [web] OK DELETE: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1065.txt"
+Mon Jun  5 20:01:39 2017 [pid 24228] CONNECT: Client "91.185.236.185"
+Mon Jun  5 20:01:39 2017 [pid 24227] [web] OK LOGIN: Client "91.185.236.185"
+Mon Jun  5 20:01:40 2017 [pid 24231] [web] OK UPLOAD: Client "91.185.236.185", "/NewKatalog/1012584_0000014_561.txt", 0.00Kbyte/sec
+Mon Jun  5 20:01:40 2017 [pid 24231] [web] OK UPLOAD: Client "91.185.236.185", "/NewKatalog/1012584_0000014_561.zip", 22570 bytes, 56.29Kbyte/sec
+Mon Jun  5 20:01:41 2017 [pid 24231] [web] OK DELETE: Client "91.185.236.185", "/NewKatalog/1012584_0000014_561.txt"
+Mon Jun  5 20:02:27 2017 [pid 24244] CONNECT: Client "89.109.130.176"
+Mon Jun  5 20:02:27 2017 [pid 24243] [web] OK LOGIN: Client "89.109.130.176"
+Mon Jun  5 20:02:27 2017 [pid 24247] [web] OK UPLOAD: Client "89.109.130.176", "/NewKatalog/1012584_0000060_395.txt", 0.00Kbyte/sec
+Mon Jun  5 20:02:28 2017 [pid 24247] [web] OK UPLOAD: Client "89.109.130.176", "/NewKatalog/1012584_0000060_395.zip", 9495 bytes, 48.22Kbyte/sec
+Mon Jun  5 20:02:28 2017 [pid 24247] [web] OK DELETE: Client "89.109.130.176", "/NewKatalog/1012584_0000060_395.txt"
+Mon Jun  5 20:02:39 2017 [pid 24250] CONNECT: Client "94.245.172.245"
+Mon Jun  5 20:02:39 2017 [pid 24249] [web] OK LOGIN: Client "94.245.172.245"
+Mon Jun  5 20:02:40 2017 [pid 24253] [web] OK UPLOAD: Client "94.245.172.245", "/NewKatalog/1012584_0000064_321.txt", 0.00Kbyte/sec
+Mon Jun  5 20:02:41 2017 [pid 24253] [web] OK UPLOAD: Client "94.245.172.245", "/NewKatalog/1012584_0000064_321.zip", 16672 bytes, 23.56Kbyte/sec
+Mon Jun  5 20:02:41 2017 [pid 24253] [web] OK DELETE: Client "94.245.172.245", "/NewKatalog/1012584_0000064_321.txt"
+Mon Jun  5 20:03:21 2017 [pid 24266] CONNECT: Client "89.109.173.49"
+Mon Jun  5 20:03:21 2017 [pid 24265] [web] OK LOGIN: Client "89.109.173.49"
+Mon Jun  5 20:03:22 2017 [pid 24269] [web] OK UPLOAD: Client "89.109.173.49", "/NewKatalog/1012584_0000063_373.txt", 0.00Kbyte/sec
+Mon Jun  5 20:03:22 2017 [pid 24269] [web] OK UPLOAD: Client "89.109.173.49", "/NewKatalog/1012584_0000063_373.zip", 6236 bytes, 20.67Kbyte/sec
+Mon Jun  5 20:03:22 2017 [pid 24269] [web] OK DELETE: Client "89.109.173.49", "/NewKatalog/1012584_0000063_373.txt"
+Mon Jun  5 20:03:23 2017 [pid 24271] CONNECT: Client "91.185.224.194"
+Mon Jun  5 20:03:23 2017 [pid 24270] [web] OK LOGIN: Client "91.185.224.194"
+Mon Jun  5 20:03:23 2017 [pid 24272] [web] OK UPLOAD: Client "91.185.224.194", "/NewKatalog/1012584_0000065_319.txt", 0.00Kbyte/sec
+Mon Jun  5 20:03:24 2017 [pid 24272] [web] OK UPLOAD: Client "91.185.224.194", "/NewKatalog/1012584_0000065_319.zip", 11029 bytes, 30.65Kbyte/sec
+Mon Jun  5 20:03:24 2017 [pid 24272] [web] OK DELETE: Client "91.185.224.194", "/NewKatalog/1012584_0000065_319.txt"
+Mon Jun  5 20:06:32 2017 [pid 24316] CONNECT: Client "85.88.178.70"
+Mon Jun  5 20:06:32 2017 [pid 24315] [web] OK LOGIN: Client "85.88.178.70"
+Mon Jun  5 20:06:32 2017 [pid 24320] [web] OK UPLOAD: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3673.txt", 0.00Kbyte/sec
+Mon Jun  5 20:06:33 2017 [pid 24320] [web] OK UPLOAD: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3673.zip", 10016 bytes, 23.68Kbyte/sec
+Mon Jun  5 20:06:33 2017 [pid 24320] [web] OK DELETE: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3673.txt"
+Mon Jun  5 20:06:47 2017 [pid 24323] CONNECT: Client "79.133.69.144"
+Mon Jun  5 20:06:47 2017 [pid 24322] [web] OK LOGIN: Client "79.133.69.144"
+Mon Jun  5 20:06:49 2017 [pid 24326] [web] OK UPLOAD: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2273.txt", 0.00Kbyte/sec
+Mon Jun  5 20:06:51 2017 [pid 24326] [web] OK UPLOAD: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2273.zip", 14296 bytes, 14.32Kbyte/sec
+Mon Jun  5 20:06:51 2017 [pid 24326] [web] OK DELETE: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2273.txt"
+Mon Jun  5 20:08:29 2017 [pid 24354] CONNECT: Client "79.105.14.103"
+Mon Jun  5 20:08:29 2017 [pid 24353] [web] OK LOGIN: Client "79.105.14.103"
+Mon Jun  5 20:08:30 2017 [pid 24357] [web] OK UPLOAD: Client "79.105.14.103", "/NewKatalog/1012584_0000057_706.txt", 0.00Kbyte/sec
+Mon Jun  5 20:08:30 2017 [pid 24357] [web] OK UPLOAD: Client "79.105.14.103", "/NewKatalog/1012584_0000057_706.zip", 5439 bytes, 46.08Kbyte/sec
+Mon Jun  5 20:08:30 2017 [pid 24357] [web] OK DELETE: Client "79.105.14.103", "/NewKatalog/1012584_0000057_706.txt"
+Mon Jun  5 20:10:06 2017 [pid 24394] CONNECT: Client "85.88.175.46"
+Mon Jun  5 20:10:06 2017 [pid 24393] [web] OK LOGIN: Client "85.88.175.46"
+Mon Jun  5 20:10:06 2017 [pid 24397] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2388.txt", 0.00Kbyte/sec
+Mon Jun  5 20:10:07 2017 [pid 24397] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2388.zip", 9298 bytes, 26.79Kbyte/sec
+Mon Jun  5 20:10:07 2017 [pid 24397] [web] OK DELETE: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2388.txt"
+Mon Jun  5 20:12:56 2017 [pid 24436] CONNECT: Client "62.33.40.7"
+Mon Jun  5 20:12:56 2017 [pid 24435] [web] OK LOGIN: Client "62.33.40.7"
+Mon Jun  5 20:12:56 2017 [pid 24439] [web] OK UPLOAD: Client "62.33.40.7", "/NewKatalog/1012584_0000032_27.txt", 0.00Kbyte/sec
+Mon Jun  5 20:12:57 2017 [pid 24439] [web] OK UPLOAD: Client "62.33.40.7", "/NewKatalog/1012584_0000032_27.zip", 23499 bytes, 82.90Kbyte/sec
+Mon Jun  5 20:12:57 2017 [pid 24439] [web] OK DELETE: Client "62.33.40.7", "/NewKatalog/1012584_0000032_27.txt"
+Mon Jun  5 20:13:41 2017 [pid 24450] CONNECT: Client "159.255.27.210"
+Mon Jun  5 20:13:41 2017 [pid 24449] [web] OK LOGIN: Client "159.255.27.210"
+Mon Jun  5 20:13:41 2017 [pid 24453] [web] OK UPLOAD: Client "159.255.27.210", "/NewKatalog/1012584_0000003_2884.txt", 0.00Kbyte/sec
+Mon Jun  5 20:13:41 2017 [pid 24453] [web] OK UPLOAD: Client "159.255.27.210", "/NewKatalog/1012584_0000003_2884.zip", 15063 bytes, 92.26Kbyte/sec
+Mon Jun  5 20:13:41 2017 [pid 24453] [web] OK DELETE: Client "159.255.27.210", "/NewKatalog/1012584_0000003_2884.txt"
+Mon Jun  5 20:17:23 2017 [pid 24507] CONNECT: Client "79.133.69.209"
+Mon Jun  5 20:17:24 2017 [pid 24506] [web] OK LOGIN: Client "79.133.69.209"
+Mon Jun  5 20:17:25 2017 [pid 24510] [web] OK UPLOAD: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2323.txt", 0.00Kbyte/sec
+Mon Jun  5 20:17:27 2017 [pid 24510] [web] OK UPLOAD: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2323.zip", 22076 bytes, 16.52Kbyte/sec
+Mon Jun  5 20:17:27 2017 [pid 24510] [web] OK DELETE: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2323.txt"
+Mon Jun  5 21:00:01 2017 [pid 25062] CONNECT: Client "79.105.167.36"
+Mon Jun  5 21:00:01 2017 [pid 25061] [web] OK LOGIN: Client "79.105.167.36"
+Mon Jun  5 21:00:01 2017 [pid 25065] [web] OK UPLOAD: Client "79.105.167.36", "/NewKatalog/1012584_0000055_780.txt", 0.00Kbyte/sec
+Mon Jun  5 21:00:01 2017 [pid 25065] [web] OK UPLOAD: Client "79.105.167.36", "/NewKatalog/1012584_0000055_780.zip", 13798 bytes, 67.53Kbyte/sec
+Mon Jun  5 21:00:01 2017 [pid 25065] [web] OK DELETE: Client "79.105.167.36", "/NewKatalog/1012584_0000055_780.txt"
+Mon Jun  5 21:00:08 2017 [pid 25069] CONNECT: Client "85.88.164.198"
+Mon Jun  5 21:00:08 2017 [pid 25068] [web] OK LOGIN: Client "85.88.164.198"
+Mon Jun  5 21:00:09 2017 [pid 25072] [web] OK UPLOAD: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3108.txt", 0.00Kbyte/sec
+Mon Jun  5 21:00:09 2017 [pid 25072] [web] OK UPLOAD: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3108.zip", 7415 bytes, 25.31Kbyte/sec
+Mon Jun  5 21:00:09 2017 [pid 25072] [web] OK DELETE: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3108.txt"
+Mon Jun  5 21:01:57 2017 [pid 25094] CONNECT: Client "79.105.0.229"
+Mon Jun  5 21:01:57 2017 [pid 25093] [web] OK LOGIN: Client "79.105.0.229"
+Mon Jun  5 21:01:58 2017 [pid 25097] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_924.txt", 0.00Kbyte/sec
+Mon Jun  5 21:02:07 2017 [pid 25103] CONNECT: Client "85.88.177.102"
+Mon Jun  5 21:02:07 2017 [pid 25102] [web] OK LOGIN: Client "85.88.177.102"
+Mon Jun  5 21:02:07 2017 [pid 25106] [web] OK UPLOAD: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3217.txt", 0.00Kbyte/sec
+Mon Jun  5 21:02:08 2017 [pid 25106] [web] OK UPLOAD: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3217.zip", 18934 bytes, 58.30Kbyte/sec
+Mon Jun  5 21:02:08 2017 [pid 25106] [web] OK DELETE: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3217.txt"
+Mon Jun  5 21:02:14 2017 [pid 25108] CONNECT: Client "85.88.178.198"
+Mon Jun  5 21:02:14 2017 [pid 25107] [web] OK LOGIN: Client "85.88.178.198"
+Mon Jun  5 21:02:15 2017 [pid 25111] [web] OK UPLOAD: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1239.txt", 0.00Kbyte/sec
+Mon Jun  5 21:02:15 2017 [pid 25111] [web] OK UPLOAD: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1239.zip", 14582 bytes, 37.28Kbyte/sec
+Mon Jun  5 21:02:15 2017 [pid 25111] [web] OK DELETE: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1239.txt"
+Mon Jun  5 21:02:41 2017 [pid 25117] CONNECT: Client "85.88.177.62"
+Mon Jun  5 21:02:41 2017 [pid 25116] [web] OK LOGIN: Client "85.88.177.62"
+Mon Jun  5 21:02:42 2017 [pid 25120] [web] OK UPLOAD: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2208.txt", 0.00Kbyte/sec
+Mon Jun  5 21:02:42 2017 [pid 25120] [web] OK UPLOAD: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2208.zip", 10123 bytes, 31.27Kbyte/sec
+Mon Jun  5 21:02:42 2017 [pid 25120] [web] OK DELETE: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2208.txt"
+Mon Jun  5 21:03:04 2017 [pid 25130] CONNECT: Client "79.105.47.186"
+Mon Jun  5 21:03:04 2017 [pid 25129] [web] OK LOGIN: Client "79.105.47.186"
+Mon Jun  5 21:03:04 2017 [pid 25133] [web] OK UPLOAD: Client "79.105.47.186", "/NewKatalog/1012584_0000017_1330.txt", 0.00Kbyte/sec
+Mon Jun  5 21:03:04 2017 [pid 25133] [web] OK UPLOAD: Client "79.105.47.186", "/NewKatalog/1012584_0000017_1330.zip", 11392 bytes, 73.73Kbyte/sec
+Mon Jun  5 21:03:04 2017 [pid 25133] [web] OK DELETE: Client "79.105.47.186", "/NewKatalog/1012584_0000017_1330.txt"
+Mon Jun  5 21:03:05 2017 [pid 25136] CONNECT: Client "85.88.191.122"
+Mon Jun  5 21:03:05 2017 [pid 25135] [web] OK LOGIN: Client "85.88.191.122"
+Mon Jun  5 21:03:12 2017 [pid 25139] CONNECT: Client "85.88.177.82"
+Mon Jun  5 21:03:12 2017 [pid 25138] [web] OK LOGIN: Client "85.88.177.82"
+Mon Jun  5 21:03:12 2017 [pid 25142] [web] OK UPLOAD: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2236.txt", 0.00Kbyte/sec
+Mon Jun  5 21:03:13 2017 [pid 25142] [web] OK UPLOAD: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2236.zip", 10780 bytes, 26.95Kbyte/sec
+Mon Jun  5 21:03:13 2017 [pid 25142] [web] OK DELETE: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2236.txt"
+Mon Jun  5 21:03:16 2017 [pid 25144] CONNECT: Client "176.104.148.98"
+Mon Jun  5 21:03:16 2017 [pid 25143] [web] OK LOGIN: Client "176.104.148.98"
+Mon Jun  5 21:04:04 2017 [pid 25161] CONNECT: Client "85.88.175.34"
+Mon Jun  5 21:04:04 2017 [pid 25160] [web] OK LOGIN: Client "85.88.175.34"
+Mon Jun  5 21:04:05 2017 [pid 25164] [web] OK UPLOAD: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2529.txt", 0.00Kbyte/sec
+Mon Jun  5 21:04:05 2017 [pid 25164] [web] OK UPLOAD: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2529.zip", 14624 bytes, 34.24Kbyte/sec
+Mon Jun  5 21:04:05 2017 [pid 25137] [web] FAIL UPLOAD: Client "85.88.191.122", "/NewKatalog/1012584_0000044_1414.txt", 0.00Kbyte/sec
+Mon Jun  5 21:04:06 2017 [pid 25164] [web] OK DELETE: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2529.txt"
+Mon Jun  5 21:05:08 2017 [pid 25183] CONNECT: Client "85.88.172.122"
+Mon Jun  5 21:05:08 2017 [pid 25182] [web] OK LOGIN: Client "85.88.172.122"
+Mon Jun  5 21:05:09 2017 [pid 25186] [web] OK UPLOAD: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1350.txt", 0.00Kbyte/sec
+Mon Jun  5 21:05:09 2017 [pid 25186] [web] OK UPLOAD: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1350.zip", 13497 bytes, 84.23Kbyte/sec
+Mon Jun  5 21:05:09 2017 [pid 25186] [web] OK DELETE: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1350.txt"
+Mon Jun  5 21:05:17 2017 [pid 25188] CONNECT: Client "85.26.241.202"
+Mon Jun  5 21:05:17 2017 [pid 25187] [web] OK LOGIN: Client "85.26.241.202"
+Mon Jun  5 21:05:18 2017 [pid 25191] [web] OK UPLOAD: Client "85.26.241.202", "/NewKatalog/1012584_0000049_1318.txt", 0.00Kbyte/sec
+Mon Jun  5 21:05:19 2017 [pid 25193] CONNECT: Client "85.88.177.86"
+Mon Jun  5 21:05:19 2017 [pid 25192] [web] OK LOGIN: Client "85.88.177.86"
+Mon Jun  5 21:05:19 2017 [pid 25194] [web] OK UPLOAD: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1574.txt", 0.00Kbyte/sec
+Mon Jun  5 21:05:20 2017 [pid 25194] [web] OK UPLOAD: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1574.zip", 11774 bytes, 32.05Kbyte/sec
+Mon Jun  5 21:05:20 2017 [pid 25194] [web] OK DELETE: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1574.txt"
+Mon Jun  5 21:05:21 2017 [pid 25191] [web] OK UPLOAD: Client "85.26.241.202", "/NewKatalog/1012584_0000049_1318.zip", 9373 bytes, 4.20Kbyte/sec
+Mon Jun  5 21:05:21 2017 [pid 25191] [web] OK DELETE: Client "85.26.241.202", "/NewKatalog/1012584_0000049_1318.txt"
+Mon Jun  5 21:05:43 2017 [pid 25199] CONNECT: Client "176.104.155.205"
+Mon Jun  5 21:05:43 2017 [pid 25198] [web] OK LOGIN: Client "176.104.155.205"
+Mon Jun  5 21:05:44 2017 [pid 25202] [web] OK UPLOAD: Client "176.104.155.205", "/NewKatalog/1012584_0000012_943.txt", 0.00Kbyte/sec
+Mon Jun  5 21:05:44 2017 [pid 25202] [web] OK UPLOAD: Client "176.104.155.205", "/NewKatalog/1012584_0000012_943.zip", 14551 bytes, 46.39Kbyte/sec
+Mon Jun  5 21:05:44 2017 [pid 25202] [web] OK DELETE: Client "176.104.155.205", "/NewKatalog/1012584_0000012_943.txt"
+Mon Jun  5 21:05:54 2017 [pid 25207] CONNECT: Client "213.87.96.49"
+Mon Jun  5 21:05:54 2017 [pid 25205] [web] OK LOGIN: Client "213.87.96.49"
+Mon Jun  5 21:05:55 2017 [pid 25213] CONNECT: Client "159.255.26.157"
+Mon Jun  5 21:05:56 2017 [pid 25212] [web] OK LOGIN: Client "159.255.26.157"
+Mon Jun  5 21:05:56 2017 [pid 25209] [web] OK UPLOAD: Client "213.87.96.49", "/Katalog/1012584_0000056_677.txt", 0.00Kbyte/sec
+Mon Jun  5 21:05:56 2017 [pid 25214] [web] OK UPLOAD: Client "159.255.26.157", "/Katalog/1012584_0000004_10605.txt", 0.00Kbyte/sec
+Mon Jun  5 21:05:57 2017 [pid 25214] [web] OK UPLOAD: Client "159.255.26.157", "/Katalog/1012584_0000004_10605.zip", 23487 bytes, 54.32Kbyte/sec
+Mon Jun  5 21:05:57 2017 [pid 25214] [web] OK DELETE: Client "159.255.26.157", "/Katalog/1012584_0000004_10605.txt"
+Mon Jun  5 21:05:57 2017 [pid 25209] [web] OK UPLOAD: Client "213.87.96.49", "/Katalog/1012584_0000056_677.zip", 14554 bytes, 12.95Kbyte/sec
+Mon Jun  5 21:05:58 2017 [pid 25209] [web] OK DELETE: Client "213.87.96.49", "/Katalog/1012584_0000056_677.txt"
+Mon Jun  5 21:05:59 2017 [pid 25219] CONNECT: Client "83.234.96.217"
+Mon Jun  5 21:06:01 2017 [pid 25218] [web] OK LOGIN: Client "83.234.96.217"
+Mon Jun  5 21:06:08 2017 [pid 25223] [web] OK UPLOAD: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2284.txt", 0.00Kbyte/sec
+Mon Jun  5 21:06:08 2017 [pid 25228] CONNECT: Client "79.105.7.251"
+Mon Jun  5 21:06:09 2017 [pid 25226] [web] OK LOGIN: Client "79.105.7.251"
+Mon Jun  5 21:06:09 2017 [pid 25230] [web] OK UPLOAD: Client "79.105.7.251", "/NewKatalog/1012584_0000053_1003.txt", 0.00Kbyte/sec
+Mon Jun  5 21:06:09 2017 [pid 25230] [web] OK UPLOAD: Client "79.105.7.251", "/NewKatalog/1012584_0000053_1003.zip", 8768 bytes, 32.15Kbyte/sec
+Mon Jun  5 21:06:09 2017 [pid 25230] [web] OK DELETE: Client "79.105.7.251", "/NewKatalog/1012584_0000053_1003.txt"
+Mon Jun  5 21:06:11 2017 [pid 25223] [web] OK UPLOAD: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2284.zip", 10384 bytes, 9.33Kbyte/sec
+Mon Jun  5 21:06:12 2017 [pid 25223] [web] OK DELETE: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2284.txt"
+Mon Jun  5 21:06:19 2017 [pid 25233] CONNECT: Client "46.227.26.129"
+Mon Jun  5 21:06:19 2017 [pid 25232] [web] OK LOGIN: Client "46.227.26.129"
+Mon Jun  5 21:06:19 2017 [pid 25236] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1515.txt", 0.00Kbyte/sec
+Mon Jun  5 21:06:20 2017 [pid 25236] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1515.zip", 11450 bytes, 73.07Kbyte/sec
+Mon Jun  5 21:06:20 2017 [pid 25236] [web] OK DELETE: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1515.txt"
+Mon Jun  5 21:06:30 2017 [pid 25245] CONNECT: Client "85.88.176.14"
+Mon Jun  5 21:06:30 2017 [pid 25242] [web] OK LOGIN: Client "85.88.176.14"
+Mon Jun  5 21:06:31 2017 [pid 25246] [web] OK UPLOAD: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1273.txt", 0.00Kbyte/sec
+Mon Jun  5 21:06:31 2017 [pid 25246] [web] OK UPLOAD: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1273.zip", 8871 bytes, 27.30Kbyte/sec
+Mon Jun  5 21:06:31 2017 [pid 25246] [web] OK DELETE: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1273.txt"
+Mon Jun  5 21:06:44 2017 [pid 25251] CONNECT: Client "85.88.177.66"
+Mon Jun  5 21:06:44 2017 [pid 25250] [web] OK LOGIN: Client "85.88.177.66"
+Mon Jun  5 21:06:44 2017 [pid 25254] [web] OK UPLOAD: Client "85.88.177.66", "/NewKatalog/1012584_0000037_571.txt", 0.00Kbyte/sec
+Mon Jun  5 21:06:44 2017 [pid 25254] [web] OK UPLOAD: Client "85.88.177.66", "/NewKatalog/1012584_0000037_571.zip", 10547 bytes, 48.99Kbyte/sec
+Mon Jun  5 21:06:44 2017 [pid 25254] [web] OK DELETE: Client "85.88.177.66", "/NewKatalog/1012584_0000037_571.txt"
+Mon Jun  5 21:06:45 2017 [pid 25256] CONNECT: Client "85.88.177.70"
+Mon Jun  5 21:06:45 2017 [pid 25255] [web] OK LOGIN: Client "85.88.177.70"
+Mon Jun  5 21:06:45 2017 [pid 25259] CONNECT: Client "85.88.177.42"
+Mon Jun  5 21:06:45 2017 [pid 25257] [web] OK UPLOAD: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2163.txt", 0.00Kbyte/sec
+Mon Jun  5 21:06:46 2017 [pid 25258] [web] OK LOGIN: Client "85.88.177.42"
+Mon Jun  5 21:06:46 2017 [pid 25257] [web] OK UPLOAD: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2163.zip", 10529 bytes, 32.32Kbyte/sec
+Mon Jun  5 21:06:46 2017 [pid 25260] [web] OK UPLOAD: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2872.txt", 0.00Kbyte/sec
+Mon Jun  5 21:06:46 2017 [pid 25257] [web] OK DELETE: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2163.txt"
+Mon Jun  5 21:06:47 2017 [pid 25260] [web] OK UPLOAD: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2872.zip", 25162 bytes, 52.86Kbyte/sec
+Mon Jun  5 21:06:47 2017 [pid 25260] [web] OK DELETE: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2872.txt"
+Mon Jun  5 21:07:21 2017 [pid 25279] CONNECT: Client "85.88.175.42"
+Mon Jun  5 21:07:21 2017 [pid 25278] [web] OK LOGIN: Client "85.88.175.42"
+Mon Jun  5 21:07:22 2017 [pid 25282] [web] OK UPLOAD: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3499.txt", 0.00Kbyte/sec
+Mon Jun  5 21:07:22 2017 [pid 25282] [web] OK UPLOAD: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3499.zip", 11319 bytes, 26.64Kbyte/sec
+Mon Jun  5 21:07:22 2017 [pid 25282] [web] OK DELETE: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3499.txt"
+Mon Jun  5 21:07:33 2017 [pid 25287] CONNECT: Client "85.88.178.58"
+Mon Jun  5 21:07:33 2017 [pid 25286] [web] OK LOGIN: Client "85.88.178.58"
+Mon Jun  5 21:07:34 2017 [pid 25290] [web] OK UPLOAD: Client "85.88.178.58", "/Katalog/1012584_0000030_2709.txt", 0.00Kbyte/sec
+Mon Jun  5 21:07:34 2017 [pid 25290] [web] OK UPLOAD: Client "85.88.178.58", "/Katalog/1012584_0000030_2709.zip", 15734 bytes, 34.37Kbyte/sec
+Mon Jun  5 21:07:34 2017 [pid 25290] [web] OK DELETE: Client "85.88.178.58", "/Katalog/1012584_0000030_2709.txt"
+Mon Jun  5 21:08:13 2017 [pid 25305] CONNECT: Client "85.88.178.130"
+Mon Jun  5 21:08:13 2017 [pid 25304] [web] OK LOGIN: Client "85.88.178.130"
+Mon Jun  5 21:08:13 2017 [pid 25308] [web] OK UPLOAD: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2686.txt", 0.00Kbyte/sec
+Mon Jun  5 21:08:13 2017 [pid 25308] [web] OK UPLOAD: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2686.zip", 7826 bytes, 46.03Kbyte/sec
+Mon Jun  5 21:08:13 2017 [pid 25308] [web] OK DELETE: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2686.txt"
+Mon Jun  5 21:08:32 2017 [pid 25314] CONNECT: Client "79.105.100.245"
+Mon Jun  5 21:08:32 2017 [pid 25313] [web] OK LOGIN: Client "79.105.100.245"
+Mon Jun  5 21:08:33 2017 [pid 25317] [web] OK UPLOAD: Client "79.105.100.245", "/NewKatalog/1012584_0000066_241.txt", 0.00Kbyte/sec
+Mon Jun  5 21:08:33 2017 [pid 25317] [web] OK UPLOAD: Client "79.105.100.245", "/NewKatalog/1012584_0000066_241.zip", 4708 bytes, 31.08Kbyte/sec
+Mon Jun  5 21:08:33 2017 [pid 25317] [web] OK DELETE: Client "79.105.100.245", "/NewKatalog/1012584_0000066_241.txt"
+Mon Jun  5 21:08:49 2017 [pid 25320] CONNECT: Client "85.88.178.50"
+Mon Jun  5 21:08:50 2017 [pid 25318] [web] OK LOGIN: Client "85.88.178.50"
+Mon Jun  5 21:08:50 2017 [pid 25322] [web] OK UPLOAD: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2204.txt", 0.00Kbyte/sec
+Mon Jun  5 21:08:51 2017 [pid 25322] [web] OK UPLOAD: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2204.zip", 17296 bytes, 39.08Kbyte/sec
+Mon Jun  5 21:08:51 2017 [pid 25322] [web] OK DELETE: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2204.txt"
+Mon Jun  5 21:08:54 2017 [pid 25325] CONNECT: Client "159.255.26.153"
+Mon Jun  5 21:08:54 2017 [pid 25324] [web] OK LOGIN: Client "159.255.26.153"
+Mon Jun  5 21:08:54 2017 [pid 25328] [web] OK UPLOAD: Client "159.255.26.153", "/NewKatalog/1012584_0000026_805.txt", 0.00Kbyte/sec
+Mon Jun  5 21:08:54 2017 [pid 25328] [web] OK UPLOAD: Client "159.255.26.153", "/NewKatalog/1012584_0000026_805.zip", 12813 bytes, 86.44Kbyte/sec
+Mon Jun  5 21:08:54 2017 [pid 25328] [web] OK DELETE: Client "159.255.26.153", "/NewKatalog/1012584_0000026_805.txt"
+Mon Jun  5 21:10:05 2017 [pid 25363] CONNECT: Client "159.255.27.163"
+Mon Jun  5 21:10:05 2017 [pid 25361] [web] OK LOGIN: Client "159.255.27.163"
+Mon Jun  5 21:10:06 2017 [pid 25365] [web] OK UPLOAD: Client "159.255.27.163", "/NewKatalog/1012584_0000058_594.txt", 0.00Kbyte/sec
+Mon Jun  5 21:10:06 2017 [pid 25365] [web] OK UPLOAD: Client "159.255.27.163", "/NewKatalog/1012584_0000058_594.zip", 14021 bytes, 88.17Kbyte/sec
+Mon Jun  5 21:10:06 2017 [pid 25365] [web] OK DELETE: Client "159.255.27.163", "/NewKatalog/1012584_0000058_594.txt"
+Mon Jun  5 21:11:54 2017 [pid 25394] CONNECT: Client "85.88.189.214"
+Mon Jun  5 21:11:54 2017 [pid 25393] [web] OK LOGIN: Client "85.88.189.214"
+Mon Jun  5 21:11:55 2017 [pid 25397] [web] OK UPLOAD: Client "85.88.189.214", "/Katalog/1012584_0000045_1419.txt", 0.00Kbyte/sec
+Mon Jun  5 21:11:55 2017 [pid 25397] [web] OK UPLOAD: Client "85.88.189.214", "/Katalog/1012584_0000045_1419.zip", 11067 bytes, 34.96Kbyte/sec
+Mon Jun  5 21:11:55 2017 [pid 25397] [web] OK DELETE: Client "85.88.189.214", "/Katalog/1012584_0000045_1419.txt"
+Mon Jun  5 21:14:41 2017 [pid 25443] CONNECT: Client "85.88.174.106"
+Mon Jun  5 21:14:41 2017 [pid 25442] [web] OK LOGIN: Client "85.88.174.106"
+Mon Jun  5 21:14:41 2017 [pid 25446] [web] OK UPLOAD: Client "85.88.174.106", "/NewKatalog/1012584_0000034_9.txt", 0.00Kbyte/sec
+Mon Jun  5 21:14:42 2017 [pid 25446] [web] OK UPLOAD: Client "85.88.174.106", "/NewKatalog/1012584_0000034_9.zip", 26011 bytes, 105.76Kbyte/sec
+Mon Jun  5 21:14:42 2017 [pid 25446] [web] OK DELETE: Client "85.88.174.106", "/NewKatalog/1012584_0000034_9.txt"
+Mon Jun  5 21:16:46 2017 [pid 25474] CONNECT: Client "159.255.24.111"
+Mon Jun  5 21:16:47 2017 [pid 25473] [web] OK LOGIN: Client "159.255.24.111"
+Mon Jun  5 21:16:47 2017 [pid 25477] [web] OK UPLOAD: Client "159.255.24.111", "/Katalog/1012584_0000005_3693.txt", 0.00Kbyte/sec
+Mon Jun  5 21:16:47 2017 [pid 25477] [web] OK UPLOAD: Client "159.255.24.111", "/Katalog/1012584_0000005_3693.zip", 17739 bytes, 108.74Kbyte/sec
+Mon Jun  5 21:16:47 2017 [pid 25477] [web] OK DELETE: Client "159.255.24.111", "/Katalog/1012584_0000005_3693.txt"
+Tue Jun  6 00:17:01 2017 [pid 27822] CONNECT: Client "62.210.127.77"
+Tue Jun  6 00:17:02 2017 [pid 27827] CONNECT: Client "94.23.26.119"
+Tue Jun  6 00:17:05 2017 [pid 27826] [anonymous] FAIL LOGIN: Client "94.23.26.119"
+Tue Jun  6 10:32:44 2017 [pid 3453] CONNECT: Client "188.168.142.112"
+Tue Jun  6 10:32:44 2017 [pid 3452] [web] OK LOGIN: Client "188.168.142.112"
+Tue Jun  6 10:32:44 2017 [pid 3456] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2147.txt", 0.00Kbyte/sec
+Tue Jun  6 10:32:45 2017 [pid 3456] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2147.zip", 16173 bytes, 31.26Kbyte/sec
+Tue Jun  6 10:32:45 2017 [pid 3456] [web] OK DELETE: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2147.txt"
+Tue Jun  6 11:07:34 2017 [pid 3909] CONNECT: Client "45.32.187.3"
+Tue Jun  6 11:12:48 2017 [pid 3980] CONNECT: Client "45.76.133.137"
+Tue Jun  6 11:33:37 2017 [pid 4237] CONNECT: Client "85.88.175.46"
+Tue Jun  6 11:33:37 2017 [pid 4236] [web] OK LOGIN: Client "85.88.175.46"
+Tue Jun  6 11:33:37 2017 [pid 4240] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2389.txt", 0.00Kbyte/sec
+Tue Jun  6 11:33:38 2017 [pid 4240] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2389.zip", 1184 bytes, 6.19Kbyte/sec
+Tue Jun  6 11:33:38 2017 [pid 4240] [web] OK DELETE: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2389.txt"
+Tue Jun  6 13:24:44 2017 [pid 5645] CONNECT: Client "209.126.136.4"
+Tue Jun  6 17:29:18 2017 [pid 8796] CONNECT: Client "103.21.59.168"
+Tue Jun  6 17:29:21 2017 [pid 8795] [ftp] FAIL LOGIN: Client "103.21.59.168"
+Tue Jun  6 17:29:23 2017 [pid 8805] CONNECT: Client "103.21.59.168"
+Tue Jun  6 17:29:25 2017 [pid 8804] [admin] FAIL LOGIN: Client "103.21.59.168"
+Tue Jun  6 17:29:28 2017 [pid 8809] CONNECT: Client "103.21.59.168"
+Tue Jun  6 17:29:30 2017 [pid 8808] [blag.auss] FAIL LOGIN: Client "103.21.59.168"
+Tue Jun  6 17:29:32 2017 [pid 8813] CONNECT: Client "103.21.59.168"
+Tue Jun  6 17:29:35 2017 [pid 8812] [test] FAIL LOGIN: Client "103.21.59.168"
+Tue Jun  6 17:56:38 2017 [pid 9162] CONNECT: Client "60.191.38.78"
+Tue Jun  6 19:59:42 2017 [pid 10740] CONNECT: Client "85.88.165.70"
+Tue Jun  6 19:59:42 2017 [pid 10737] [web] OK LOGIN: Client "85.88.165.70"
+Tue Jun  6 19:59:42 2017 [pid 10741] [web] OK UPLOAD: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1066.txt", 0.00Kbyte/sec
+Tue Jun  6 19:59:43 2017 [pid 10741] [web] OK UPLOAD: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1066.zip", 9120 bytes, 29.63Kbyte/sec
+Tue Jun  6 19:59:43 2017 [pid 10741] [web] OK DELETE: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1066.txt"
+Tue Jun  6 20:00:18 2017 [pid 10752] CONNECT: Client "91.185.226.165"
+Tue Jun  6 20:00:18 2017 [pid 10751] [web] OK LOGIN: Client "91.185.226.165"
+Tue Jun  6 20:00:19 2017 [pid 10755] [web] OK UPLOAD: Client "91.185.226.165", "/NewKatalog/1012584_0000064_322.txt", 0.00Kbyte/sec
+Tue Jun  6 20:00:20 2017 [pid 10755] [web] OK UPLOAD: Client "91.185.226.165", "/NewKatalog/1012584_0000064_322.zip", 11749 bytes, 18.11Kbyte/sec
+Tue Jun  6 20:00:20 2017 [pid 10755] [web] OK DELETE: Client "91.185.226.165", "/NewKatalog/1012584_0000064_322.txt"
+Tue Jun  6 20:02:34 2017 [pid 10786] CONNECT: Client "159.255.24.20"
+Tue Jun  6 20:02:34 2017 [pid 10785] [web] OK LOGIN: Client "159.255.24.20"
+Tue Jun  6 20:02:35 2017 [pid 10789] [web] OK UPLOAD: Client "159.255.24.20", "/NewKatalog/1012584_0000003_2885.txt", 0.00Kbyte/sec
+Tue Jun  6 20:02:35 2017 [pid 10789] [web] OK UPLOAD: Client "159.255.24.20", "/NewKatalog/1012584_0000003_2885.zip", 16311 bytes, 75.60Kbyte/sec
+Tue Jun  6 20:02:35 2017 [pid 10789] [web] OK DELETE: Client "159.255.24.20", "/NewKatalog/1012584_0000003_2885.txt"
+Tue Jun  6 20:03:46 2017 [pid 10803] CONNECT: Client "85.88.178.70"
+Tue Jun  6 20:03:46 2017 [pid 10802] [web] OK LOGIN: Client "85.88.178.70"
+Tue Jun  6 20:03:46 2017 [pid 10806] [web] OK UPLOAD: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3674.txt", 0.00Kbyte/sec
+Tue Jun  6 20:03:47 2017 [pid 10806] [web] OK UPLOAD: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3674.zip", 7031 bytes, 21.23Kbyte/sec
+Tue Jun  6 20:03:47 2017 [pid 10806] [web] OK DELETE: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3674.txt"
+Tue Jun  6 20:03:55 2017 [pid 10812] CONNECT: Client "91.185.236.185"
+Tue Jun  6 20:03:55 2017 [pid 10811] [web] OK LOGIN: Client "91.185.236.185"
+Tue Jun  6 20:03:56 2017 [pid 10815] [web] OK UPLOAD: Client "91.185.236.185", "/NewKatalog/1012584_0000014_562.txt", 0.00Kbyte/sec
+Tue Jun  6 20:03:56 2017 [pid 10815] [web] OK UPLOAD: Client "91.185.236.185", "/NewKatalog/1012584_0000014_562.zip", 15381 bytes, 45.41Kbyte/sec
+Tue Jun  6 20:03:56 2017 [pid 10815] [web] OK DELETE: Client "91.185.236.185", "/NewKatalog/1012584_0000014_562.txt"
+Tue Jun  6 20:04:31 2017 [pid 10825] CONNECT: Client "89.109.173.49"
+Tue Jun  6 20:04:31 2017 [pid 10824] [web] OK LOGIN: Client "89.109.173.49"
+Tue Jun  6 20:04:31 2017 [pid 10828] [web] OK UPLOAD: Client "89.109.173.49", "/NewKatalog/1012584_0000063_374.txt", 0.00Kbyte/sec
+Tue Jun  6 20:04:32 2017 [pid 10828] [web] OK UPLOAD: Client "89.109.173.49", "/NewKatalog/1012584_0000063_374.zip", 6170 bytes, 20.83Kbyte/sec
+Tue Jun  6 20:04:32 2017 [pid 10828] [web] OK DELETE: Client "89.109.173.49", "/NewKatalog/1012584_0000063_374.txt"
+Tue Jun  6 20:04:57 2017 [pid 10837] CONNECT: Client "79.133.69.144"
+Tue Jun  6 20:04:57 2017 [pid 10836] [web] OK LOGIN: Client "79.133.69.144"
+Tue Jun  6 20:04:58 2017 [pid 10840] [web] OK UPLOAD: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2274.txt", 0.00Kbyte/sec
+Tue Jun  6 20:05:00 2017 [pid 10840] [web] OK UPLOAD: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2274.zip", 11366 bytes, 12.24Kbyte/sec
+Tue Jun  6 20:05:00 2017 [pid 10840] [web] OK DELETE: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2274.txt"
+Tue Jun  6 20:05:31 2017 [pid 10848] CONNECT: Client "89.109.130.176"
+Tue Jun  6 20:05:31 2017 [pid 10847] [web] OK LOGIN: Client "89.109.130.176"
+Tue Jun  6 20:05:31 2017 [pid 10851] [web] OK UPLOAD: Client "89.109.130.176", "/NewKatalog/1012584_0000060_396.txt", 0.00Kbyte/sec
+Tue Jun  6 20:05:32 2017 [pid 10851] [web] OK UPLOAD: Client "89.109.130.176", "/NewKatalog/1012584_0000060_396.zip", 11392 bytes, 53.94Kbyte/sec
+Tue Jun  6 20:05:32 2017 [pid 10851] [web] OK DELETE: Client "89.109.130.176", "/NewKatalog/1012584_0000060_396.txt"
+Tue Jun  6 20:08:55 2017 [pid 10900] CONNECT: Client "79.105.14.103"
+Tue Jun  6 20:08:56 2017 [pid 10899] [web] OK LOGIN: Client "79.105.14.103"
+Tue Jun  6 20:08:56 2017 [pid 10903] [web] OK UPLOAD: Client "79.105.14.103", "/NewKatalog/1012584_0000057_707.txt", 0.00Kbyte/sec
+Tue Jun  6 20:08:56 2017 [pid 10903] [web] OK UPLOAD: Client "79.105.14.103", "/NewKatalog/1012584_0000057_707.zip", 4769 bytes, 38.81Kbyte/sec
+Tue Jun  6 20:08:56 2017 [pid 10903] [web] OK DELETE: Client "79.105.14.103", "/NewKatalog/1012584_0000057_707.txt"
+Tue Jun  6 20:10:33 2017 [pid 10943] CONNECT: Client "62.33.40.7"
+Tue Jun  6 20:10:33 2017 [pid 10942] [web] OK LOGIN: Client "62.33.40.7"
+Tue Jun  6 20:10:33 2017 [pid 10944] [web] OK UPLOAD: Client "62.33.40.7", "/NewKatalog/1012584_0000032_28.txt", 0.00Kbyte/sec
+Tue Jun  6 20:10:34 2017 [pid 10944] [web] OK UPLOAD: Client "62.33.40.7", "/NewKatalog/1012584_0000032_28.zip", 19736 bytes, 74.04Kbyte/sec
+Tue Jun  6 20:10:34 2017 [pid 10944] [web] OK DELETE: Client "62.33.40.7", "/NewKatalog/1012584_0000032_28.txt"
+Tue Jun  6 20:10:49 2017 [pid 10947] CONNECT: Client "217.118.64.43"
+Tue Jun  6 20:10:51 2017 [pid 10946] [web] OK LOGIN: Client "217.118.64.43"
+Tue Jun  6 20:10:56 2017 [pid 10950] [web] OK UPLOAD: Client "217.118.64.43", "/NewKatalog/1012584_0000059_402.txt", 0.00Kbyte/sec
+Tue Jun  6 20:11:01 2017 [pid 10950] [web] OK UPLOAD: Client "217.118.64.43", "/NewKatalog/1012584_0000059_402.zip", 7227 bytes, 2.19Kbyte/sec
+Tue Jun  6 20:11:01 2017 [pid 10950] [web] OK DELETE: Client "217.118.64.43", "/NewKatalog/1012584_0000059_402.txt"
+Tue Jun  6 20:13:17 2017 [pid 10986] CONNECT: Client "79.133.69.209"
+Tue Jun  6 20:13:17 2017 [pid 10985] [web] OK LOGIN: Client "79.133.69.209"
+Tue Jun  6 20:13:18 2017 [pid 10989] [web] OK UPLOAD: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2324.txt", 0.00Kbyte/sec
+Tue Jun  6 20:13:20 2017 [pid 10989] [web] OK UPLOAD: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2324.zip", 20652 bytes, 16.18Kbyte/sec
+Tue Jun  6 20:13:21 2017 [pid 10989] [web] OK DELETE: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2324.txt"
+Tue Jun  6 20:14:20 2017 [pid 11006] CONNECT: Client "85.88.175.46"
+Tue Jun  6 20:14:20 2017 [pid 11005] [web] OK LOGIN: Client "85.88.175.46"
+Tue Jun  6 20:14:20 2017 [pid 11009] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2390.txt", 0.00Kbyte/sec
+Tue Jun  6 20:14:21 2017 [pid 11009] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2390.zip", 7858 bytes, 25.74Kbyte/sec
+Tue Jun  6 20:14:21 2017 [pid 11009] [web] OK DELETE: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2390.txt"
+Tue Jun  6 20:15:32 2017 [pid 11027] CONNECT: Client "46.48.246.221"
+Tue Jun  6 20:15:32 2017 [pid 11026] [web] OK LOGIN: Client "46.48.246.221"
+Tue Jun  6 20:15:33 2017 [pid 11030] [web] OK UPLOAD: Client "46.48.246.221", "/NewKatalog/1012584_0000065_320.txt", 0.00Kbyte/sec
+Tue Jun  6 20:15:33 2017 [pid 11030] [web] OK UPLOAD: Client "46.48.246.221", "/NewKatalog/1012584_0000065_320.zip", 10377 bytes, 31.44Kbyte/sec
+Tue Jun  6 20:15:33 2017 [pid 11030] [web] OK DELETE: Client "46.48.246.221", "/NewKatalog/1012584_0000065_320.txt"
+Tue Jun  6 20:45:04 2017 [pid 11419] CONNECT: Client "213.207.208.155"
+Tue Jun  6 20:45:07 2017 [pid 11418] [anonymous] FAIL LOGIN: Client "213.207.208.155"
+Tue Jun  6 21:00:20 2017 [pid 11615] CONNECT: Client "85.88.164.198"
+Tue Jun  6 21:00:20 2017 [pid 11614] [web] OK LOGIN: Client "85.88.164.198"
+Tue Jun  6 21:00:21 2017 [pid 11618] [web] OK UPLOAD: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3109.txt", 0.00Kbyte/sec
+Tue Jun  6 21:00:21 2017 [pid 11618] [web] OK UPLOAD: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3109.zip", 8113 bytes, 30.04Kbyte/sec
+Tue Jun  6 21:00:21 2017 [pid 11618] [web] OK DELETE: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3109.txt"
+Tue Jun  6 21:00:51 2017 [pid 11623] CONNECT: Client "79.105.167.36"
+Tue Jun  6 21:00:51 2017 [pid 11622] [web] OK LOGIN: Client "79.105.167.36"
+Tue Jun  6 21:00:52 2017 [pid 11626] [web] OK UPLOAD: Client "79.105.167.36", "/NewKatalog/1012584_0000055_781.txt", 0.00Kbyte/sec
+Tue Jun  6 21:00:52 2017 [pid 11626] [web] OK UPLOAD: Client "79.105.167.36", "/NewKatalog/1012584_0000055_781.zip", 15780 bytes, 89.44Kbyte/sec
+Tue Jun  6 21:00:52 2017 [pid 11626] [web] OK DELETE: Client "79.105.167.36", "/NewKatalog/1012584_0000055_781.txt"
+Tue Jun  6 21:02:07 2017 [pid 11649] CONNECT: Client "85.88.177.82"
+Tue Jun  6 21:02:08 2017 [pid 11648] [web] OK LOGIN: Client "85.88.177.82"
+Tue Jun  6 21:02:08 2017 [pid 11652] [web] OK UPLOAD: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2237.txt", 0.00Kbyte/sec
+Tue Jun  6 21:02:09 2017 [pid 11652] [web] OK UPLOAD: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2237.zip", 11560 bytes, 28.32Kbyte/sec
+Tue Jun  6 21:02:09 2017 [pid 11652] [web] OK DELETE: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2237.txt"
+Tue Jun  6 21:02:56 2017 [pid 11660] CONNECT: Client "159.255.25.224"
+Tue Jun  6 21:02:56 2017 [pid 11659] [web] OK LOGIN: Client "159.255.25.224"
+Tue Jun  6 21:02:56 2017 [pid 11663] [web] OK UPLOAD: Client "159.255.25.224", "/NewKatalog/1012584_0000026_806.txt", 0.00Kbyte/sec
+Tue Jun  6 21:02:56 2017 [pid 11663] [web] OK UPLOAD: Client "159.255.25.224", "/NewKatalog/1012584_0000026_806.zip", 15711 bytes, 99.47Kbyte/sec
+Tue Jun  6 21:02:56 2017 [pid 11663] [web] OK DELETE: Client "159.255.25.224", "/NewKatalog/1012584_0000026_806.txt"
+Tue Jun  6 21:03:34 2017 [pid 11674] CONNECT: Client "85.88.191.122"
+Tue Jun  6 21:04:05 2017 [pid 11688] CONNECT: Client "37.29.88.173"
+Tue Jun  6 21:04:05 2017 [pid 11687] [web] OK LOGIN: Client "37.29.88.173"
+Tue Jun  6 21:04:06 2017 [pid 11691] [web] OK UPLOAD: Client "37.29.88.173", "/NewKatalog/1012584_0000049_1319.txt", 0.00Kbyte/sec
+Tue Jun  6 21:04:08 2017 [pid 11693] CONNECT: Client "85.88.180.254"
+Tue Jun  6 21:04:08 2017 [pid 11691] [web] OK UPLOAD: Client "37.29.88.173", "/NewKatalog/1012584_0000049_1319.zip", 7751 bytes, 3.48Kbyte/sec
+Tue Jun  6 21:04:08 2017 [pid 11692] [web] OK LOGIN: Client "85.88.180.254"
+Tue Jun  6 21:04:08 2017 [pid 11691] [web] OK DELETE: Client "37.29.88.173", "/NewKatalog/1012584_0000049_1319.txt"
+Tue Jun  6 21:04:08 2017 [pid 11696] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2759.txt", 0.00Kbyte/sec
+Tue Jun  6 21:04:09 2017 [pid 11696] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2759.zip", 14785 bytes, 89.33Kbyte/sec
+Tue Jun  6 21:04:09 2017 [pid 11696] [web] OK DELETE: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2759.txt"
+Tue Jun  6 21:04:09 2017 [pid 11696] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2760.txt", 0.00Kbyte/sec
+Tue Jun  6 21:04:09 2017 [pid 11696] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2760.zip", 13211 bytes, 88.02Kbyte/sec
+Tue Jun  6 21:04:09 2017 [pid 11696] [web] OK DELETE: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2760.txt"
+Tue Jun  6 21:04:24 2017 [pid 11701] CONNECT: Client "46.227.26.129"
+Tue Jun  6 21:04:24 2017 [pid 11700] [web] OK LOGIN: Client "46.227.26.129"
+Tue Jun  6 21:04:24 2017 [pid 11704] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1516.txt", 0.00Kbyte/sec
+Tue Jun  6 21:04:27 2017 [pid 11706] CONNECT: Client "85.88.175.34"
+Tue Jun  6 21:04:27 2017 [pid 11705] [web] OK LOGIN: Client "85.88.175.34"
+Tue Jun  6 21:04:28 2017 [pid 11709] [web] OK UPLOAD: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2530.txt", 0.00Kbyte/sec
+Tue Jun  6 21:04:28 2017 [pid 11709] [web] OK UPLOAD: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2530.zip", 10874 bytes, 27.65Kbyte/sec
+Tue Jun  6 21:04:28 2017 [pid 11709] [web] OK DELETE: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2530.txt"
+Tue Jun  6 21:04:32 2017 [pid 11711] CONNECT: Client "176.104.155.205"
+Tue Jun  6 21:04:32 2017 [pid 11710] [web] OK LOGIN: Client "176.104.155.205"
+Tue Jun  6 21:04:33 2017 [pid 11714] [web] OK UPLOAD: Client "176.104.155.205", "/NewKatalog/1012584_0000012_944.txt", 0.00Kbyte/sec
+Tue Jun  6 21:04:33 2017 [pid 11714] [web] OK UPLOAD: Client "176.104.155.205", "/NewKatalog/1012584_0000012_944.zip", 12967 bytes, 50.64Kbyte/sec
+Tue Jun  6 21:04:33 2017 [pid 11714] [web] OK DELETE: Client "176.104.155.205", "/NewKatalog/1012584_0000012_944.txt"
+Tue Jun  6 21:04:42 2017 [pid 11716] CONNECT: Client "176.104.148.98"
+Tue Jun  6 21:04:42 2017 [pid 11715] [web] OK LOGIN: Client "176.104.148.98"
+Tue Jun  6 21:04:44 2017 [pid 11721] CONNECT: Client "79.105.47.186"
+Tue Jun  6 21:04:44 2017 [pid 11720] [web] OK LOGIN: Client "79.105.47.186"
+Tue Jun  6 21:04:44 2017 [pid 11722] [web] OK UPLOAD: Client "79.105.47.186", "/NewKatalog/1012584_0000017_1331.txt", 0.00Kbyte/sec
+Tue Jun  6 21:04:44 2017 [pid 11722] [web] OK UPLOAD: Client "79.105.47.186", "/NewKatalog/1012584_0000017_1331.zip", 9277 bytes, 50.40Kbyte/sec
+Tue Jun  6 21:04:44 2017 [pid 11722] [web] OK DELETE: Client "79.105.47.186", "/NewKatalog/1012584_0000017_1331.txt"
+Tue Jun  6 21:04:45 2017 [pid 11724] CONNECT: Client "85.88.177.62"
+Tue Jun  6 21:04:45 2017 [pid 11723] [web] OK LOGIN: Client "85.88.177.62"
+Tue Jun  6 21:04:45 2017 [pid 11725] [web] OK UPLOAD: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2209.txt", 0.00Kbyte/sec
+Tue Jun  6 21:04:46 2017 [pid 11725] [web] OK UPLOAD: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2209.zip", 10316 bytes, 26.46Kbyte/sec
+Tue Jun  6 21:04:46 2017 [pid 11725] [web] OK DELETE: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2209.txt"
+Tue Jun  6 21:04:50 2017 [pid 11727] CONNECT: Client "85.88.178.58"
+Tue Jun  6 21:04:50 2017 [pid 11726] [web] OK LOGIN: Client "85.88.178.58"
+Tue Jun  6 21:04:50 2017 [pid 11730] [web] OK UPLOAD: Client "85.88.178.58", "/Katalog/1012584_0000030_2710.txt", 0.00Kbyte/sec
+Tue Jun  6 21:04:51 2017 [pid 11730] [web] OK UPLOAD: Client "85.88.178.58", "/Katalog/1012584_0000030_2710.zip", 14757 bytes, 31.81Kbyte/sec
+Tue Jun  6 21:04:51 2017 [pid 11730] [web] OK DELETE: Client "85.88.178.58", "/Katalog/1012584_0000030_2710.txt"
+Tue Jun  6 21:05:10 2017 [pid 11740] CONNECT: Client "85.88.177.42"
+Tue Jun  6 21:05:10 2017 [pid 11739] [web] OK LOGIN: Client "85.88.177.42"
+Tue Jun  6 21:05:10 2017 [pid 11743] [web] OK UPLOAD: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2873.txt", 0.00Kbyte/sec
+Tue Jun  6 21:05:11 2017 [pid 11743] [web] OK UPLOAD: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2873.zip", 23693 bytes, 50.45Kbyte/sec
+Tue Jun  6 21:05:11 2017 [pid 11743] [web] OK DELETE: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2873.txt"
+Tue Jun  6 21:05:12 2017 [pid 11745] CONNECT: Client "85.88.177.70"
+Tue Jun  6 21:05:13 2017 [pid 11744] [web] OK LOGIN: Client "85.88.177.70"
+Tue Jun  6 21:05:13 2017 [pid 11746] [web] OK UPLOAD: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2164.txt", 0.00Kbyte/sec
+Tue Jun  6 21:05:13 2017 [pid 11746] [web] OK UPLOAD: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2164.zip", 9719 bytes, 30.61Kbyte/sec
+Tue Jun  6 21:05:13 2017 [pid 11746] [web] OK DELETE: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2164.txt"
+Tue Jun  6 21:05:24 2017 [pid 11755] CONNECT: Client "159.255.27.2"
+Tue Jun  6 21:05:24 2017 [pid 11754] [web] OK LOGIN: Client "159.255.27.2"
+Tue Jun  6 21:05:24 2017 [pid 11756] [web] OK UPLOAD: Client "159.255.27.2", "/Katalog/1012584_0000004_10606.txt", 0.00Kbyte/sec
+Tue Jun  6 21:05:25 2017 [pid 11756] [web] OK UPLOAD: Client "159.255.27.2", "/Katalog/1012584_0000004_10606.zip", 25310 bytes, 54.90Kbyte/sec
+Tue Jun  6 21:05:25 2017 [pid 11756] [web] OK DELETE: Client "159.255.27.2", "/Katalog/1012584_0000004_10606.txt"
+Tue Jun  6 21:05:28 2017 [pid 11759] CONNECT: Client "213.87.96.49"
+Tue Jun  6 21:05:28 2017 [pid 11758] [web] OK LOGIN: Client "213.87.96.49"
+Tue Jun  6 21:05:30 2017 [pid 11762] [web] OK UPLOAD: Client "213.87.96.49", "/Katalog/1012584_0000056_678.txt", 0.00Kbyte/sec
+Tue Jun  6 21:05:31 2017 [pid 11762] [web] OK UPLOAD: Client "213.87.96.49", "/Katalog/1012584_0000056_678.zip", 13465 bytes, 12.25Kbyte/sec
+Tue Jun  6 21:05:32 2017 [pid 11762] [web] OK DELETE: Client "213.87.96.49", "/Katalog/1012584_0000056_678.txt"
+Tue Jun  6 21:05:37 2017 [pid 11764] CONNECT: Client "85.88.177.102"
+Tue Jun  6 21:05:37 2017 [pid 11763] [web] OK LOGIN: Client "85.88.177.102"
+Tue Jun  6 21:05:37 2017 [pid 11767] [web] OK UPLOAD: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3218.txt", 0.00Kbyte/sec
+Tue Jun  6 21:05:38 2017 [pid 11767] [web] OK UPLOAD: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3218.zip", 17210 bytes, 46.94Kbyte/sec
+Tue Jun  6 21:05:38 2017 [pid 11767] [web] OK DELETE: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3218.txt"
+Tue Jun  6 21:06:26 2017 [pid 11786] CONNECT: Client "85.88.172.122"
+Tue Jun  6 21:06:26 2017 [pid 11785] [web] OK LOGIN: Client "85.88.172.122"
+Tue Jun  6 21:06:26 2017 [pid 11789] [web] OK UPLOAD: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1351.txt", 0.00Kbyte/sec
+Tue Jun  6 21:06:26 2017 [pid 11789] [web] OK UPLOAD: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1351.zip", 11848 bytes, 69.13Kbyte/sec
+Tue Jun  6 21:06:26 2017 [pid 11789] [web] OK DELETE: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1351.txt"
+Tue Jun  6 21:06:39 2017 [pid 11791] CONNECT: Client "79.105.7.251"
+Tue Jun  6 21:06:39 2017 [pid 11790] [web] OK LOGIN: Client "79.105.7.251"
+Tue Jun  6 21:06:39 2017 [pid 11794] [web] OK UPLOAD: Client "79.105.7.251", "/NewKatalog/1012584_0000053_1004.txt", 0.00Kbyte/sec
+Tue Jun  6 21:06:40 2017 [pid 11794] [web] OK UPLOAD: Client "79.105.7.251", "/NewKatalog/1012584_0000053_1004.zip", 9884 bytes, 36.34Kbyte/sec
+Tue Jun  6 21:06:40 2017 [pid 11794] [web] OK DELETE: Client "79.105.7.251", "/NewKatalog/1012584_0000053_1004.txt"
+Tue Jun  6 21:07:11 2017 [pid 11806] CONNECT: Client "46.227.26.129"
+Tue Jun  6 21:07:11 2017 [pid 11805] [web] OK LOGIN: Client "46.227.26.129"
+Tue Jun  6 21:07:15 2017 [pid 11809] CONNECT: Client "79.105.0.229"
+Tue Jun  6 21:07:15 2017 [pid 11808] [web] OK LOGIN: Client "79.105.0.229"
+Tue Jun  6 21:07:16 2017 [pid 11814] CONNECT: Client "83.234.96.217"
+Tue Jun  6 21:07:16 2017 [pid 11813] [web] OK LOGIN: Client "83.234.96.217"
+Tue Jun  6 21:07:16 2017 [pid 11815] [web] OK UPLOAD: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2285.txt", 0.00Kbyte/sec
+Tue Jun  6 21:07:16 2017 [pid 11815] [web] OK UPLOAD: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2285.zip", 12017 bytes, 69.45Kbyte/sec
+Tue Jun  6 21:07:17 2017 [pid 11815] [web] OK DELETE: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2285.txt"
+Tue Jun  6 21:07:51 2017 [pid 11822] CONNECT: Client "159.255.25.175"
+Tue Jun  6 21:07:51 2017 [pid 11820] [web] OK LOGIN: Client "159.255.25.175"
+Tue Jun  6 21:07:51 2017 [pid 11824] [web] OK UPLOAD: Client "159.255.25.175", "/NewKatalog/1012584_0000058_595.txt", 0.00Kbyte/sec
+Tue Jun  6 21:07:51 2017 [pid 11824] [web] OK UPLOAD: Client "159.255.25.175", "/NewKatalog/1012584_0000058_595.zip", 16587 bytes, 89.63Kbyte/sec
+Tue Jun  6 21:07:51 2017 [pid 11824] [web] OK DELETE: Client "159.255.25.175", "/NewKatalog/1012584_0000058_595.txt"
+Tue Jun  6 21:08:35 2017 [pid 11841] CONNECT: Client "85.88.175.42"
+Tue Jun  6 21:08:35 2017 [pid 11839] [web] OK LOGIN: Client "85.88.175.42"
+Tue Jun  6 21:08:35 2017 [pid 11843] [web] OK UPLOAD: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3500.txt", 0.00Kbyte/sec
+Tue Jun  6 21:08:36 2017 [pid 11843] [web] OK UPLOAD: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3500.zip", 12511 bytes, 31.59Kbyte/sec
+Tue Jun  6 21:08:36 2017 [pid 11843] [web] OK DELETE: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3500.txt"
+Tue Jun  6 21:09:04 2017 [pid 11866] CONNECT: Client "85.88.177.86"
+Tue Jun  6 21:09:04 2017 [pid 11864] [web] OK LOGIN: Client "85.88.177.86"
+Tue Jun  6 21:09:04 2017 [pid 11868] [web] OK UPLOAD: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1575.txt", 0.00Kbyte/sec
+Tue Jun  6 21:09:05 2017 [pid 11868] [web] OK UPLOAD: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1575.zip", 8578 bytes, 27.81Kbyte/sec
+Tue Jun  6 21:09:05 2017 [pid 11868] [web] OK DELETE: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1575.txt"
+Tue Jun  6 21:09:24 2017 [pid 11704] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1516.zip", 10507 bytes, 0.03Kbyte/sec
+Tue Jun  6 21:09:37 2017 [pid 11880] CONNECT: Client "85.88.176.14"
+Tue Jun  6 21:09:37 2017 [pid 11879] [web] OK LOGIN: Client "85.88.176.14"
+Tue Jun  6 21:09:37 2017 [pid 11883] [web] OK UPLOAD: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1274.txt", 0.00Kbyte/sec
+Tue Jun  6 21:09:38 2017 [pid 11883] [web] OK UPLOAD: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1274.zip", 10461 bytes, 29.93Kbyte/sec
+Tue Jun  6 21:09:38 2017 [pid 11883] [web] OK DELETE: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1274.txt"
+Tue Jun  6 21:09:49 2017 [pid 11887] CONNECT: Client "85.88.168.210"
+Tue Jun  6 21:09:50 2017 [pid 11886] [web] OK LOGIN: Client "85.88.168.210"
+Tue Jun  6 21:09:50 2017 [pid 11890] [web] OK UPLOAD: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1724.txt", 0.00Kbyte/sec
+Tue Jun  6 21:09:51 2017 [pid 11890] [web] OK UPLOAD: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1724.zip", 15836 bytes, 36.69Kbyte/sec
+Tue Jun  6 21:09:51 2017 [pid 11890] [web] OK DELETE: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1724.txt"
+Tue Jun  6 21:10:35 2017 [pid 11910] CONNECT: Client "85.88.178.50"
+Tue Jun  6 21:10:36 2017 [pid 11909] [web] OK LOGIN: Client "85.88.178.50"
+Tue Jun  6 21:10:36 2017 [pid 11913] [web] OK UPLOAD: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2205.txt", 0.00Kbyte/sec
+Tue Jun  6 21:10:37 2017 [pid 11913] [web] OK UPLOAD: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2205.zip", 17374 bytes, 40.33Kbyte/sec
+Tue Jun  6 21:10:37 2017 [pid 11913] [web] OK DELETE: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2205.txt"
+Tue Jun  6 21:10:45 2017 [pid 11915] CONNECT: Client "85.88.177.66"
+Tue Jun  6 21:10:45 2017 [pid 11914] [web] OK LOGIN: Client "85.88.177.66"
+Tue Jun  6 21:10:45 2017 [pid 11918] [web] OK UPLOAD: Client "85.88.177.66", "/NewKatalog/1012584_0000037_572.txt", 0.00Kbyte/sec
+Tue Jun  6 21:10:46 2017 [pid 11918] [web] OK UPLOAD: Client "85.88.177.66", "/NewKatalog/1012584_0000037_572.zip", 8397 bytes, 70.49Kbyte/sec
+Tue Jun  6 21:10:46 2017 [pid 11918] [web] OK DELETE: Client "85.88.177.66", "/NewKatalog/1012584_0000037_572.txt"
+Tue Jun  6 21:11:14 2017 [pid 11929] CONNECT: Client "85.88.174.106"
+Tue Jun  6 21:11:14 2017 [pid 11927] [web] OK LOGIN: Client "85.88.174.106"
+Tue Jun  6 21:11:15 2017 [pid 11931] [web] OK UPLOAD: Client "85.88.174.106", "/NewKatalog/1012584_0000034_10.txt", 0.00Kbyte/sec
+Tue Jun  6 21:11:15 2017 [pid 11931] [web] OK UPLOAD: Client "85.88.174.106", "/NewKatalog/1012584_0000034_10.zip", 23909 bytes, 99.48Kbyte/sec
+Tue Jun  6 21:11:15 2017 [pid 11931] [web] OK DELETE: Client "85.88.174.106", "/NewKatalog/1012584_0000034_10.txt"
+Tue Jun  6 21:11:32 2017 [pid 11939] CONNECT: Client "79.105.100.245"
+Tue Jun  6 21:11:32 2017 [pid 11938] [web] OK LOGIN: Client "79.105.100.245"
+Tue Jun  6 21:11:32 2017 [pid 11942] [web] OK UPLOAD: Client "79.105.100.245", "/NewKatalog/1012584_0000066_242.txt", 0.00Kbyte/sec
+Tue Jun  6 21:11:32 2017 [pid 11942] [web] OK UPLOAD: Client "79.105.100.245", "/NewKatalog/1012584_0000066_242.zip", 6572 bytes, 50.07Kbyte/sec
+Tue Jun  6 21:11:32 2017 [pid 11942] [web] OK DELETE: Client "79.105.100.245", "/NewKatalog/1012584_0000066_242.txt"
+Tue Jun  6 21:12:11 2017 [pid 11807] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1516.txt", 0.00Kbyte/sec
+Tue Jun  6 21:14:34 2017 [pid 11998] CONNECT: Client "85.88.173.26"
+Tue Jun  6 21:14:34 2017 [pid 11997] [web] OK LOGIN: Client "85.88.173.26"
+Tue Jun  6 21:14:35 2017 [pid 12001] [web] OK UPLOAD: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1206.txt", 0.00Kbyte/sec
+Tue Jun  6 21:14:35 2017 [pid 12001] [web] OK UPLOAD: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1206.zip", 15443 bytes, 44.93Kbyte/sec
+Tue Jun  6 21:14:35 2017 [pid 12001] [web] OK DELETE: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1206.txt"
+Tue Jun  6 21:16:38 2017 [pid 12039] CONNECT: Client "85.88.178.130"
+Tue Jun  6 21:16:38 2017 [pid 12038] [web] OK LOGIN: Client "85.88.178.130"
+Tue Jun  6 21:16:39 2017 [pid 12042] [web] OK UPLOAD: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2687.txt", 0.00Kbyte/sec
+Tue Jun  6 21:16:39 2017 [pid 12042] [web] OK UPLOAD: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2687.zip", 12885 bytes, 66.03Kbyte/sec
+Tue Jun  6 21:16:39 2017 [pid 12042] [web] OK DELETE: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2687.txt"
+Tue Jun  6 21:20:06 2017 [pid 12096] CONNECT: Client "159.255.26.33"
+Tue Jun  6 21:20:06 2017 [pid 12095] [web] OK LOGIN: Client "159.255.26.33"
+Tue Jun  6 21:20:06 2017 [pid 12099] [web] OK UPLOAD: Client "159.255.26.33", "/Katalog/1012584_0000005_3694.txt", 0.00Kbyte/sec
+Tue Jun  6 21:20:07 2017 [pid 12099] [web] OK UPLOAD: Client "159.255.26.33", "/Katalog/1012584_0000005_3694.zip", 24642 bytes, 124.25Kbyte/sec
+Tue Jun  6 21:20:07 2017 [pid 12099] [web] OK DELETE: Client "159.255.26.33", "/Katalog/1012584_0000005_3694.txt"
+Tue Jun  6 21:23:52 2017 [pid 12142] CONNECT: Client "85.88.189.214"
+Tue Jun  6 21:23:52 2017 [pid 12141] [web] OK LOGIN: Client "85.88.189.214"
+Tue Jun  6 21:23:52 2017 [pid 12145] [web] OK UPLOAD: Client "85.88.189.214", "/Katalog/1012584_0000045_1420.txt", 0.00Kbyte/sec
+Tue Jun  6 21:23:53 2017 [pid 12145] [web] OK UPLOAD: Client "85.88.189.214", "/Katalog/1012584_0000045_1420.zip", 7753 bytes, 29.00Kbyte/sec
+Tue Jun  6 21:23:53 2017 [pid 12145] [web] OK DELETE: Client "85.88.189.214", "/Katalog/1012584_0000045_1420.txt"
+Tue Jun  6 21:35:20 2017 [pid 12294] CONNECT: Client "188.168.142.112"
+Tue Jun  6 21:35:21 2017 [pid 12293] [web] OK LOGIN: Client "188.168.142.112"
+Tue Jun  6 21:35:21 2017 [pid 12297] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2148.txt", 0.00Kbyte/sec
+Tue Jun  6 21:35:21 2017 [pid 12297] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2148.zip", 12570 bytes, 30.78Kbyte/sec
+Tue Jun  6 21:35:22 2017 [pid 12297] [web] OK DELETE: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2148.txt"
+Wed Jun  7 05:16:52 2017 [pid 18264] CONNECT: Client "164.52.7.134"
+Wed Jun  7 05:16:53 2017 [pid 18268] CONNECT: Client "164.52.7.134"
+Wed Jun  7 09:49:55 2017 [pid 21958] CONNECT: Client "188.168.142.112"
+Wed Jun  7 09:49:55 2017 [pid 21957] [web] OK LOGIN: Client "188.168.142.112"
+Wed Jun  7 09:49:55 2017 [pid 21961] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2149.txt", 0.00Kbyte/sec
+Wed Jun  7 09:49:56 2017 [pid 21961] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2149.zip", 5439 bytes, 16.03Kbyte/sec
+Wed Jun  7 09:49:56 2017 [pid 21961] [web] OK DELETE: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2149.txt"
+Wed Jun  7 09:53:16 2017 [pid 22008] CONNECT: Client "46.227.26.129"
+Wed Jun  7 09:53:16 2017 [pid 22007] [web] OK LOGIN: Client "46.227.26.129"
+Wed Jun  7 09:53:16 2017 [pid 22011] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1516.txt", 0.00Kbyte/sec
+Wed Jun  7 09:53:16 2017 [pid 22011] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1516.zip", 10507 bytes, 63.56Kbyte/sec
+Wed Jun  7 09:53:16 2017 [pid 22011] [web] OK DELETE: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1516.txt"
+Wed Jun  7 13:45:20 2017 [pid 25005] CONNECT: Client "139.162.73.19"
+Wed Jun  7 20:01:21 2017 [pid 30005] CONNECT: Client "94.245.184.129"
+Wed Jun  7 20:01:22 2017 [pid 30004] [web] OK LOGIN: Client "94.245.184.129"
+Wed Jun  7 20:01:22 2017 [pid 30008] [web] OK UPLOAD: Client "94.245.184.129", "/NewKatalog/1012584_0000064_323.txt", 0.00Kbyte/sec
+Wed Jun  7 20:01:23 2017 [pid 30008] [web] OK UPLOAD: Client "94.245.184.129", "/NewKatalog/1012584_0000064_323.zip", 13456 bytes, 20.03Kbyte/sec
+Wed Jun  7 20:01:24 2017 [pid 30008] [web] OK DELETE: Client "94.245.184.129", "/NewKatalog/1012584_0000064_323.txt"
+Wed Jun  7 20:01:27 2017 [pid 30013] CONNECT: Client "85.88.165.70"
+Wed Jun  7 20:01:27 2017 [pid 30012] [web] OK LOGIN: Client "85.88.165.70"
+Wed Jun  7 20:01:28 2017 [pid 30016] [web] OK UPLOAD: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1067.txt", 0.00Kbyte/sec
+Wed Jun  7 20:01:28 2017 [pid 30016] [web] OK UPLOAD: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1067.zip", 8117 bytes, 24.39Kbyte/sec
+Wed Jun  7 20:01:28 2017 [pid 30016] [web] OK DELETE: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1067.txt"
+Wed Jun  7 20:02:39 2017 [pid 30033] CONNECT: Client "89.109.173.49"
+Wed Jun  7 20:02:39 2017 [pid 30032] [web] OK LOGIN: Client "89.109.173.49"
+Wed Jun  7 20:02:40 2017 [pid 30036] [web] OK UPLOAD: Client "89.109.173.49", "/NewKatalog/1012584_0000063_375.txt", 0.00Kbyte/sec
+Wed Jun  7 20:02:40 2017 [pid 30036] [web] OK UPLOAD: Client "89.109.173.49", "/NewKatalog/1012584_0000063_375.zip", 8254 bytes, 26.04Kbyte/sec
+Wed Jun  7 20:02:41 2017 [pid 30036] [web] OK DELETE: Client "89.109.173.49", "/NewKatalog/1012584_0000063_375.txt"
+Wed Jun  7 20:03:52 2017 [pid 30051] CONNECT: Client "159.255.26.127"
+Wed Jun  7 20:03:52 2017 [pid 30050] [web] OK LOGIN: Client "159.255.26.127"
+Wed Jun  7 20:03:53 2017 [pid 30055] [web] OK UPLOAD: Client "159.255.26.127", "/NewKatalog/1012584_0000003_2886.txt", 0.00Kbyte/sec
+Wed Jun  7 20:03:53 2017 [pid 30055] [web] OK UPLOAD: Client "159.255.26.127", "/NewKatalog/1012584_0000003_2886.zip", 17402 bytes, 112.44Kbyte/sec
+Wed Jun  7 20:03:53 2017 [pid 30055] [web] OK DELETE: Client "159.255.26.127", "/NewKatalog/1012584_0000003_2886.txt"
+Wed Jun  7 20:04:40 2017 [pid 30068] CONNECT: Client "85.88.178.70"
+Wed Jun  7 20:04:40 2017 [pid 30067] [web] OK LOGIN: Client "85.88.178.70"
+Wed Jun  7 20:04:41 2017 [pid 30071] [web] OK UPLOAD: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3675.txt", 0.00Kbyte/sec
+Wed Jun  7 20:04:41 2017 [pid 30071] [web] OK UPLOAD: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3675.zip", 13423 bytes, 31.31Kbyte/sec
+Wed Jun  7 20:04:42 2017 [pid 30071] [web] OK DELETE: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3675.txt"
+Wed Jun  7 20:04:58 2017 [pid 30080] CONNECT: Client "85.88.175.46"
+Wed Jun  7 20:04:58 2017 [pid 30079] [web] OK LOGIN: Client "85.88.175.46"
+Wed Jun  7 20:04:58 2017 [pid 30083] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2391.txt", 0.00Kbyte/sec
+Wed Jun  7 20:04:59 2017 [pid 30083] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2391.zip", 8015 bytes, 25.95Kbyte/sec
+Wed Jun  7 20:04:59 2017 [pid 30083] [web] OK DELETE: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2391.txt"
+Wed Jun  7 20:06:09 2017 [pid 30101] CONNECT: Client "89.109.130.176"
+Wed Jun  7 20:06:09 2017 [pid 30100] [web] OK LOGIN: Client "89.109.130.176"
+Wed Jun  7 20:06:09 2017 [pid 30104] [web] OK UPLOAD: Client "89.109.130.176", "/NewKatalog/1012584_0000060_397.txt", 0.00Kbyte/sec
+Wed Jun  7 20:06:09 2017 [pid 30104] [web] OK UPLOAD: Client "89.109.130.176", "/NewKatalog/1012584_0000060_397.zip", 11914 bytes, 61.87Kbyte/sec
+Wed Jun  7 20:06:09 2017 [pid 30104] [web] OK DELETE: Client "89.109.130.176", "/NewKatalog/1012584_0000060_397.txt"
+Wed Jun  7 20:06:21 2017 [pid 30106] CONNECT: Client "79.133.69.144"
+Wed Jun  7 20:06:21 2017 [pid 30105] [web] OK LOGIN: Client "79.133.69.144"
+Wed Jun  7 20:06:23 2017 [pid 30109] [web] OK UPLOAD: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2275.txt", 0.00Kbyte/sec
+Wed Jun  7 20:06:24 2017 [pid 30109] [web] OK UPLOAD: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2275.zip", 9772 bytes, 10.59Kbyte/sec
+Wed Jun  7 20:06:24 2017 [pid 30109] [web] OK DELETE: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2275.txt"
+Wed Jun  7 20:09:02 2017 [pid 30164] CONNECT: Client "217.118.64.39"
+Wed Jun  7 20:09:03 2017 [pid 30163] [web] OK LOGIN: Client "217.118.64.39"
+Wed Jun  7 20:09:06 2017 [pid 30167] [web] OK UPLOAD: Client "217.118.64.39", "/NewKatalog/1012584_0000059_403.txt", 0.00Kbyte/sec
+Wed Jun  7 20:09:11 2017 [pid 30167] [web] OK UPLOAD: Client "217.118.64.39", "/NewKatalog/1012584_0000059_403.zip", 8601 bytes, 2.43Kbyte/sec
+Wed Jun  7 20:09:11 2017 [pid 30167] [web] OK DELETE: Client "217.118.64.39", "/NewKatalog/1012584_0000059_403.txt"
+Wed Jun  7 20:12:43 2017 [pid 30214] CONNECT: Client "91.185.236.185"
+Wed Jun  7 20:12:43 2017 [pid 30213] [web] OK LOGIN: Client "91.185.236.185"
+Wed Jun  7 20:12:44 2017 [pid 30217] [web] OK UPLOAD: Client "91.185.236.185", "/NewKatalog/1012584_0000014_563.txt", 0.00Kbyte/sec
+Wed Jun  7 20:12:44 2017 [pid 30217] [web] OK UPLOAD: Client "91.185.236.185", "/NewKatalog/1012584_0000014_563.zip", 20560 bytes, 47.35Kbyte/sec
+Wed Jun  7 20:12:44 2017 [pid 30217] [web] OK DELETE: Client "91.185.236.185", "/NewKatalog/1012584_0000014_563.txt"
+Wed Jun  7 20:13:05 2017 [pid 30228] CONNECT: Client "62.33.40.7"
+Wed Jun  7 20:13:05 2017 [pid 30227] [web] OK LOGIN: Client "62.33.40.7"
+Wed Jun  7 20:13:05 2017 [pid 30231] [web] OK UPLOAD: Client "62.33.40.7", "/NewKatalog/1012584_0000032_29.txt", 0.00Kbyte/sec
+Wed Jun  7 20:13:06 2017 [pid 30231] [web] OK UPLOAD: Client "62.33.40.7", "/NewKatalog/1012584_0000032_29.zip", 23665 bytes, 89.93Kbyte/sec
+Wed Jun  7 20:13:06 2017 [pid 30231] [web] OK DELETE: Client "62.33.40.7", "/NewKatalog/1012584_0000032_29.txt"
+Wed Jun  7 20:13:20 2017 [pid 30233] CONNECT: Client "46.48.204.169"
+Wed Jun  7 20:13:20 2017 [pid 30232] [web] OK LOGIN: Client "46.48.204.169"
+Wed Jun  7 20:13:20 2017 [pid 30236] [web] OK UPLOAD: Client "46.48.204.169", "/NewKatalog/1012584_0000065_321.txt", 0.00Kbyte/sec
+Wed Jun  7 20:13:21 2017 [pid 30236] [web] OK UPLOAD: Client "46.48.204.169", "/NewKatalog/1012584_0000065_321.zip", 10525 bytes, 30.17Kbyte/sec
+Wed Jun  7 20:13:21 2017 [pid 30236] [web] OK DELETE: Client "46.48.204.169", "/NewKatalog/1012584_0000065_321.txt"
+Wed Jun  7 20:30:37 2017 [pid 30457] CONNECT: Client "79.133.69.209"
+Wed Jun  7 20:30:38 2017 [pid 30456] [web] OK LOGIN: Client "79.133.69.209"
+Wed Jun  7 20:30:39 2017 [pid 30460] [web] OK UPLOAD: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2325.txt", 0.00Kbyte/sec
+Wed Jun  7 20:30:41 2017 [pid 30460] [web] OK UPLOAD: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2325.zip", 24343 bytes, 18.48Kbyte/sec
+Wed Jun  7 20:30:41 2017 [pid 30460] [web] OK DELETE: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2325.txt"
+Wed Jun  7 21:00:23 2017 [pid 30848] CONNECT: Client "79.105.167.36"
+Wed Jun  7 21:00:23 2017 [pid 30847] [web] OK LOGIN: Client "79.105.167.36"
+Wed Jun  7 21:00:24 2017 [pid 30851] [web] OK UPLOAD: Client "79.105.167.36", "/NewKatalog/1012584_0000055_782.txt", 0.00Kbyte/sec
+Wed Jun  7 21:00:24 2017 [pid 30851] [web] OK UPLOAD: Client "79.105.167.36", "/NewKatalog/1012584_0000055_782.zip", 12783 bytes, 80.11Kbyte/sec
+Wed Jun  7 21:00:24 2017 [pid 30851] [web] OK DELETE: Client "79.105.167.36", "/NewKatalog/1012584_0000055_782.txt"
+Wed Jun  7 21:01:42 2017 [pid 30865] CONNECT: Client "85.88.177.102"
+Wed Jun  7 21:01:42 2017 [pid 30864] [web] OK LOGIN: Client "85.88.177.102"
+Wed Jun  7 21:01:42 2017 [pid 30868] [web] OK UPLOAD: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3219.txt", 0.00Kbyte/sec
+Wed Jun  7 21:01:43 2017 [pid 30868] [web] OK UPLOAD: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3219.zip", 15056 bytes, 47.85Kbyte/sec
+Wed Jun  7 21:01:43 2017 [pid 30868] [web] OK DELETE: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3219.txt"
+Wed Jun  7 21:01:43 2017 [pid 30870] CONNECT: Client "85.88.168.210"
+Wed Jun  7 21:01:44 2017 [pid 30869] [web] OK LOGIN: Client "85.88.168.210"
+Wed Jun  7 21:01:44 2017 [pid 30871] [web] OK UPLOAD: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1725.txt", 0.00Kbyte/sec
+Wed Jun  7 21:01:45 2017 [pid 30871] [web] OK UPLOAD: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1725.zip", 14958 bytes, 34.73Kbyte/sec
+Wed Jun  7 21:01:45 2017 [pid 30871] [web] OK DELETE: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1725.txt"
+Wed Jun  7 21:01:56 2017 [pid 30879] CONNECT: Client "85.88.191.122"
+Wed Jun  7 21:01:56 2017 [pid 30876] [web] OK LOGIN: Client "85.88.191.122"
+Wed Jun  7 21:02:00 2017 [pid 30884] CONNECT: Client "85.88.177.62"
+Wed Jun  7 21:02:00 2017 [pid 30883] [web] OK LOGIN: Client "85.88.177.62"
+Wed Jun  7 21:02:00 2017 [pid 30887] [web] OK UPLOAD: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2210.txt", 0.00Kbyte/sec
+Wed Jun  7 21:02:01 2017 [pid 30887] [web] OK UPLOAD: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2210.zip", 11627 bytes, 34.32Kbyte/sec
+Wed Jun  7 21:02:01 2017 [pid 30887] [web] OK DELETE: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2210.txt"
+Wed Jun  7 21:02:09 2017 [pid 30891] CONNECT: Client "85.88.175.34"
+Wed Jun  7 21:02:09 2017 [pid 30890] [web] OK LOGIN: Client "85.88.175.34"
+Wed Jun  7 21:02:10 2017 [pid 30894] [web] OK UPLOAD: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2531.txt", 0.00Kbyte/sec
+Wed Jun  7 21:02:10 2017 [pid 30894] [web] OK UPLOAD: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2531.zip", 10689 bytes, 27.63Kbyte/sec
+Wed Jun  7 21:02:10 2017 [pid 30894] [web] OK DELETE: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2531.txt"
+Wed Jun  7 21:02:46 2017 [pid 30901] CONNECT: Client "79.105.100.245"
+Wed Jun  7 21:02:46 2017 [pid 30900] [web] OK LOGIN: Client "79.105.100.245"
+Wed Jun  7 21:02:47 2017 [pid 30904] [web] OK UPLOAD: Client "79.105.100.245", "/NewKatalog/1012584_0000066_243.txt", 0.00Kbyte/sec
+Wed Jun  7 21:02:47 2017 [pid 30904] [web] OK UPLOAD: Client "79.105.100.245", "/NewKatalog/1012584_0000066_243.zip", 7221 bytes, 51.03Kbyte/sec
+Wed Jun  7 21:02:47 2017 [pid 30904] [web] OK DELETE: Client "79.105.100.245", "/NewKatalog/1012584_0000066_243.txt"
+Wed Jun  7 21:02:56 2017 [pid 30880] [web] FAIL UPLOAD: Client "85.88.191.122", "/NewKatalog/1012584_0000044_1414.txt", 0.00Kbyte/sec
+Wed Jun  7 21:03:08 2017 [pid 30914] CONNECT: Client "85.88.178.58"
+Wed Jun  7 21:03:08 2017 [pid 30913] [web] OK LOGIN: Client "85.88.178.58"
+Wed Jun  7 21:03:09 2017 [pid 30917] [web] OK UPLOAD: Client "85.88.178.58", "/Katalog/1012584_0000030_2711.txt", 0.00Kbyte/sec
+Wed Jun  7 21:03:09 2017 [pid 30917] [web] OK UPLOAD: Client "85.88.178.58", "/Katalog/1012584_0000030_2711.zip", 17331 bytes, 36.31Kbyte/sec
+Wed Jun  7 21:03:10 2017 [pid 30917] [web] OK DELETE: Client "85.88.178.58", "/Katalog/1012584_0000030_2711.txt"
+Wed Jun  7 21:03:28 2017 [pid 30923] CONNECT: Client "85.88.178.198"
+Wed Jun  7 21:03:28 2017 [pid 30922] [web] OK LOGIN: Client "85.88.178.198"
+Wed Jun  7 21:03:28 2017 [pid 30928] CONNECT: Client "159.255.24.81"
+Wed Jun  7 21:03:28 2017 [pid 30926] [web] OK UPLOAD: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1240.txt", 0.00Kbyte/sec
+Wed Jun  7 21:03:29 2017 [pid 30927] [web] OK LOGIN: Client "159.255.24.81"
+Wed Jun  7 21:03:29 2017 [pid 30929] [web] OK UPLOAD: Client "159.255.24.81", "/NewKatalog/1012584_0000026_807.txt", 0.00Kbyte/sec
+Wed Jun  7 21:03:29 2017 [pid 30929] [web] OK UPLOAD: Client "159.255.24.81", "/NewKatalog/1012584_0000026_807.zip", 14178 bytes, 90.13Kbyte/sec
+Wed Jun  7 21:03:29 2017 [pid 30926] [web] OK UPLOAD: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1240.zip", 15844 bytes, 41.31Kbyte/sec
+Wed Jun  7 21:03:29 2017 [pid 30929] [web] OK DELETE: Client "159.255.24.81", "/NewKatalog/1012584_0000026_807.txt"
+Wed Jun  7 21:03:29 2017 [pid 30926] [web] OK DELETE: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1240.txt"
+Wed Jun  7 21:03:30 2017 [pid 30926] [web] OK UPLOAD: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1241.txt", 0.00Kbyte/sec
+Wed Jun  7 21:03:30 2017 [pid 30926] [web] OK UPLOAD: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1241.zip", 16847 bytes, 42.67Kbyte/sec
+Wed Jun  7 21:03:30 2017 [pid 30926] [web] OK DELETE: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1241.txt"
+Wed Jun  7 21:03:53 2017 [pid 30936] CONNECT: Client "85.88.164.198"
+Wed Jun  7 21:03:54 2017 [pid 30935] [web] OK LOGIN: Client "85.88.164.198"
+Wed Jun  7 21:03:54 2017 [pid 30939] [web] OK UPLOAD: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3110.txt", 0.00Kbyte/sec
+Wed Jun  7 21:03:54 2017 [pid 30939] [web] OK UPLOAD: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3110.zip", 10177 bytes, 32.62Kbyte/sec
+Wed Jun  7 21:03:54 2017 [pid 30939] [web] OK DELETE: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3110.txt"
+Wed Jun  7 21:04:02 2017 [pid 30948] CONNECT: Client "213.87.96.49"
+Wed Jun  7 21:04:03 2017 [pid 30946] [web] OK LOGIN: Client "213.87.96.49"
+Wed Jun  7 21:04:04 2017 [pid 30952] CONNECT: Client "79.105.33.226"
+Wed Jun  7 21:04:04 2017 [pid 30951] [web] OK LOGIN: Client "79.105.33.226"
+Wed Jun  7 21:04:04 2017 [pid 30950] [web] OK UPLOAD: Client "213.87.96.49", "/Katalog/1012584_0000056_679.txt", 0.00Kbyte/sec
+Wed Jun  7 21:04:04 2017 [pid 30953] [web] OK UPLOAD: Client "79.105.33.226", "/NewKatalog/1012584_0000017_1332.txt", 0.00Kbyte/sec
+Wed Jun  7 21:04:04 2017 [pid 30953] [web] OK UPLOAD: Client "79.105.33.226", "/NewKatalog/1012584_0000017_1332.zip", 8064 bytes, 53.30Kbyte/sec
+Wed Jun  7 21:04:04 2017 [pid 30953] [web] OK DELETE: Client "79.105.33.226", "/NewKatalog/1012584_0000017_1332.txt"
+Wed Jun  7 21:04:06 2017 [pid 30950] [web] OK UPLOAD: Client "213.87.96.49", "/Katalog/1012584_0000056_679.zip", 15817 bytes, 13.89Kbyte/sec
+Wed Jun  7 21:04:06 2017 [pid 30950] [web] OK DELETE: Client "213.87.96.49", "/Katalog/1012584_0000056_679.txt"
+Wed Jun  7 21:04:08 2017 [pid 30955] CONNECT: Client "46.227.26.129"
+Wed Jun  7 21:04:08 2017 [pid 30954] [web] OK LOGIN: Client "46.227.26.129"
+Wed Jun  7 21:04:09 2017 [pid 30958] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1517.txt", 0.00Kbyte/sec
+Wed Jun  7 21:04:09 2017 [pid 30958] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1517.zip", 9038 bytes, 52.78Kbyte/sec
+Wed Jun  7 21:04:09 2017 [pid 30958] [web] OK DELETE: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1517.txt"
+Wed Jun  7 21:04:17 2017 [pid 30960] CONNECT: Client "85.88.177.70"
+Wed Jun  7 21:04:17 2017 [pid 30959] [web] OK LOGIN: Client "85.88.177.70"
+Wed Jun  7 21:04:17 2017 [pid 30963] [web] OK UPLOAD: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2165.txt", 0.00Kbyte/sec
+Wed Jun  7 21:04:18 2017 [pid 30963] [web] OK UPLOAD: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2165.zip", 6949 bytes, 24.48Kbyte/sec
+Wed Jun  7 21:04:18 2017 [pid 30963] [web] OK DELETE: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2165.txt"
+Wed Jun  7 21:04:35 2017 [pid 30971] CONNECT: Client "85.88.172.122"
+Wed Jun  7 21:04:35 2017 [pid 30970] [web] OK LOGIN: Client "85.88.172.122"
+Wed Jun  7 21:04:36 2017 [pid 30974] [web] OK UPLOAD: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1352.txt", 0.00Kbyte/sec
+Wed Jun  7 21:04:36 2017 [pid 30974] [web] OK UPLOAD: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1352.zip", 13411 bytes, 81.63Kbyte/sec
+Wed Jun  7 21:04:36 2017 [pid 30974] [web] OK DELETE: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1352.txt"
+Wed Jun  7 21:05:19 2017 [pid 30986] CONNECT: Client "159.255.26.222"
+Wed Jun  7 21:05:19 2017 [pid 30984] [web] OK LOGIN: Client "159.255.26.222"
+Wed Jun  7 21:05:20 2017 [pid 30988] [web] OK UPLOAD: Client "159.255.26.222", "/Katalog/1012584_0000004_10607.txt", 0.00Kbyte/sec
+Wed Jun  7 21:05:20 2017 [pid 30988] [web] OK UPLOAD: Client "159.255.26.222", "/Katalog/1012584_0000004_10607.zip", 18803 bytes, 47.71Kbyte/sec
+Wed Jun  7 21:05:20 2017 [pid 30988] [web] OK DELETE: Client "159.255.26.222", "/Katalog/1012584_0000004_10607.txt"
+Wed Jun  7 21:05:21 2017 [pid 30990] CONNECT: Client "176.104.155.205"
+Wed Jun  7 21:05:21 2017 [pid 30989] [web] OK LOGIN: Client "176.104.155.205"
+Wed Jun  7 21:05:21 2017 [pid 30991] [web] OK UPLOAD: Client "176.104.155.205", "/NewKatalog/1012584_0000012_945.txt", 0.00Kbyte/sec
+Wed Jun  7 21:05:21 2017 [pid 30991] [web] OK UPLOAD: Client "176.104.155.205", "/NewKatalog/1012584_0000012_945.zip", 14877 bytes, 54.27Kbyte/sec
+Wed Jun  7 21:05:21 2017 [pid 30991] [web] OK DELETE: Client "176.104.155.205", "/NewKatalog/1012584_0000012_945.txt"
+Wed Jun  7 21:05:41 2017 [pid 31000] CONNECT: Client "85.88.173.26"
+Wed Jun  7 21:05:41 2017 [pid 30999] [web] OK LOGIN: Client "85.88.173.26"
+Wed Jun  7 21:05:41 2017 [pid 31003] [web] OK UPLOAD: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1207.txt", 0.00Kbyte/sec
+Wed Jun  7 21:05:42 2017 [pid 31003] [web] OK UPLOAD: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1207.zip", 13871 bytes, 42.92Kbyte/sec
+Wed Jun  7 21:05:42 2017 [pid 31003] [web] OK DELETE: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1207.txt"
+Wed Jun  7 21:05:47 2017 [pid 31005] CONNECT: Client "159.255.26.236"
+Wed Jun  7 21:05:47 2017 [pid 31004] [web] OK LOGIN: Client "159.255.26.236"
+Wed Jun  7 21:05:48 2017 [pid 31008] [web] OK UPLOAD: Client "159.255.26.236", "/NewKatalog/1012584_0000058_596.txt", 0.00Kbyte/sec
+Wed Jun  7 21:05:48 2017 [pid 31008] [web] OK UPLOAD: Client "159.255.26.236", "/NewKatalog/1012584_0000058_596.zip", 13928 bytes, 86.74Kbyte/sec
+Wed Jun  7 21:05:48 2017 [pid 31008] [web] OK DELETE: Client "159.255.26.236", "/NewKatalog/1012584_0000058_596.txt"
+Wed Jun  7 21:06:12 2017 [pid 31021] CONNECT: Client "83.234.96.217"
+Wed Jun  7 21:06:12 2017 [pid 31019] [web] OK LOGIN: Client "83.234.96.217"
+Wed Jun  7 21:06:13 2017 [pid 31023] [web] OK UPLOAD: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2286.txt", 0.00Kbyte/sec
+Wed Jun  7 21:06:13 2017 [pid 31023] [web] OK UPLOAD: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2286.zip", 10209 bytes, 71.79Kbyte/sec
+Wed Jun  7 21:06:13 2017 [pid 31023] [web] OK DELETE: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2286.txt"
+Wed Jun  7 21:06:15 2017 [pid 31025] CONNECT: Client "176.104.148.136"
+Wed Jun  7 21:06:15 2017 [pid 31024] [web] OK LOGIN: Client "176.104.148.136"
+Wed Jun  7 21:06:31 2017 [pid 31033] CONNECT: Client "85.88.177.66"
+Wed Jun  7 21:06:31 2017 [pid 31031] [web] OK LOGIN: Client "85.88.177.66"
+Wed Jun  7 21:06:31 2017 [pid 31035] [web] OK UPLOAD: Client "85.88.177.66", "/NewKatalog/1012584_0000037_573.txt", 0.00Kbyte/sec
+Wed Jun  7 21:06:32 2017 [pid 31035] [web] OK UPLOAD: Client "85.88.177.66", "/NewKatalog/1012584_0000037_573.zip", 8621 bytes, 70.11Kbyte/sec
+Wed Jun  7 21:06:32 2017 [pid 31035] [web] OK DELETE: Client "85.88.177.66", "/NewKatalog/1012584_0000037_573.txt"
+Wed Jun  7 21:07:25 2017 [pid 31055] CONNECT: Client "85.88.177.86"
+Wed Jun  7 21:07:25 2017 [pid 31053] [web] OK LOGIN: Client "85.88.177.86"
+Wed Jun  7 21:07:26 2017 [pid 31057] [web] OK UPLOAD: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1576.txt", 0.00Kbyte/sec
+Wed Jun  7 21:07:26 2017 [pid 31057] [web] OK UPLOAD: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1576.zip", 9686 bytes, 28.49Kbyte/sec
+Wed Jun  7 21:07:26 2017 [pid 31057] [web] OK DELETE: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1576.txt"
+Wed Jun  7 21:07:42 2017 [pid 31059] CONNECT: Client "79.105.93.253"
+Wed Jun  7 21:07:42 2017 [pid 31058] [web] OK LOGIN: Client "79.105.93.253"
+Wed Jun  7 21:07:42 2017 [pid 31062] [web] OK UPLOAD: Client "79.105.93.253", "/NewKatalog/1012584_0000053_1005.txt", 0.00Kbyte/sec
+Wed Jun  7 21:07:43 2017 [pid 31062] [web] OK UPLOAD: Client "79.105.93.253", "/NewKatalog/1012584_0000053_1005.zip", 10727 bytes, 38.90Kbyte/sec
+Wed Jun  7 21:07:43 2017 [pid 31062] [web] OK DELETE: Client "79.105.93.253", "/NewKatalog/1012584_0000053_1005.txt"
+Wed Jun  7 21:07:53 2017 [pid 31069] CONNECT: Client "85.88.175.42"
+Wed Jun  7 21:07:54 2017 [pid 31068] [web] OK LOGIN: Client "85.88.175.42"
+Wed Jun  7 21:07:54 2017 [pid 31072] [web] OK UPLOAD: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3501.txt", 0.00Kbyte/sec
+Wed Jun  7 21:07:55 2017 [pid 31072] [web] OK UPLOAD: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3501.zip", 11806 bytes, 29.41Kbyte/sec
+Wed Jun  7 21:07:55 2017 [pid 31072] [web] OK DELETE: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3501.txt"
+Wed Jun  7 21:08:50 2017 [pid 31089] CONNECT: Client "85.88.174.106"
+Wed Jun  7 21:08:50 2017 [pid 31088] [web] OK LOGIN: Client "85.88.174.106"
+Wed Jun  7 21:08:51 2017 [pid 31092] [web] OK UPLOAD: Client "85.88.174.106", "/NewKatalog/1012584_0000034_11.txt", 0.00Kbyte/sec
+Wed Jun  7 21:08:51 2017 [pid 31092] [web] OK UPLOAD: Client "85.88.174.106", "/NewKatalog/1012584_0000034_11.zip", 28212 bytes, 119.19Kbyte/sec
+Wed Jun  7 21:08:51 2017 [pid 31092] [web] OK DELETE: Client "85.88.174.106", "/NewKatalog/1012584_0000034_11.txt"
+Wed Jun  7 21:09:06 2017 [pid 31118] CONNECT: Client "85.88.178.50"
+Wed Jun  7 21:09:07 2017 [pid 31117] [web] OK LOGIN: Client "85.88.178.50"
+Wed Jun  7 21:09:07 2017 [pid 31119] [web] OK UPLOAD: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2206.txt", 0.00Kbyte/sec
+Wed Jun  7 21:09:08 2017 [pid 31119] [web] OK UPLOAD: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2206.zip", 15826 bytes, 36.99Kbyte/sec
+Wed Jun  7 21:09:08 2017 [pid 31119] [web] OK DELETE: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2206.txt"
+Wed Jun  7 21:09:41 2017 [pid 31126] CONNECT: Client "79.105.0.229"
+Wed Jun  7 21:09:41 2017 [pid 31123] [web] OK LOGIN: Client "79.105.0.229"
+Wed Jun  7 21:09:41 2017 [pid 31127] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_924.txt", 0.00Kbyte/sec
+Wed Jun  7 21:09:42 2017 [pid 31127] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_924.zip", 12609 bytes, 42.11Kbyte/sec
+Wed Jun  7 21:09:42 2017 [pid 31127] [web] OK DELETE: Client "79.105.0.229", "/NewKatalog/1012584_0000054_924.txt"
+Wed Jun  7 21:09:42 2017 [pid 31127] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_925.txt", 0.00Kbyte/sec
+Wed Jun  7 21:09:43 2017 [pid 31127] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_925.zip", 13141 bytes, 41.01Kbyte/sec
+Wed Jun  7 21:09:43 2017 [pid 31127] [web] OK DELETE: Client "79.105.0.229", "/NewKatalog/1012584_0000054_925.txt"
+Wed Jun  7 21:09:43 2017 [pid 31127] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_926.txt", 0.00Kbyte/sec
+Wed Jun  7 21:09:44 2017 [pid 31127] [web] OK UPLOAD: Client "79.105.0.229", "/NewKatalog/1012584_0000054_926.zip", 16462 bytes, 43.21Kbyte/sec
+Wed Jun  7 21:09:44 2017 [pid 31127] [web] OK DELETE: Client "79.105.0.229", "/NewKatalog/1012584_0000054_926.txt"
+Wed Jun  7 21:10:04 2017 [pid 31137] CONNECT: Client "85.88.178.130"
+Wed Jun  7 21:10:04 2017 [pid 31136] [web] OK LOGIN: Client "85.88.178.130"
+Wed Jun  7 21:10:04 2017 [pid 31140] [web] OK UPLOAD: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2688.txt", 0.00Kbyte/sec
+Wed Jun  7 21:10:04 2017 [pid 31140] [web] OK UPLOAD: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2688.zip", 9464 bytes, 55.88Kbyte/sec
+Wed Jun  7 21:10:05 2017 [pid 31140] [web] OK DELETE: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2688.txt"
+Wed Jun  7 21:13:23 2017 [pid 31199] CONNECT: Client "85.88.177.82"
+Wed Jun  7 21:13:24 2017 [pid 31198] [web] OK LOGIN: Client "85.88.177.82"
+Wed Jun  7 21:13:24 2017 [pid 31202] [web] OK UPLOAD: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2238.txt", 0.00Kbyte/sec
+Wed Jun  7 21:13:25 2017 [pid 31202] [web] OK UPLOAD: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2238.zip", 9850 bytes, 25.72Kbyte/sec
+Wed Jun  7 21:13:25 2017 [pid 31202] [web] OK DELETE: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2238.txt"
+Wed Jun  7 21:13:38 2017 [pid 31204] CONNECT: Client "159.255.24.108"
+Wed Jun  7 21:13:38 2017 [pid 31203] [web] OK LOGIN: Client "159.255.24.108"
+Wed Jun  7 21:13:39 2017 [pid 31207] [web] OK UPLOAD: Client "159.255.24.108", "/Katalog/1012584_0000005_3695.txt", 0.00Kbyte/sec
+Wed Jun  7 21:13:39 2017 [pid 31207] [web] OK UPLOAD: Client "159.255.24.108", "/Katalog/1012584_0000005_3695.zip", 20550 bytes, 100.96Kbyte/sec
+Wed Jun  7 21:13:39 2017 [pid 31207] [web] OK DELETE: Client "159.255.24.108", "/Katalog/1012584_0000005_3695.txt"
+Wed Jun  7 21:15:01 2017 [pid 31234] CONNECT: Client "85.88.176.14"
+Wed Jun  7 21:15:02 2017 [pid 31233] [web] OK LOGIN: Client "85.88.176.14"
+Wed Jun  7 21:15:02 2017 [pid 31237] [web] OK UPLOAD: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1275.txt", 0.00Kbyte/sec
+Wed Jun  7 21:15:03 2017 [pid 31237] [web] OK UPLOAD: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1275.zip", 9579 bytes, 29.59Kbyte/sec
+Wed Jun  7 21:15:03 2017 [pid 31237] [web] OK DELETE: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1275.txt"
+Wed Jun  7 21:23:21 2017 [pid 31345] CONNECT: Client "27.4.156.120"
+Wed Jun  7 21:23:23 2017 [pid 31344] [anonymous] FAIL LOGIN: Client "27.4.156.120"
+Wed Jun  7 21:27:10 2017 [pid 31400] CONNECT: Client "85.88.189.214"
+Wed Jun  7 21:27:10 2017 [pid 31399] [web] OK LOGIN: Client "85.88.189.214"
+Wed Jun  7 21:27:10 2017 [pid 31403] [web] OK UPLOAD: Client "85.88.189.214", "/Katalog/1012584_0000045_1421.txt", 0.00Kbyte/sec
+Wed Jun  7 21:27:11 2017 [pid 31403] [web] OK UPLOAD: Client "85.88.189.214", "/Katalog/1012584_0000045_1421.zip", 10102 bytes, 32.75Kbyte/sec
+Wed Jun  7 21:27:11 2017 [pid 31403] [web] OK DELETE: Client "85.88.189.214", "/Katalog/1012584_0000045_1421.txt"
+Wed Jun  7 22:21:21 2017 [pid 32095] CONNECT: Client "83.14.74.114"
+Wed Jun  7 22:21:23 2017 [pid 32094] [admin] FAIL LOGIN: Client "83.14.74.114"
+Thu Jun  8 03:46:13 2017 [pid 3848] CONNECT: Client "176.101.199.185"
+Thu Jun  8 03:46:15 2017 [pid 3847] [admin] FAIL LOGIN: Client "176.101.199.185"
+Thu Jun  8 09:43:03 2017 [pid 8537] CONNECT: Client "85.88.177.42"
+Thu Jun  8 09:43:03 2017 [pid 8536] [web] OK LOGIN: Client "85.88.177.42"
+Thu Jun  8 09:43:04 2017 [pid 8540] [web] OK UPLOAD: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2874.txt", 0.00Kbyte/sec
+Thu Jun  8 09:43:04 2017 [pid 8540] [web] OK UPLOAD: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2874.zip", 27103 bytes, 54.10Kbyte/sec
+Thu Jun  8 09:43:04 2017 [pid 8540] [web] OK DELETE: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2874.txt"
+Thu Jun  8 10:04:21 2017 [pid 8797] CONNECT: Client "31.211.102.129"
+Thu Jun  8 10:04:23 2017 [pid 8796] [anonymous] FAIL LOGIN: Client "31.211.102.129"
+Thu Jun  8 10:07:51 2017 [pid 8843] CONNECT: Client "196.52.43.56"
+Thu Jun  8 20:01:50 2017 [pid 16432] CONNECT: Client "94.245.184.129"
+Thu Jun  8 20:01:50 2017 [pid 16431] [web] OK LOGIN: Client "94.245.184.129"
+Thu Jun  8 20:01:51 2017 [pid 16435] [web] OK UPLOAD: Client "94.245.184.129", "/NewKatalog/1012584_0000064_324.txt", 0.00Kbyte/sec
+Thu Jun  8 20:01:52 2017 [pid 16435] [web] OK UPLOAD: Client "94.245.184.129", "/NewKatalog/1012584_0000064_324.zip", 14663 bytes, 21.43Kbyte/sec
+Thu Jun  8 20:01:52 2017 [pid 16435] [web] OK DELETE: Client "94.245.184.129", "/NewKatalog/1012584_0000064_324.txt"
+Thu Jun  8 20:02:39 2017 [pid 16448] CONNECT: Client "89.109.173.49"
+Thu Jun  8 20:02:40 2017 [pid 16447] [web] OK LOGIN: Client "89.109.173.49"
+Thu Jun  8 20:02:40 2017 [pid 16451] [web] OK UPLOAD: Client "89.109.173.49", "/NewKatalog/1012584_0000063_376.txt", 0.00Kbyte/sec
+Thu Jun  8 20:02:41 2017 [pid 16451] [web] OK UPLOAD: Client "89.109.173.49", "/NewKatalog/1012584_0000063_376.zip", 6230 bytes, 18.78Kbyte/sec
+Thu Jun  8 20:02:41 2017 [pid 16451] [web] OK DELETE: Client "89.109.173.49", "/NewKatalog/1012584_0000063_376.txt"
+Thu Jun  8 20:02:42 2017 [pid 16453] CONNECT: Client "85.88.165.70"
+Thu Jun  8 20:02:42 2017 [pid 16452] [web] OK LOGIN: Client "85.88.165.70"
+Thu Jun  8 20:02:43 2017 [pid 16454] [web] OK UPLOAD: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1068.txt", 0.00Kbyte/sec
+Thu Jun  8 20:02:43 2017 [pid 16454] [web] OK UPLOAD: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1068.zip", 11892 bytes, 34.64Kbyte/sec
+Thu Jun  8 20:02:43 2017 [pid 16454] [web] OK DELETE: Client "85.88.165.70", "/NewKatalog/1012584_0000038_1068.txt"
+Thu Jun  8 20:03:04 2017 [pid 16461] CONNECT: Client "159.255.27.170"
+Thu Jun  8 20:03:04 2017 [pid 16460] [web] OK LOGIN: Client "159.255.27.170"
+Thu Jun  8 20:03:04 2017 [pid 16464] [web] OK UPLOAD: Client "159.255.27.170", "/NewKatalog/1012584_0000003_2887.txt", 0.00Kbyte/sec
+Thu Jun  8 20:03:05 2017 [pid 16464] [web] OK UPLOAD: Client "159.255.27.170", "/NewKatalog/1012584_0000003_2887.zip", 13339 bytes, 87.27Kbyte/sec
+Thu Jun  8 20:03:05 2017 [pid 16464] [web] OK DELETE: Client "159.255.27.170", "/NewKatalog/1012584_0000003_2887.txt"
+Thu Jun  8 20:04:58 2017 [pid 16488] CONNECT: Client "79.105.9.148"
+Thu Jun  8 20:04:58 2017 [pid 16487] [web] OK LOGIN: Client "79.105.9.148"
+Thu Jun  8 20:04:58 2017 [pid 16491] [web] OK UPLOAD: Client "79.105.9.148", "/NewKatalog/1012584_0000057_708.txt", 0.00Kbyte/sec
+Thu Jun  8 20:04:58 2017 [pid 16491] [web] OK UPLOAD: Client "79.105.9.148", "/NewKatalog/1012584_0000057_708.zip", 3632 bytes, 28.76Kbyte/sec
+Thu Jun  8 20:04:58 2017 [pid 16491] [web] OK DELETE: Client "79.105.9.148", "/NewKatalog/1012584_0000057_708.txt"
+Thu Jun  8 20:05:08 2017 [pid 16500] CONNECT: Client "85.88.178.70"
+Thu Jun  8 20:05:08 2017 [pid 16499] [web] OK LOGIN: Client "85.88.178.70"
+Thu Jun  8 20:05:08 2017 [pid 16503] [web] OK UPLOAD: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3676.txt", 0.00Kbyte/sec
+Thu Jun  8 20:05:09 2017 [pid 16503] [web] OK UPLOAD: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3676.zip", 6281 bytes, 19.26Kbyte/sec
+Thu Jun  8 20:05:09 2017 [pid 16503] [web] OK DELETE: Client "85.88.178.70", "/NewKatalog/1012584_0000010_3676.txt"
+Thu Jun  8 20:06:13 2017 [pid 16520] CONNECT: Client "79.133.69.144"
+Thu Jun  8 20:06:13 2017 [pid 16519] [web] OK LOGIN: Client "79.133.69.144"
+Thu Jun  8 20:06:14 2017 [pid 16523] [web] OK UPLOAD: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2276.txt", 0.00Kbyte/sec
+Thu Jun  8 20:06:16 2017 [pid 16523] [web] OK UPLOAD: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2276.zip", 11584 bytes, 12.35Kbyte/sec
+Thu Jun  8 20:06:16 2017 [pid 16523] [web] OK DELETE: Client "79.133.69.144", "/NewKatalog/1012584_0000016_2276.txt"
+Thu Jun  8 20:07:17 2017 [pid 16539] CONNECT: Client "46.48.195.166"
+Thu Jun  8 20:07:18 2017 [pid 16538] [web] OK LOGIN: Client "46.48.195.166"
+Thu Jun  8 20:07:18 2017 [pid 16542] [web] OK UPLOAD: Client "46.48.195.166", "/NewKatalog/1012584_0000065_322.txt", 0.00Kbyte/sec
+Thu Jun  8 20:07:19 2017 [pid 16542] [web] OK UPLOAD: Client "46.48.195.166", "/NewKatalog/1012584_0000065_322.zip", 11509 bytes, 34.67Kbyte/sec
+Thu Jun  8 20:07:19 2017 [pid 16542] [web] OK DELETE: Client "46.48.195.166", "/NewKatalog/1012584_0000065_322.txt"
+Thu Jun  8 20:07:32 2017 [pid 16549] CONNECT: Client "89.109.130.176"
+Thu Jun  8 20:07:32 2017 [pid 16548] [web] OK LOGIN: Client "89.109.130.176"
+Thu Jun  8 20:07:33 2017 [pid 16552] [web] OK UPLOAD: Client "89.109.130.176", "/NewKatalog/1012584_0000060_398.txt", 0.00Kbyte/sec
+Thu Jun  8 20:07:33 2017 [pid 16552] [web] OK UPLOAD: Client "89.109.130.176", "/NewKatalog/1012584_0000060_398.zip", 8837 bytes, 42.83Kbyte/sec
+Thu Jun  8 20:07:33 2017 [pid 16552] [web] OK DELETE: Client "89.109.130.176", "/NewKatalog/1012584_0000060_398.txt"
+Thu Jun  8 20:08:43 2017 [pid 16569] CONNECT: Client "85.88.175.46"
+Thu Jun  8 20:08:43 2017 [pid 16568] [web] OK LOGIN: Client "85.88.175.46"
+Thu Jun  8 20:08:43 2017 [pid 16572] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2392.txt", 0.00Kbyte/sec
+Thu Jun  8 20:08:44 2017 [pid 16572] [web] OK UPLOAD: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2392.zip", 9230 bytes, 27.41Kbyte/sec
+Thu Jun  8 20:08:44 2017 [pid 16572] [web] OK DELETE: Client "85.88.175.46", "/NewKatalog/1012584_0000008_2392.txt"
+Thu Jun  8 20:08:58 2017 [pid 16577] CONNECT: Client "217.118.64.46"
+Thu Jun  8 20:08:58 2017 [pid 16576] [web] OK LOGIN: Client "217.118.64.46"
+Thu Jun  8 20:09:01 2017 [pid 16580] [web] OK UPLOAD: Client "217.118.64.46", "/NewKatalog/1012584_0000059_404.txt", 0.00Kbyte/sec
+Thu Jun  8 20:09:03 2017 [pid 16580] [web] OK UPLOAD: Client "217.118.64.46", "/NewKatalog/1012584_0000059_404.zip", 4890 bytes, 2.79Kbyte/sec
+Thu Jun  8 20:09:04 2017 [pid 16580] [web] OK DELETE: Client "217.118.64.46", "/NewKatalog/1012584_0000059_404.txt"
+Thu Jun  8 20:10:30 2017 [pid 16619] CONNECT: Client "79.133.69.209"
+Thu Jun  8 20:10:30 2017 [pid 16618] [web] OK LOGIN: Client "79.133.69.209"
+Thu Jun  8 20:10:32 2017 [pid 16625] [web] OK UPLOAD: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2326.txt", 0.00Kbyte/sec
+Thu Jun  8 20:10:34 2017 [pid 16625] [web] OK UPLOAD: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2326.zip", 20421 bytes, 16.03Kbyte/sec
+Thu Jun  8 20:10:34 2017 [pid 16625] [web] OK DELETE: Client "79.133.69.209", "/NewKatalog/1012584_0000015_2326.txt"
+Thu Jun  8 20:13:22 2017 [pid 16662] CONNECT: Client "62.33.40.7"
+Thu Jun  8 20:13:23 2017 [pid 16661] [web] OK LOGIN: Client "62.33.40.7"
+Thu Jun  8 20:13:23 2017 [pid 16665] [web] OK UPLOAD: Client "62.33.40.7", "/NewKatalog/1012584_0000032_30.txt", 0.00Kbyte/sec
+Thu Jun  8 20:13:23 2017 [pid 16665] [web] OK UPLOAD: Client "62.33.40.7", "/NewKatalog/1012584_0000032_30.zip", 19752 bytes, 75.83Kbyte/sec
+Thu Jun  8 20:13:23 2017 [pid 16665] [web] OK DELETE: Client "62.33.40.7", "/NewKatalog/1012584_0000032_30.txt"
+Thu Jun  8 20:20:10 2017 [pid 16761] CONNECT: Client "91.185.236.185"
+Thu Jun  8 20:20:10 2017 [pid 16760] [web] OK LOGIN: Client "91.185.236.185"
+Thu Jun  8 20:20:10 2017 [pid 16764] [web] OK UPLOAD: Client "91.185.236.185", "/NewKatalog/1012584_0000014_564.txt", 0.00Kbyte/sec
+Thu Jun  8 20:20:11 2017 [pid 16764] [web] OK UPLOAD: Client "91.185.236.185", "/NewKatalog/1012584_0000014_564.zip", 26294 bytes, 66.17Kbyte/sec
+Thu Jun  8 20:20:11 2017 [pid 16764] [web] OK DELETE: Client "91.185.236.185", "/NewKatalog/1012584_0000014_564.txt"
+Thu Jun  8 20:56:26 2017 [pid 17228] CONNECT: Client "85.88.168.210"
+Thu Jun  8 20:56:26 2017 [pid 17227] [web] OK LOGIN: Client "85.88.168.210"
+Thu Jun  8 20:56:26 2017 [pid 17231] [web] OK UPLOAD: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1726.txt", 0.00Kbyte/sec
+Thu Jun  8 20:56:27 2017 [pid 17231] [web] OK UPLOAD: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1726.zip", 12273 bytes, 31.10Kbyte/sec
+Thu Jun  8 20:56:27 2017 [pid 17231] [web] OK DELETE: Client "85.88.168.210", "/NewKatalog/1012584_0000042_1726.txt"
+Thu Jun  8 20:58:50 2017 [pid 17262] CONNECT: Client "85.88.164.198"
+Thu Jun  8 20:58:50 2017 [pid 17261] [web] OK LOGIN: Client "85.88.164.198"
+Thu Jun  8 20:58:51 2017 [pid 17265] [web] OK UPLOAD: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3111.txt", 0.00Kbyte/sec
+Thu Jun  8 20:58:51 2017 [pid 17265] [web] OK UPLOAD: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3111.zip", 9814 bytes, 33.15Kbyte/sec
+Thu Jun  8 20:58:51 2017 [pid 17265] [web] OK DELETE: Client "85.88.164.198", "/NewKatalog/1012584_0000018_3111.txt"
+Thu Jun  8 21:01:23 2017 [pid 17303] CONNECT: Client "85.88.191.122"
+Thu Jun  8 21:01:37 2017 [pid 17313] CONNECT: Client "85.88.177.102"
+Thu Jun  8 21:01:37 2017 [pid 17312] [web] OK LOGIN: Client "85.88.177.102"
+Thu Jun  8 21:01:38 2017 [pid 17316] [web] OK UPLOAD: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3220.txt", 0.00Kbyte/sec
+Thu Jun  8 21:01:38 2017 [pid 17316] [web] OK UPLOAD: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3220.zip", 15830 bytes, 49.41Kbyte/sec
+Thu Jun  8 21:01:38 2017 [pid 17316] [web] OK DELETE: Client "85.88.177.102", "/NewKatalog/1012584_0000019_3220.txt"
+Thu Jun  8 21:02:08 2017 [pid 17324] CONNECT: Client "85.88.177.86"
+Thu Jun  8 21:02:08 2017 [pid 17323] [web] OK LOGIN: Client "85.88.177.86"
+Thu Jun  8 21:02:08 2017 [pid 17327] [web] OK UPLOAD: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1577.txt", 0.00Kbyte/sec
+Thu Jun  8 21:02:09 2017 [pid 17327] [web] OK UPLOAD: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1577.zip", 11849 bytes, 34.03Kbyte/sec
+Thu Jun  8 21:02:09 2017 [pid 17327] [web] OK DELETE: Client "85.88.177.86", "/NewKatalog/1012584_0000028_1577.txt"
+Thu Jun  8 21:02:09 2017 [pid 17331] CONNECT: Client "176.104.148.136"
+Thu Jun  8 21:02:09 2017 [pid 17330] [web] OK LOGIN: Client "176.104.148.136"
+Thu Jun  8 21:02:22 2017 [pid 17334] CONNECT: Client "79.105.33.226"
+Thu Jun  8 21:02:22 2017 [pid 17333] [web] OK LOGIN: Client "79.105.33.226"
+Thu Jun  8 21:02:23 2017 [pid 17337] [web] OK UPLOAD: Client "79.105.33.226", "/NewKatalog/1012584_0000017_1333.txt", 0.00Kbyte/sec
+Thu Jun  8 21:02:23 2017 [pid 17337] [web] OK UPLOAD: Client "79.105.33.226", "/NewKatalog/1012584_0000017_1333.zip", 8552 bytes, 55.74Kbyte/sec
+Thu Jun  8 21:02:23 2017 [pid 17337] [web] OK DELETE: Client "79.105.33.226", "/NewKatalog/1012584_0000017_1333.txt"
+Thu Jun  8 21:02:24 2017 [pid 17339] CONNECT: Client "85.88.177.62"
+Thu Jun  8 21:02:24 2017 [pid 17338] [web] OK LOGIN: Client "85.88.177.62"
+Thu Jun  8 21:02:24 2017 [pid 17340] [web] OK UPLOAD: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2211.txt", 0.00Kbyte/sec
+Thu Jun  8 21:02:25 2017 [pid 17340] [web] OK UPLOAD: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2211.zip", 12617 bytes, 36.38Kbyte/sec
+Thu Jun  8 21:02:25 2017 [pid 17340] [web] OK DELETE: Client "85.88.177.62", "/NewKatalog/1012584_0000035_2211.txt"
+Thu Jun  8 21:02:32 2017 [pid 17345] CONNECT: Client "79.105.139.165"
+Thu Jun  8 21:02:32 2017 [pid 17344] [web] OK LOGIN: Client "79.105.139.165"
+Thu Jun  8 21:02:33 2017 [pid 17348] [web] OK UPLOAD: Client "79.105.139.165", "/NewKatalog/1012584_0000066_244.txt", 0.00Kbyte/sec
+Thu Jun  8 21:02:33 2017 [pid 17348] [web] OK UPLOAD: Client "79.105.139.165", "/NewKatalog/1012584_0000066_244.zip", 4361 bytes, 33.14Kbyte/sec
+Thu Jun  8 21:02:33 2017 [pid 17348] [web] OK DELETE: Client "79.105.139.165", "/NewKatalog/1012584_0000066_244.txt"
+Thu Jun  8 21:02:56 2017 [pid 17350] CONNECT: Client "79.105.93.253"
+Thu Jun  8 21:02:56 2017 [pid 17349] [web] OK LOGIN: Client "79.105.93.253"
+Thu Jun  8 21:02:56 2017 [pid 17353] [web] OK UPLOAD: Client "79.105.93.253", "/NewKatalog/1012584_0000053_1006.txt", 0.00Kbyte/sec
+Thu Jun  8 21:02:57 2017 [pid 17353] [web] OK UPLOAD: Client "79.105.93.253", "/NewKatalog/1012584_0000053_1006.zip", 8690 bytes, 30.99Kbyte/sec
+Thu Jun  8 21:02:57 2017 [pid 17353] [web] OK DELETE: Client "79.105.93.253", "/NewKatalog/1012584_0000053_1006.txt"
+Thu Jun  8 21:03:28 2017 [pid 17364] CONNECT: Client "79.105.38.22"
+Thu Jun  8 21:03:28 2017 [pid 17363] [web] OK LOGIN: Client "79.105.38.22"
+Thu Jun  8 21:03:29 2017 [pid 17367] [web] OK UPLOAD: Client "79.105.38.22", "/NewKatalog/1012584_0000055_783.txt", 0.00Kbyte/sec
+Thu Jun  8 21:03:29 2017 [pid 17367] [web] OK UPLOAD: Client "79.105.38.22", "/NewKatalog/1012584_0000055_783.zip", 11115 bytes, 66.63Kbyte/sec
+Thu Jun  8 21:03:29 2017 [pid 17367] [web] OK DELETE: Client "79.105.38.22", "/NewKatalog/1012584_0000055_783.txt"
+Thu Jun  8 21:04:00 2017 [pid 17373] CONNECT: Client "79.105.144.74"
+Thu Jun  8 21:04:00 2017 [pid 17372] [web] OK LOGIN: Client "79.105.144.74"
+Thu Jun  8 21:04:04 2017 [pid 17382] CONNECT: Client "176.104.155.205"
+Thu Jun  8 21:04:04 2017 [pid 17381] [web] OK LOGIN: Client "176.104.155.205"
+Thu Jun  8 21:04:04 2017 [pid 17385] [web] OK UPLOAD: Client "176.104.155.205", "/NewKatalog/1012584_0000012_946.txt", 0.00Kbyte/sec
+Thu Jun  8 21:04:05 2017 [pid 17385] [web] OK UPLOAD: Client "176.104.155.205", "/NewKatalog/1012584_0000012_946.zip", 12584 bytes, 49.43Kbyte/sec
+Thu Jun  8 21:04:05 2017 [pid 17385] [web] OK DELETE: Client "176.104.155.205", "/NewKatalog/1012584_0000012_946.txt"
+Thu Jun  8 21:04:15 2017 [pid 17391] CONNECT: Client "85.88.177.82"
+Thu Jun  8 21:04:16 2017 [pid 17390] [web] OK LOGIN: Client "85.88.177.82"
+Thu Jun  8 21:04:16 2017 [pid 17394] [web] OK UPLOAD: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2239.txt", 0.00Kbyte/sec
+Thu Jun  8 21:04:17 2017 [pid 17394] [web] OK UPLOAD: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2239.zip", 9991 bytes, 24.65Kbyte/sec
+Thu Jun  8 21:04:17 2017 [pid 17394] [web] OK DELETE: Client "85.88.177.82", "/NewKatalog/1012584_0000023_2239.txt"
+Thu Jun  8 21:04:45 2017 [pid 17399] CONNECT: Client "85.88.173.26"
+Thu Jun  8 21:04:45 2017 [pid 17398] [web] OK LOGIN: Client "85.88.173.26"
+Thu Jun  8 21:04:46 2017 [pid 17402] [web] OK UPLOAD: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1208.txt", 0.00Kbyte/sec
+Thu Jun  8 21:04:46 2017 [pid 17402] [web] OK UPLOAD: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1208.zip", 14111 bytes, 43.09Kbyte/sec
+Thu Jun  8 21:04:46 2017 [pid 17402] [web] OK DELETE: Client "85.88.173.26", "/NewKatalog/1012584_0000011_1208.txt"
+Thu Jun  8 21:04:55 2017 [pid 17404] CONNECT: Client "85.88.177.70"
+Thu Jun  8 21:04:55 2017 [pid 17403] [web] OK LOGIN: Client "85.88.177.70"
+Thu Jun  8 21:04:56 2017 [pid 17407] [web] OK UPLOAD: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2166.txt", 0.00Kbyte/sec
+Thu Jun  8 21:04:56 2017 [pid 17407] [web] OK UPLOAD: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2166.zip", 9424 bytes, 28.58Kbyte/sec
+Thu Jun  8 21:04:56 2017 [pid 17407] [web] OK DELETE: Client "85.88.177.70", "/NewKatalog/1012584_0000036_2166.txt"
+Thu Jun  8 21:04:58 2017 [pid 17409] CONNECT: Client "159.255.25.202"
+Thu Jun  8 21:04:58 2017 [pid 17408] [web] OK LOGIN: Client "159.255.25.202"
+Thu Jun  8 21:04:59 2017 [pid 17410] [web] OK UPLOAD: Client "159.255.25.202", "/NewKatalog/1012584_0000026_808.txt", 0.00Kbyte/sec
+Thu Jun  8 21:04:59 2017 [pid 17410] [web] OK UPLOAD: Client "159.255.25.202", "/NewKatalog/1012584_0000026_808.zip", 13201 bytes, 84.09Kbyte/sec
+Thu Jun  8 21:04:59 2017 [pid 17410] [web] OK DELETE: Client "159.255.25.202", "/NewKatalog/1012584_0000026_808.txt"
+Thu Jun  8 21:05:02 2017 [pid 17415] CONNECT: Client "83.234.96.217"
+Thu Jun  8 21:05:04 2017 [pid 17414] [web] OK LOGIN: Client "83.234.96.217"
+Thu Jun  8 21:05:10 2017 [pid 17418] [web] OK UPLOAD: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2287.txt", 0.00Kbyte/sec
+Thu Jun  8 21:05:12 2017 [pid 17418] [web] OK UPLOAD: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2287.zip", 9935 bytes, 7.42Kbyte/sec
+Thu Jun  8 21:05:12 2017 [pid 17418] [web] OK DELETE: Client "83.234.96.217", "/NewKatalog/1012584_0000046_2287.txt"
+Thu Jun  8 21:05:58 2017 [pid 17429] CONNECT: Client "85.88.178.50"
+Thu Jun  8 21:05:58 2017 [pid 17427] [web] OK LOGIN: Client "85.88.178.50"
+Thu Jun  8 21:05:58 2017 [pid 17431] [web] OK UPLOAD: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2207.txt", 0.00Kbyte/sec
+Thu Jun  8 21:05:59 2017 [pid 17431] [web] OK UPLOAD: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2207.zip", 15137 bytes, 36.64Kbyte/sec
+Thu Jun  8 21:05:59 2017 [pid 17431] [web] OK DELETE: Client "85.88.178.50", "/NewKatalog/1012584_0000002_2207.txt"
+Thu Jun  8 21:06:23 2017 [pid 17443] CONNECT: Client "159.255.25.143"
+Thu Jun  8 21:06:23 2017 [pid 17442] [web] OK LOGIN: Client "159.255.25.143"
+Thu Jun  8 21:06:23 2017 [pid 17446] [web] OK UPLOAD: Client "159.255.25.143", "/Katalog/1012584_0000004_10608.txt", 0.00Kbyte/sec
+Thu Jun  8 21:06:24 2017 [pid 17446] [web] OK UPLOAD: Client "159.255.25.143", "/Katalog/1012584_0000004_10608.zip", 19512 bytes, 46.88Kbyte/sec
+Thu Jun  8 21:06:24 2017 [pid 17446] [web] OK DELETE: Client "159.255.25.143", "/Katalog/1012584_0000004_10608.txt"
+Thu Jun  8 21:06:57 2017 [pid 17455] CONNECT: Client "85.88.178.198"
+Thu Jun  8 21:06:57 2017 [pid 17453] [web] OK LOGIN: Client "85.88.178.198"
+Thu Jun  8 21:06:58 2017 [pid 17457] [web] OK UPLOAD: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1242.txt", 0.00Kbyte/sec
+Thu Jun  8 21:06:58 2017 [pid 17459] CONNECT: Client "46.227.26.129"
+Thu Jun  8 21:06:58 2017 [pid 17457] [web] OK UPLOAD: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1242.zip", 15833 bytes, 41.21Kbyte/sec
+Thu Jun  8 21:06:58 2017 [pid 17457] [web] OK DELETE: Client "85.88.178.198", "/NewKatalog/1012584_0000001_1242.txt"
+Thu Jun  8 21:06:58 2017 [pid 17458] [web] OK LOGIN: Client "46.227.26.129"
+Thu Jun  8 21:06:59 2017 [pid 17460] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1518.txt", 0.00Kbyte/sec
+Thu Jun  8 21:06:59 2017 [pid 17460] [web] OK UPLOAD: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1518.zip", 10166 bytes, 64.58Kbyte/sec
+Thu Jun  8 21:06:59 2017 [pid 17460] [web] OK DELETE: Client "46.227.26.129", "/NewKatalog/1012584_0000043_1518.txt"
+Thu Jun  8 21:07:04 2017 [pid 17468] CONNECT: Client "85.88.175.42"
+Thu Jun  8 21:07:04 2017 [pid 17467] [web] OK LOGIN: Client "85.88.175.42"
+Thu Jun  8 21:07:05 2017 [pid 17469] [web] OK UPLOAD: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3502.txt", 0.00Kbyte/sec
+Thu Jun  8 21:07:05 2017 [pid 17469] [web] OK UPLOAD: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3502.zip", 10212 bytes, 27.83Kbyte/sec
+Thu Jun  8 21:07:05 2017 [pid 17469] [web] OK DELETE: Client "85.88.175.42", "/NewKatalog/1012584_0000013_3502.txt"
+Thu Jun  8 21:07:14 2017 [pid 17477] CONNECT: Client "85.88.178.58"
+Thu Jun  8 21:07:14 2017 [pid 17476] [web] OK LOGIN: Client "85.88.178.58"
+Thu Jun  8 21:07:15 2017 [pid 17480] [web] OK UPLOAD: Client "85.88.178.58", "/Katalog/1012584_0000030_2712.txt", 0.00Kbyte/sec
+Thu Jun  8 21:07:15 2017 [pid 17480] [web] OK UPLOAD: Client "85.88.178.58", "/Katalog/1012584_0000030_2712.zip", 18266 bytes, 37.54Kbyte/sec
+Thu Jun  8 21:07:15 2017 [pid 17480] [web] OK DELETE: Client "85.88.178.58", "/Katalog/1012584_0000030_2712.txt"
+Thu Jun  8 21:07:27 2017 [pid 17484] CONNECT: Client "85.88.176.14"
+Thu Jun  8 21:07:27 2017 [pid 17483] [web] OK LOGIN: Client "85.88.176.14"
+Thu Jun  8 21:07:28 2017 [pid 17485] [web] OK UPLOAD: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1276.txt", 0.00Kbyte/sec
+Thu Jun  8 21:07:28 2017 [pid 17485] [web] OK UPLOAD: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1276.zip", 12119 bytes, 33.52Kbyte/sec
+Thu Jun  8 21:07:28 2017 [pid 17485] [web] OK DELETE: Client "85.88.176.14", "/NewKatalog/1012584_0000006_1276.txt"
+Thu Jun  8 21:08:05 2017 [pid 17502] CONNECT: Client "213.87.96.49"
+Thu Jun  8 21:08:06 2017 [pid 17501] [web] OK LOGIN: Client "213.87.96.49"
+Thu Jun  8 21:08:07 2017 [pid 17505] [web] OK UPLOAD: Client "213.87.96.49", "/Katalog/1012584_0000056_680.txt", 0.00Kbyte/sec
+Thu Jun  8 21:08:09 2017 [pid 17505] [web] OK UPLOAD: Client "213.87.96.49", "/Katalog/1012584_0000056_680.zip", 15592 bytes, 13.73Kbyte/sec
+Thu Jun  8 21:08:09 2017 [pid 17505] [web] OK DELETE: Client "213.87.96.49", "/Katalog/1012584_0000056_680.txt"
+Thu Jun  8 21:08:13 2017 [pid 17509] CONNECT: Client "85.88.189.214"
+Thu Jun  8 21:08:13 2017 [pid 17508] [web] OK LOGIN: Client "85.88.189.214"
+Thu Jun  8 21:08:13 2017 [pid 17512] [web] OK UPLOAD: Client "85.88.189.214", "/Katalog/1012584_0000045_1422.txt", 0.00Kbyte/sec
+Thu Jun  8 21:08:14 2017 [pid 17512] [web] OK UPLOAD: Client "85.88.189.214", "/Katalog/1012584_0000045_1422.zip", 5501 bytes, 21.99Kbyte/sec
+Thu Jun  8 21:08:14 2017 [pid 17512] [web] OK DELETE: Client "85.88.189.214", "/Katalog/1012584_0000045_1422.txt"
+Thu Jun  8 21:08:45 2017 [pid 17519] CONNECT: Client "188.168.142.112"
+Thu Jun  8 21:08:45 2017 [pid 17518] [web] OK LOGIN: Client "188.168.142.112"
+Thu Jun  8 21:08:45 2017 [pid 17522] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2150.txt", 0.00Kbyte/sec
+Thu Jun  8 21:08:46 2017 [pid 17522] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2150.zip", 28386 bytes, 42.80Kbyte/sec
+Thu Jun  8 21:08:46 2017 [pid 17522] [web] OK DELETE: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2150.txt"
+Thu Jun  8 21:08:47 2017 [pid 17522] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2151.txt", 0.00Kbyte/sec
+Thu Jun  8 21:08:48 2017 [pid 17522] [web] OK UPLOAD: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2151.zip", 33582 bytes, 46.44Kbyte/sec
+Thu Jun  8 21:08:48 2017 [pid 17522] [web] OK DELETE: Client "188.168.142.112", "/NewKatalog/1012584_0000039_2151.txt"
+Thu Jun  8 21:08:50 2017 [pid 17524] CONNECT: Client "85.88.177.66"
+Thu Jun  8 21:08:50 2017 [pid 17523] [web] OK LOGIN: Client "85.88.177.66"
+Thu Jun  8 21:08:50 2017 [pid 17527] [web] OK UPLOAD: Client "85.88.177.66", "/NewKatalog/1012584_0000037_574.txt", 0.00Kbyte/sec
+Thu Jun  8 21:08:51 2017 [pid 17527] [web] OK UPLOAD: Client "85.88.177.66", "/NewKatalog/1012584_0000037_574.zip", 9335 bytes, 61.02Kbyte/sec
+Thu Jun  8 21:08:51 2017 [pid 17527] [web] OK DELETE: Client "85.88.177.66", "/NewKatalog/1012584_0000037_574.txt"
+Thu Jun  8 21:09:01 2017 [pid 17544] CONNECT: Client "85.88.180.254"
+Thu Jun  8 21:09:01 2017 [pid 17543] [web] OK LOGIN: Client "85.88.180.254"
+Thu Jun  8 21:09:01 2017 [pid 17546] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2761.txt", 0.00Kbyte/sec
+Thu Jun  8 21:09:02 2017 [pid 17546] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2761.zip", 13274 bytes, 83.53Kbyte/sec
+Thu Jun  8 21:09:02 2017 [pid 17546] [web] OK DELETE: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2761.txt"
+Thu Jun  8 21:09:02 2017 [pid 17546] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2762.txt", 0.00Kbyte/sec
+Thu Jun  8 21:09:02 2017 [pid 17546] [web] OK UPLOAD: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2762.zip", 13373 bytes, 82.82Kbyte/sec
+Thu Jun  8 21:09:02 2017 [pid 17546] [web] OK DELETE: Client "85.88.180.254", "/NewKatalog/1012584_0000024_2762.txt"
+Thu Jun  8 21:09:13 2017 [pid 17557] CONNECT: Client "85.88.175.34"
+Thu Jun  8 21:09:13 2017 [pid 17556] [web] OK LOGIN: Client "85.88.175.34"
+Thu Jun  8 21:09:14 2017 [pid 17560] [web] OK UPLOAD: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2532.txt", 0.00Kbyte/sec
+Thu Jun  8 21:09:14 2017 [pid 17560] [web] OK UPLOAD: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2532.zip", 16137 bytes, 35.80Kbyte/sec
+Thu Jun  8 21:09:14 2017 [pid 17560] [web] OK DELETE: Client "85.88.175.34", "/NewKatalog/1012584_0000029_2532.txt"
+Thu Jun  8 21:09:25 2017 [pid 17562] CONNECT: Client "159.255.26.206"
+Thu Jun  8 21:09:26 2017 [pid 17561] [web] OK LOGIN: Client "159.255.26.206"
+Thu Jun  8 21:09:26 2017 [pid 17565] [web] OK UPLOAD: Client "159.255.26.206", "/NewKatalog/1012584_0000058_597.txt", 0.00Kbyte/sec
+Thu Jun  8 21:09:26 2017 [pid 17565] [web] OK UPLOAD: Client "159.255.26.206", "/NewKatalog/1012584_0000058_597.zip", 12101 bytes, 78.05Kbyte/sec
+Thu Jun  8 21:09:26 2017 [pid 17565] [web] OK DELETE: Client "159.255.26.206", "/NewKatalog/1012584_0000058_597.txt"
+Thu Jun  8 21:09:58 2017 [pid 17573] CONNECT: Client "85.88.177.42"
+Thu Jun  8 21:09:58 2017 [pid 17572] [web] OK LOGIN: Client "85.88.177.42"
+Thu Jun  8 21:09:58 2017 [pid 17576] [web] OK UPLOAD: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2875.txt", 0.00Kbyte/sec
+Thu Jun  8 21:09:59 2017 [pid 17576] [web] OK UPLOAD: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2875.zip", 22248 bytes, 49.37Kbyte/sec
+Thu Jun  8 21:09:59 2017 [pid 17576] [web] OK DELETE: Client "85.88.177.42", "/NewKatalog/1012584_0000020_2875.txt"
+Thu Jun  8 21:11:27 2017 [pid 17604] CONNECT: Client "85.88.174.106"
+Thu Jun  8 21:11:27 2017 [pid 17603] [web] OK LOGIN: Client "85.88.174.106"
+Thu Jun  8 21:11:28 2017 [pid 17607] [web] OK UPLOAD: Client "85.88.174.106", "/NewKatalog/1012584_0000034_12.txt", 0.00Kbyte/sec
+Thu Jun  8 21:11:28 2017 [pid 17607] [web] OK UPLOAD: Client "85.88.174.106", "/NewKatalog/1012584_0000034_12.zip", 27372 bytes, 112.60Kbyte/sec
+Thu Jun  8 21:11:28 2017 [pid 17607] [web] OK DELETE: Client "85.88.174.106", "/NewKatalog/1012584_0000034_12.txt"
+Thu Jun  8 21:12:33 2017 [pid 17630] CONNECT: Client "85.88.172.122"
+Thu Jun  8 21:12:33 2017 [pid 17629] [web] OK LOGIN: Client "85.88.172.122"
+Thu Jun  8 21:12:34 2017 [pid 17633] [web] OK UPLOAD: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1353.txt", 0.00Kbyte/sec
+Thu Jun  8 21:12:34 2017 [pid 17633] [web] OK UPLOAD: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1353.zip", 11887 bytes, 67.06Kbyte/sec
+Thu Jun  8 21:12:34 2017 [pid 17633] [web] OK DELETE: Client "85.88.172.122", "/NewKatalog/1012584_0000048_1353.txt"
+Thu Jun  8 21:12:38 2017 [pid 17635] CONNECT: Client "159.255.27.50"
+Thu Jun  8 21:12:39 2017 [pid 17634] [web] OK LOGIN: Client "159.255.27.50"
+Thu Jun  8 21:12:39 2017 [pid 17638] [web] OK UPLOAD: Client "159.255.27.50", "/Katalog/1012584_0000005_3696.txt", 0.00Kbyte/sec
+Thu Jun  8 21:12:39 2017 [pid 17638] [web] OK UPLOAD: Client "159.255.27.50", "/Katalog/1012584_0000005_3696.zip", 15648 bytes, 66.11Kbyte/sec
+Thu Jun  8 21:12:39 2017 [pid 17638] [web] OK DELETE: Client "159.255.27.50", "/Katalog/1012584_0000005_3696.txt"
+Thu Jun  8 21:13:50 2017 [pid 17659] CONNECT: Client "37.29.88.188"
+Thu Jun  8 21:13:51 2017 [pid 17658] [web] OK LOGIN: Client "37.29.88.188"
+Thu Jun  8 21:13:51 2017 [pid 17660] [web] OK UPLOAD: Client "37.29.88.188", "/NewKatalog/1012584_0000049_1320.txt", 0.00Kbyte/sec
+Thu Jun  8 21:13:54 2017 [pid 17660] [web] OK UPLOAD: Client "37.29.88.188", "/NewKatalog/1012584_0000049_1320.zip", 11177 bytes, 5.79Kbyte/sec
+Thu Jun  8 21:13:54 2017 [pid 17660] [web] OK DELETE: Client "37.29.88.188", "/NewKatalog/1012584_0000049_1320.txt"
+Thu Jun  8 21:14:42 2017 [pid 17679] CONNECT: Client "85.88.178.130"
+Thu Jun  8 21:14:42 2017 [pid 17678] [web] OK LOGIN: Client "85.88.178.130"
+Thu Jun  8 21:14:42 2017 [pid 17682] [web] OK UPLOAD: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2689.txt", 0.00Kbyte/sec
+Thu Jun  8 21:14:42 2017 [pid 17682] [web] OK UPLOAD: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2689.zip", 10765 bytes, 62.88Kbyte/sec
+Thu Jun  8 21:14:42 2017 [pid 17682] [web] OK DELETE: Client "85.88.178.130", "/NewKatalog/1012584_0000025_2689.txt"
+Thu Jun  8 21:42:10 2017 [pid 18053] CONNECT: Client "196.52.43.57"
+Fri Jun  9 00:06:21 2017 [pid 19890] CONNECT: Client "182.19.42.179"
+Fri Jun  9 00:06:25 2017 [pid 19889] [ftp] FAIL LOGIN: Client "182.19.42.179"
+Fri Jun  9 10:22:34 2017 [pid 28063] CONNECT: Client "192.168.6.15"
+Fri Jun  9 10:22:39 2017 [pid 28062] [1] FAIL LOGIN: Client "192.168.6.15"
+Fri Jun  9 15:07:21 2017 [pid 31632] CONNECT: Client "60.191.38.78"
